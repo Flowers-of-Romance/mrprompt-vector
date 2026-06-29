@@ -1,0 +1,76 @@
+{
+  "levels": [
+    {
+      "label": "base",
+      "v": 7.23
+    },
+    {
+      "label": "allctx(mrprompt)",
+      "v": 7.43
+    },
+    {
+      "label": "oracle",
+      "v": 7.88
+    },
+    {
+      "label": "extcue(cue_only_top1)",
+      "v": 7.67
+    },
+    {
+      "label": "extcue_wrongkey",
+      "v": 7.44
+    },
+    {
+      "label": "extcue_body_top1",
+      "v": 7.46
+    },
+    {
+      "label": "extcue_cuesitu_top3",
+      "v": 7.5
+    }
+  ],
+  "causality": [
+    {
+      "label": "in-context: mrprompt − wrongkey",
+      "d": 0.03,
+      "sem": 0.145,
+      "g": "i"
+    },
+    {
+      "label": "external: extcue − wrongkey",
+      "d": 0.23,
+      "sem": 0.137,
+      "g": "e"
+    }
+  ],
+  "routing": {
+    "chance1": 0.139,
+    "chance3": 0.418,
+    "recall@1": {
+      "cue_only_real": 0.3,
+      "cue_only_wrong": 0.18,
+      "cue_situ_real": 0.33,
+      "cue_situ_wrong": 0.22,
+      "body_real": 0.35,
+      "body_wrong": 0.16
+    },
+    "recall@3": {
+      "cue_only_real": 0.65,
+      "cue_only_wrong": 0.63,
+      "cue_situ_real": 0.7,
+      "cue_situ_wrong": 0.53,
+      "body_real": 0.67,
+      "body_wrong": 0.47
+    }
+  },
+  "by_hit": {
+    "body_top1_hit_mean": 7.743,
+    "n_hit": 35,
+    "body_top1_miss_mean": 7.308,
+    "n_miss": 65,
+    "top3_hit_mean": 7.614,
+    "n_top3_hit": 70,
+    "top3_miss_mean": 7.233,
+    "n_top3_miss": 30
+  }
+}

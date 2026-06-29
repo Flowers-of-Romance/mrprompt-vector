@@ -1,0 +1,10 @@
+{
+  "n": 100,
+  "chance": 0.13928571428571426,
+  "acc": {
+    "cue_only_real": 0.3,
+    "cue_only_wrong": 0.18,
+    "cue_situ_real": 0.33,
+    "cue_situ_wrong": 0.22
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "n": 100,
+  "chance": 0.13928571428571426,
+  "gen_setting": {
+    "query": "full_stm",
+    "key": "cue_only"
+  },
+  "acc": {
+    "full_stm|cue_only|real": 0.3,
+    "full_stm|cue_only|wrong": 0.18,
+    "full_stm|cue_situ|real": 0.33,
+    "full_stm|cue_situ|wrong": 0.22,
+    "last1|cue_only|real": 0.26,
+    "last1|cue_only|wrong": 0.15,
+    "last1|cue_situ|real": 0.22,
+    "last1|cue_situ|wrong": 0.18,
+    "last2|cue_only|real": 0.28,
+    "last2|cue_only|wrong": 0.16,
+    "last2|cue_situ|real": 0.27,
+    "last2|cue_situ|wrong": 0.19
+  }
+}
