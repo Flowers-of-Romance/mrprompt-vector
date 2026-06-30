@@ -2,7 +2,7 @@
 
 ## 出発点
 
-先の検証（[mrprompt-repro](https://github.com/Flowers-of-Romance/mrprompt-repro)）で、MRPrompt の「cue-addressable な facet 想起」は in-context では支持されないと示した。手がかりキー（cue_phrases）を消しても壊しても出力は動かず、注意は本体に集まりキーには向かなかった。理由は単純で、facet 本体がプロンプトに全部入っているため、モデルは本体の内容で必要な facet を選べてしまい、短いキーは迂回されるからである。アドレスが意味を持つのは、指す先が他の経路で得られないときに限る。
+先の検証（[mrprompt-repro](https://flowers-of-romance.github.io/poptones/posts/mrprompt-repro/)）で、MRPrompt の「cue-addressable な facet 想起」は in-context では支持されないと示した。手がかりキー（cue_phrases）を消しても壊しても出力は動かず、注意は本体に集まりキーには向かなかった。理由は単純で、facet 本体がプロンプトに全部入っているため、モデルは本体の内容で必要な facet を選べてしまい、短いキーは迂回されるからである。アドレスが意味を持つのは、指す先が他の経路で得られないときに限る。
 
 上記が正しいならば、facet 本体をプロンプトから外し、cue を唯一の取り出し経路に置けば、cue に照合する facet が想起される筈である。facet を外部メモリにキー付きで格納し、対話とキーの照合で一致した本体だけを注入する。いわゆる retrieval（RAG）の構成にする。本稿はこれを mrprompt-repro と同一の100インスタンス・同一の Qwen3-8B・同一の採点で実装し、二つを測る。
 
