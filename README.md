@@ -59,4 +59,4 @@ $PY code/extcue_analyze.py          # final numbers + chart data
 
 ## Results
 
-See `article/` (JA/EN). Headline numbers in `extcue_results.json`.
+Full writeup on the blog: [JA](https://flowers-of-romance.github.io/poptones/posts/mrprompt-vector/) / [EN](https://flowers-of-romance.github.io/poptones/posts/en/mrprompt-vector/). Headline numbers in `extcue_results.json`.
