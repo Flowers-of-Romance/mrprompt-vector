@@ -77,13 +77,63 @@ On a hit it lands near oracle (7.6–7.7), on a miss near base (7.2–7.3). The 
 
 Finally, the causality of the cue at the adherence level. Comparing cue_only top-1 with its wrongkey: extcue − wrongkey = +0.23 ±0.14, against in-context's mrprompt − wrongkey = +0.03 (null), with real(0.30) > wrong(0.18) at the routing level too. Weak, but external, the right key pulls the right body.
 
+## Result 4: how far does the final task move once routing accuracy is raised?
+
+Result 3 located the bottleneck at routing accuracy. So how far does adherence move once a means of raising it is added? We test two. One swaps the embedding retriever to span a range of top-1 accuracy (R@1). The other is an LLM router that reads the facet bodies and selects. For the first we do not re-measure generation/scoring per method; we convert R@1 to adherence via body_top1's measured hit/miss means (7.74 / 7.31) — a projection. The second is the decision point, so we actually inject the selected facet into Qwen3-8B, generate and score it — measured. The measured anchors are oracle (true facet injected directly) = 7.88 and all-facets = 7.43.
+
+### The span of embedding retrievers (projection from R@1)
+
+Eleven embedding-based methods on the same 100 instances: random, bm25 (jieba), bge-m3 dense (keys cue / cue_situ / body), a colbert approximation over bge-m3 (token-level max-sim), hybrid RRF (bm25 + bge-m3 body), bge-large-zh-v1.5 (Chinese-specialized, body key), difference-vector (a facet's body minus the mean of the same character's other facet bodies), bge-reranker-v2-m3 (cross-encoder), and mean-pooled last hidden states of Qwen3-8B (body key).
+
+| method | R@1 | R@3 | projected adherence |
+|---|---|---|---|
+| bge-large-zh body | 0.40 | 0.66 | 7.48 |
+| difference-vector | 0.38 | 0.66 | 7.47 |
+| bge-m3 colbert-approx | 0.38 | 0.71 | 7.47 |
+| bge-m3 dense body | 0.35 | 0.67 | 7.46 |
+| bge-m3 dense cue_situ | 0.33 | 0.70 | 7.45 |
+| bge-m3 dense cue | 0.30 | 0.65 | 7.44 |
+| hybrid RRF(bm25+dense) | 0.28 | 0.65 | 7.43 |
+| bge-reranker-v2-m3 | 0.27 | 0.59 | 7.43 |
+| qwen3-8b hidden body | 0.27 | 0.63 | 7.43 |
+| bm25 (jieba) | 0.19 | 0.45 | 7.39 |
+| random | 0.14 | 0.42 | 7.37 |
+
+R@1 falls in 0.19–0.40, concentrated in 0.27–0.40 excluding bm25. Chinese-specialized (0.40), the cross-encoder (0.27), and the generator's hidden states (0.27) do not exceed 0.40. Projected adherence stays within ±0.05 of all-facets (7.43). The Result 3 null does not move with the choice of embedding method; the semantic proximity of one character's facets does not shrink by swapping the embedding.
+
+This projection has an assumption: the hit/miss means (7.74 / 7.31) are taken from body_top1 and held constant across methods. If the hit population differs by method, the conversion is off. The LLM router below is exactly that case.
+
+### The LLM router, measured
+
+Claude Opus 4.6 (via CLI, a different family from the Qwen3-8B generator) selects a facet, and the one it picks is injected into Qwen3-8B, generated and scored. router picks one of all facets; two-stage narrows to the top-3 of cue_situ retrieval, then picks one.
+
+| condition | R@1 | measured adherence | vs all-facets |
+|---|---|---|---|
+| oracle (cued facet) | 1.00 | 7.88 | +0.45 ±0.14 (z=3.3) |
+| llm_twostage (top-3→1) | 0.51 | 7.79 | +0.36 ±0.14 (z=2.5) |
+| llm_router (all→1) | 0.57 | 7.62 | +0.19 ±0.15 (z=1.3) |
+| cuesitu_top3 | — | 7.50 | +0.07 (null) |
+| body_top1 | 0.35 | 7.46 | +0.03 (null) |
+| all-facets | — | 7.43 | — |
+
+- two-stage beats all-facets by +0.36 ±0.14 (z=2.5), and its gap to oracle is −0.09 ±0.11 (null): nearly indistinguishable from the +0.45 ceiling. The uplift embedding retrieval could not reach (body_top1 − allctx = +0.03, null), two-stage takes almost in full.
+- router alone is +0.19 ±0.15 (z=1.3): same direction, but not significant against all-facets. two-stage minus router is +0.17 ±0.12 (null) — router has the higher R@1 (0.57), yet two-stage has the higher adherence (7.79).
+- The reason is the floor on a miss. Split by hit/miss: router scores 8.11 on a hit, 6.98 on a miss; two-stage 8.26 and 7.31. The ceiling is high for both (8.1–8.3); the difference is the miss. router picks from all facets, so a miss drops below base (7.23). two-stage picks within cue_situ's top-3, so even a miss stays on a conversation-near facet and bottoms out at 7.31. Narrowing with top-k retrieval to hold the floor and letting the LLM take the ceiling is what moves the mean significantly.
+- Against the projection: projection had router 7.56 > two-stage 7.53, the reverse of the measured order (two-stage 7.79 > router 7.62). Projection represented the hit group by body_top1's 7.74, whereas the LLM router's hit group scored 8.1–8.3. The method-dependence of the hit population was large enough to flip the order — which is why the LLM router was measured, not projected.
+
+Raising routing accuracy moves the very bottleneck Result 3 identified: swapping the embedding caps R@1 at 0.40 and ties all-facets, but an LLM two-stage router that reads the facet bodies beats all-facets significantly and matches the oracle ceiling. The cost is ~8 s and ~$0.08 per LLM-router call, two orders above embedding retrieval.
+
+Caveat: only the two LLM-router arms are measured; the eleven embedding methods remain a projection from body_top1's hit/miss. The GPT-4.1-mini judge bias is common to all conditions.
+
 ## Takeaways
 
 1. In-context (mrprompt-repro): the cue is inert. With the body fully in context, it is bypassed.
 2. External (this study): the cue becomes causal (extcue − wrongkey = +0.23; real > wrong in routing). And injecting only the correct facet beats all-facets by +0.45 — selection itself has value. Fitting in context does not mean dumping everything is best.
 3. But current retrieval cannot realize that value. One character's facets are semantically close, so even with the body as the key, top-1 caps at 35% and top-3 at 70%. Adherence splits into near-oracle on a hit and near-base on a miss, and the average ties all-facets (null). The bottleneck is routing accuracy, not the value of selection.
 
-The resolution is two regimes. When facets fit in context, adding retrieval only ties all-facets (and routing is hard to get right), so plain all-facets + CoT is fine. Retrieval starts to pay when (a) you can raise routing accuracy (keys/embeddings that discriminate near-neighbour facets), or (b) facets no longer fit in context — there all-facets is off the table and retrieval, however coarse, becomes necessary. The +0.45 ceiling shows the headroom worth chasing in that case is real.
+4. Routing accuracy can be raised. Swapping the embedding caps R@1 at 0.40, but an LLM two-stage router (narrow to cue_situ's top-3, then pick one) beats all-facets by +0.36 ±0.14 (z=2.5), with the gap to the oracle ceiling at −0.09 (null). The value of selection (+0.45) becomes reachable once you change the router.
+
+The resolution: adding a top-1 embedding retrieval only ties all-facets and routing is hard to get right, but the value of selection (+0.45) is real and there are two ways to it. (a) Make the router an LLM two-stage: narrowing to cue_situ's top-3 and letting the LLM pick one beat all-facets significantly and matched the oracle ceiling here, where an embedding top-1 does not reach. (b) Facets no longer fit in context, where all-facets is off the table and retrieval, however coarse, becomes necessary. The LLM two-stage costs ~8 s and ~$0.08 per call, so when facets fit, all-facets + CoT is still the cheaper default.
 
 Caveat: allctx (7 facets) has a longer input than body_top1/cuesitu_top3, so a length asymmetry could enter the quality gap. But oracle (1 facet) beats allctx (7 facets) by +0.45 with a shorter context, so length works against the shorter conditions; the ceiling is not explained by context length. Scoring is GPT-4.1-mini adherence and inherits judge bias. Single model (Qwen3-8B), 100 instances, Chinese characters — preliminary.
 

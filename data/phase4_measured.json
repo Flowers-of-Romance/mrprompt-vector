@@ -1,0 +1,75 @@
+{
+  "measured_means": {
+    "base": 7.23,
+    "allctx": 7.43,
+    "oracle": 7.88,
+    "body_top1": 7.46,
+    "cuesitu_top3": 7.5,
+    "llm_router": 7.62,
+    "llm_twostage": 7.79
+  },
+  "pairs": {
+    "oracle-allctx": {
+      "d": 0.45,
+      "sem": 0.136,
+      "z": 3.31,
+      "n": 100
+    },
+    "llm_twostage-allctx": {
+      "d": 0.36,
+      "sem": 0.142,
+      "z": 2.54,
+      "n": 100
+    },
+    "llm_router-allctx": {
+      "d": 0.19,
+      "sem": 0.152,
+      "z": 1.25,
+      "n": 100
+    },
+    "llm_twostage-body_top1": {
+      "d": 0.33,
+      "sem": 0.136,
+      "z": 2.43,
+      "n": 100
+    },
+    "llm_twostage-llm_router": {
+      "d": 0.17,
+      "sem": 0.12,
+      "z": 1.42,
+      "n": 100
+    },
+    "llm_twostage-oracle": {
+      "d": -0.09,
+      "sem": 0.111,
+      "z": -0.81,
+      "n": 100
+    },
+    "llm_router-oracle": {
+      "d": -0.26,
+      "sem": 0.135,
+      "z": -1.93,
+      "n": 100
+    },
+    "body_top1-allctx": {
+      "d": 0.03,
+      "sem": 0.16,
+      "z": 0.19,
+      "n": 100
+    }
+  },
+  "hitmiss": {
+    "llm_router": {
+      "hit": 8.105,
+      "n_hit": 57,
+      "miss": 6.977,
+      "n_miss": 43
+    },
+    "llm_twostage": {
+      "hit": 8.255,
+      "n_hit": 51,
+      "miss": 7.306,
+      "n_miss": 49
+    }
+  }
+}
