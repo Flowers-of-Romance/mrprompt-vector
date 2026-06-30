@@ -14,7 +14,7 @@ Question 1 is retrieval accuracy; question 2 is task quality. They are different
 ## Method
 
 - Data: mrprompt-repro's instances_faithful.jsonl (100 instances, 7–8 facets per character, with the cued facet and STM) used as is.
-- Retrieval: embed the STM and each facet's key with `BAAI/bge-m3` (multilingual, CLS pooling, bf16/iGPU) and take the cosine nearest neighbour. Three key-richness levels:
+- Retrieval: the query is the STM (recent dialogue); the documents are each facet's key. Embed both with `BAAI/bge-m3` (multilingual, CLS pooling, bf16/iGPU) and take the cosine nearest neighbour. The key holds only the fields listed below; title, core_traits, time_scope, etc. are not in the key (core_traits is added to the body at generation time only). Three key-richness levels:
   - `cue_only`: cue_phrases only (closest to the paper's "cue keys")
   - `cue_situ`: cue_phrases + situation
   - `body`: situation + emotional_state + behavior_pattern + thinking_pattern (the facet content)

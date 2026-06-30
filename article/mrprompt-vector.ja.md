@@ -14,7 +14,7 @@
 ## 方法
 
 - データ：mrprompt-repro の instances_faithful.jsonl（100インスタンス、各キャラ7–8 facet、cued facet と STM 付き）をそのまま使用。
-- 検索：`BAAI/bge-m3`（多言語・CLSプーリング、bf16/iGPU）で STM と各 facet の鍵を埋め込み、コサイン最近傍を取り出す。鍵の厚さを3段で比較する。
+- 検索：クエリは STM（直近の会話文脈）、被検索は各 facet の「鍵」。`BAAI/bge-m3`（多言語・CLSプーリング、bf16/iGPU）で両者を埋め込み、コサイン最近傍を取り出す。鍵に入れるのは下の3段のフィールドだけで、title・core_traits・time_scope などは鍵に含めない（core_traits は生成時に本体へ添えるのみ）。鍵の厚さを3段で比較する。
   - `cue_only`：cue_phrases のみ（論文の手がかりキーに最も忠実）
   - `cue_situ`：cue_phrases ＋ situation
   - `body`：situation ＋ emotional_state ＋ behavior_pattern ＋ thinking_pattern（facet 本体）
