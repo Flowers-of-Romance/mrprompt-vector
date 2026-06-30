@@ -24,7 +24,7 @@ Question 1 is retrieval accuracy; question 2 is task quality. They are different
 
 ## Result 1: external, the cue becomes causal — but it is a weak index
 
-Using the STM as query, we retrieve by each facet's key and measure whether the top-1 is the cued facet (n=100, chance@1=0.139 ≈ 7 facets). We compare against a wrongkey condition (the cued facet's key overwritten by a neighbour's, the same operation as mrprompt-repro).
+Using the STM as query, we retrieve by each facet's key and measure whether the top-1 is the cued facet (n=100; chance@k is the probability the cued facet lands in the top-k under random retrieval, the per-instance mean of k/n over the n facets, here chance@1=0.139). We compare against a wrongkey condition (the cued facet's key overwritten by a neighbour's, the same operation as mrprompt-repro).
 
 | key | R@1 real | R@1 wrong | R@3 real | R@3 wrong |
 |---|---|---|---|---|

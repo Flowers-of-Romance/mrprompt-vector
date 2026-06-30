@@ -24,7 +24,7 @@
 
 ## 結果1：cue は外付けにすると因果的になるが、弱い索引である
 
-STM を query に、各 facet の鍵で最近傍を引き、引けた1枚が cued facet かを top-1 精度で測った（n=100、chance@1=0.139＝約7面）。鍵を壊す wrongkey（cued facet の鍵を隣の facet のもので上書き、mrprompt-repro と同じ操作）と比較する。
+STM を query に、各 facet の鍵で最近傍を引き、引けた1枚が cued facet かを top-1 精度（R@1）で測った（n=100。chance@k はランダム検索時に cued が top-k に入る確率で、facet 数 n に対し「k/n」をインスタンス平均した値。ここでは chance@1=0.139）。鍵を壊す wrongkey（cued facet の鍵を隣の facet のもので上書き、mrprompt-repro と同じ操作）と比較する。
 
 | 鍵 | R@1 real | R@1 wrong | R@3 real | R@3 wrong |
 |---|---|---|---|---|
