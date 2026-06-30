@@ -79,29 +79,29 @@ Finally, the causality of the cue at the adherence level. Comparing cue_only top
 
 ## Result 4: how far does the final task move once routing accuracy is raised?
 
-Result 3 located the bottleneck at routing accuracy. So how far does adherence move once a means of raising it is added? We test two. One swaps the embedding retriever to span a range of top-1 accuracy (R@1). The other is an LLM router that reads the facet bodies and selects. For the first we do not re-measure generation/scoring per method; we convert R@1 to adherence via body_top1's measured hit/miss means (7.74 / 7.31) — a projection. The second is the decision point, so we actually inject the selected facet into Qwen3-8B, generate and score it — measured. The measured anchors are oracle (true facet injected directly) = 7.88 and all-facets = 7.43.
+Result 3 located the bottleneck at routing accuracy. So how far does adherence move once a means of raising it is added? We test two. One swaps the embedding retriever to span a range of R@1. The other is an LLM router that reads the facet bodies and selects. For both we inject each method's top-1 facet into Qwen3-8B and generate and score it — measured (each method × 100 instances, single sample, the same single-facet injection as body_top1). The anchors are oracle (true facet injected directly) = 7.88 and all-facets = 7.43.
 
-### The span of embedding retrievers (projection from R@1)
+### The span of embedding retrievers (measured)
 
 Eleven embedding-based methods on the same 100 instances: random, bm25 (jieba), bge-m3 dense (keys cue / cue_situ / body), a colbert approximation over bge-m3 (token-level max-sim), hybrid RRF (bm25 + bge-m3 body), bge-large-zh-v1.5 (Chinese-specialized, body key), difference-vector (a facet's body minus the mean of the same character's other facet bodies), bge-reranker-v2-m3 (cross-encoder), and mean-pooled last hidden states of Qwen3-8B (body key).
 
-| method | R@1 | R@3 | projected adherence |
+| method | R@1 | R@3 | measured adherence |
 |---|---|---|---|
-| bge-large-zh body | 0.40 | 0.66 | 7.48 |
-| difference-vector | 0.38 | 0.66 | 7.47 |
-| bge-m3 colbert-approx | 0.38 | 0.71 | 7.47 |
+| bge-large-zh body | 0.40 | 0.66 | 7.62 |
+| difference-vector | 0.38 | 0.66 | 7.34 |
+| bge-m3 colbert-approx | 0.38 | 0.71 | 7.55 |
 | bge-m3 dense body | 0.35 | 0.67 | 7.46 |
 | bge-m3 dense cue_situ | 0.33 | 0.70 | 7.45 |
-| bge-m3 dense cue | 0.30 | 0.65 | 7.44 |
-| hybrid RRF(bm25+dense) | 0.28 | 0.65 | 7.43 |
-| bge-reranker-v2-m3 | 0.27 | 0.59 | 7.43 |
-| qwen3-8b hidden body | 0.27 | 0.63 | 7.43 |
-| bm25 (jieba) | 0.19 | 0.45 | 7.39 |
-| random | 0.14 | 0.42 | 7.37 |
+| bge-m3 dense cue | 0.30 | 0.65 | 7.67 |
+| hybrid RRF(bm25+dense) | 0.28 | 0.65 | 7.26 |
+| bge-reranker-v2-m3 | 0.27 | 0.59 | 7.40 |
+| qwen3-8b hidden body | 0.27 | 0.63 | 7.34 |
+| bm25 (jieba) | 0.19 | 0.45 | 7.46 |
+| random | 0.14 | 0.42 | — |
 
-R@1 falls in 0.19–0.40, concentrated in 0.27–0.40 excluding bm25. Chinese-specialized (0.40), the cross-encoder (0.27), and the generator's hidden states (0.27) do not exceed 0.40. Projected adherence stays within ±0.05 of all-facets (7.43). The Result 3 null does not move with the choice of embedding method; the semantic proximity of one character's facets does not shrink by swapping the embedding.
+R@1 falls in 0.19–0.40, concentrated in 0.27–0.40 excluding bm25. Chinese-specialized (0.40), the cross-encoder (0.27), and the generator's hidden states (0.27) do not exceed 0.40. Measured adherence scatters over 7.26–7.67, but no method differs significantly from all-facets (7.43) (the highest, bge-large-zh body, is +0.19, z=1.1; all |z|<2; random is the chance floor and was not generated). The Result 3 null does not move when the embedding methods are measured rather than projected; the semantic proximity of one character's facets does not shrink by swapping the embedding. Single sample, so read fine rankings between methods as noise-laden (SEM≈0.17–0.19).
 
-This projection has an assumption: the hit/miss means (7.74 / 7.31) are taken from body_top1 and held constant across methods. If the hit population differs by method, the conversion is off. The LLM router below is exactly that case.
+We measured rather than projected (convert via R@1 × 7.74 + (1−R@1) × 7.31) because the conversion takes the hit/miss means from body_top1 and holds them constant across methods. Measured, the hit-group mean varies by method (7.74–8.00); the conversion compressed the values to 7.39–7.48 whereas measurement spreads them over 7.26–7.67, and the ranking shifts. The qualitative conclusion (ties all-facets) agrees, but the numbers from the conversion are unreliable. The LLM router below is measured for the same reason.
 
 ### The LLM router, measured
 
@@ -119,11 +119,11 @@ Claude Opus 4.6 (via CLI, a different family from the Qwen3-8B generator) select
 - two-stage beats all-facets by +0.36 ±0.14 (z=2.5), and its gap to oracle is −0.09 ±0.11 (null): nearly indistinguishable from the +0.45 ceiling. The uplift embedding retrieval could not reach (body_top1 − allctx = +0.03, null), two-stage takes almost in full.
 - router alone is +0.19 ±0.15 (z=1.3): same direction, but not significant against all-facets. two-stage minus router is +0.17 ±0.12 (null) — router has the higher R@1 (0.57), yet two-stage has the higher adherence (7.79).
 - The reason is the floor on a miss. Split by hit/miss: router scores 8.11 on a hit, 6.98 on a miss; two-stage 8.26 and 7.31. The ceiling is high for both (8.1–8.3); the difference is the miss. router picks from all facets, so a miss drops below base (7.23). two-stage picks within cue_situ's top-3, so even a miss stays on a conversation-near facet and bottoms out at 7.31. Narrowing with top-k retrieval to hold the floor and letting the LLM take the ceiling is what moves the mean significantly.
-- Against the projection: projection had router 7.56 > two-stage 7.53, the reverse of the measured order (two-stage 7.79 > router 7.62). Projection represented the hit group by body_top1's 7.74, whereas the LLM router's hit group scored 8.1–8.3. The method-dependence of the hit population was large enough to flip the order — which is why the LLM router was measured, not projected.
+- Why measured rather than converted: the hit population is method-dependent — the LLM router's hit group scored 8.1–8.3, body_top1's 7.74. Converting from R@1 with fixed hit/miss means gives router 7.56 > two-stage 7.53, the reverse of the measured order (two-stage 7.79 > router 7.62). So we generated and scored instead.
 
 Raising routing accuracy moves the very bottleneck Result 3 identified: swapping the embedding caps R@1 at 0.40 and ties all-facets, but an LLM two-stage router that reads the facet bodies beats all-facets significantly and matches the oracle ceiling. The cost is ~8 s and ~$0.08 per LLM-router call, two orders above embedding retrieval.
 
-Caveat: only the two LLM-router arms are measured; the eleven embedding methods remain a projection from body_top1's hit/miss. The GPT-4.1-mini judge bias is common to all conditions.
+Caveat: both the embedding methods and the LLM-router arms are single-sample measurements, so fine rankings between methods are noise-laden (SEM≈0.17–0.19). The GPT-4.1-mini judge bias is common to all conditions.
 
 ## Result 5: decomposing the ceiling — selection value or context length?
 

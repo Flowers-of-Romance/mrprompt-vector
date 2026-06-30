@@ -1,0 +1,90 @@
+{
+  "bge-large-zh body": {
+    "R@1": 0.4,
+    "proj_adh": 7.482,
+    "measured_adh": 7.62,
+    "vs_allfacets": 0.19,
+    "sem": 0.167,
+    "z": 1.14,
+    "hit_adh": 7.975,
+    "miss_adh": 7.383,
+    "n": 100
+  },
+  "bge-m3 colbert-approx": {
+    "R@1": 0.38,
+    "proj_adh": 7.473,
+    "measured_adh": 7.55,
+    "vs_allfacets": 0.12,
+    "sem": 0.173,
+    "z": 0.7,
+    "hit_adh": 7.737,
+    "miss_adh": 7.435,
+    "n": 100
+  },
+  "difference-vector": {
+    "R@1": 0.38,
+    "proj_adh": 7.473,
+    "measured_adh": 7.34,
+    "vs_allfacets": -0.09,
+    "sem": 0.183,
+    "z": -0.49,
+    "hit_adh": 7.737,
+    "miss_adh": 7.097,
+    "n": 100
+  },
+  "bge-m3 dense cue_situ": {
+    "R@1": 0.33,
+    "proj_adh": 7.452,
+    "measured_adh": 7.45,
+    "vs_allfacets": 0.02,
+    "sem": 0.189,
+    "z": 0.11,
+    "hit_adh": 7.909,
+    "miss_adh": 7.224,
+    "n": 100
+  },
+  "hybrid RRF(bm25+dense)": {
+    "R@1": 0.28,
+    "proj_adh": 7.43,
+    "measured_adh": 7.26,
+    "vs_allfacets": -0.17,
+    "sem": 0.19,
+    "z": -0.89,
+    "hit_adh": 8.0,
+    "miss_adh": 6.972,
+    "n": 100
+  },
+  "bge-reranker-v2-m3": {
+    "R@1": 0.27,
+    "proj_adh": 7.426,
+    "measured_adh": 7.4,
+    "vs_allfacets": -0.03,
+    "sem": 0.183,
+    "z": -0.16,
+    "hit_adh": 7.926,
+    "miss_adh": 7.205,
+    "n": 100
+  },
+  "qwen3-8b hidden body": {
+    "R@1": 0.27,
+    "proj_adh": 7.426,
+    "measured_adh": 7.34,
+    "vs_allfacets": -0.09,
+    "sem": 0.183,
+    "z": -0.49,
+    "hit_adh": 7.741,
+    "miss_adh": 7.192,
+    "n": 100
+  },
+  "bm25": {
+    "R@1": 0.19,
+    "proj_adh": 7.392,
+    "measured_adh": 7.46,
+    "vs_allfacets": 0.03,
+    "sem": 0.177,
+    "z": 0.17,
+    "hit_adh": 7.895,
+    "miss_adh": 7.358,
+    "n": 100
+  }
+}

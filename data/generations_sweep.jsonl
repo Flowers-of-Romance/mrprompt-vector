@@ -1,0 +1,800 @@
+{"id": 8026, "role": "佟湘玉", "method": "bge-large-zh body", "cued_index": 0, "sel": 0, "hit": 1, "response": "佟湘玉：（挑眉，语气带着几分讥讽与算计）感情归感情，生意归生意，开武馆是好事，可得先问问我同福客栈的生意能不能分你一半！"}
+{"id": 5038, "role": "白展堂", "method": "bge-large-zh body", "cued_index": 2, "sel": 2, "hit": 1, "response": "白展堂：（笑嘻嘻凑近佟湘玉耳边）那咱们这就去把拼命三娘请来，让她看看谁才是真正的拼命三娘！"}
+{"id": 260, "role": "郭芙蓉", "method": "bge-large-zh body", "cued_index": 3, "sel": 0, "hit": 0, "response": "郭芙蓉：（笑嘻嘻）那我可就要好好疼你了，你可别后悔啊！"}
+{"id": 798, "role": "曾小贤", "method": "bge-large-zh body", "cued_index": 0, "sel": 5, "hit": 0, "response": "曾小贤：（挠头笑）哎呀，我刚才在车上看到你发的那条消息，还特意截图保存了呢，结果一到家就忘了，你可别怪我啊！"}
+{"id": 8922, "role": "吕子乔", "method": "bge-large-zh body", "cued_index": 0, "sel": 2, "hit": 0, "response": "吕子乔：（笑着凑近，眼神闪亮）那我可要提前告诉你，今天之后，你就是我镜头下的“灰姑娘”，连宫女的裙子都得换新的——我请客！"}
+{"id": 7380, "role": "吕秀才", "method": "bge-large-zh body", "cued_index": 2, "sel": 1, "hit": 0, "response": "吕秀才：（低头摆弄手中算盘，声音略显低沉）我这人啊，天生才学不被世人识，倒不如说，是天生要为你们欢喜忧愁。你若开心，便是我最大的福分。"}
+{"id": 9406, "role": "傅红雪", "method": "bge-large-zh body", "cued_index": 0, "sel": 1, "hit": 0, "response": "傅红雪：（目光冷峻，声音低沉）那便用你的一条命，换我的八万两。"}
+{"id": 2436, "role": "孙悟空", "method": "bge-large-zh body", "cued_index": 7, "sel": 4, "hit": 0, "response": "孙悟空：（捋了捋金箍棒，眼中闪过一丝不屑）你这呆子，连这道理都不懂，还敢与妖精斗？我倒要看看，这井边的妖精，是杨木还是檀木！"}
+{"id": 2682, "role": "徐凤年", "method": "bge-large-zh body", "cued_index": 5, "sel": 5, "hit": 1, "response": "徐凤年：（放下茶杯，眼神平静）既然坐剑法是吴家剑冢的机密，那便不打扰了。我这便去山上看那站剑与走剑的剑法。"}
+{"id": 11051, "role": "祝无双", "method": "bge-large-zh body", "cued_index": 5, "sel": 2, "hit": 0, "response": "祝无双：（笑着摇头）你呀，就是太认真了，这事儿我早就不记得了，你别往心里去。"}
+{"id": 6227, "role": "许沁", "method": "bge-large-zh body", "cued_index": 2, "sel": 2, "hit": 1, "response": "许沁：（轻声）那我以后……不憋着了。"}
+{"id": 5238, "role": "关宏宇", "method": "bge-large-zh body", "cued_index": 3, "sel": 3, "hit": 1, "response": "关宏宇：（醉眼朦胧地笑着，语气带着几分调侃）那我得先问你，你到底是想选哪一面，还是想让我俩都给你演一遍？"}
+{"id": 6737, "role": "萧炎", "method": "bge-large-zh body", "cued_index": 2, "sel": 0, "hit": 0, "response": "萧炎：（眼神微凝，语气沉稳而坚定）那我便要找出真相，无论是谁，敢动我萧家之人，都必须付出代价！"}
+{"id": 4624, "role": "贾宝玉", "method": "bge-large-zh body", "cued_index": 0, "sel": 0, "hit": 1, "response": "贾宝玉：（听得入神，点头笑道）原来如此，好妹妹，你既懂得这些，可要教我认几个字儿，我好去和那些哥哥们说说，他们也不至于笑话我是个不识字的糊涂人了。"}
+{"id": 9544, "role": "花千骨", "method": "bge-large-zh body", "cued_index": 0, "sel": 0, "hit": 1, "response": "花千骨：（低着头，声音有些颤抖）弟子……弟子还小，怕飞。"}
+{"id": 772, "role": "陈美嘉", "method": "bge-large-zh body", "cued_index": 2, "sel": 2, "hit": 1, "response": "陈美嘉：（眼眶泛红，声音颤抖）子乔，你记得我们第一次约会，你送我的那只小熊吗？它叫布丁，现在它有了一个弟弟，叫小小布，你要好好照顾他哦。"}
+{"id": 5777, "role": "杨过", "method": "bge-large-zh body", "cued_index": 5, "sel": 1, "hit": 0, "response": "杨过：（眼神骤然凌厉，声音低沉）师祖当年若真没点中，那他为何要假装解穴？难道……他早知我义父命不久矣？"}
+{"id": 8233, "role": "胡一菲", "method": "bge-large-zh body", "cued_index": 5, "sel": 3, "hit": 0, "response": "胡一菲：（冷笑一声，眼神锐利）你是不是觉得只有宛瑜能懂你？那我问你，你凭什么觉得我就不懂？"}
+{"id": 11101, "role": "梅长苏", "method": "bge-large-zh body", "cued_index": 2, "sel": 2, "hit": 1, "response": "梅长苏：（目光柔和，声音低沉而坚定）飞流，你总是这样，明明心里明白，却还要执着地问个清楚。可我……已经没有力气再去解释了。"}
+{"id": 591, "role": "关宏峰", "method": "bge-large-zh body", "cued_index": 0, "sel": 2, "hit": 0, "response": "关宏峰：（神色凝重，目光锐利）南山军区？安廷……你确定他现在还活着？"}
+{"id": 10818, "role": "朱朝阳", "method": "bge-large-zh body", "cued_index": 3, "sel": 1, "hit": 0, "response": "朱朝阳：（轻抿了一口茶，语气平静却带着一丝不易察觉的冷意）妈，我捡的是钱，不是垃圾。"}
+{"id": 7917, "role": "罗辑", "method": "bge-large-zh body", "cued_index": 0, "sel": 1, "hit": 0, "response": "罗辑：（沉默片刻，声音低沉）那我该怎么做？"}
+{"id": 11371, "role": "宋焰", "method": "bge-large-zh body", "cued_index": 1, "sel": 1, "hit": 1, "response": "宋焰：（刮完胡子，抬眼看向翟淼，语气平静却带着坚定）我是不是该像你一样，先问自己是不是真的喜欢她？"}
+{"id": 4236, "role": "关谷神奇", "method": "bge-large-zh body", "cued_index": 3, "sel": 3, "hit": 1, "response": "关谷神奇：（认真地看着羽墨）那我建议你先别急着失踪，至少留个联系方式，不然我怕你真的会像失踪的猫一样，让我找得我分分钟切腹自尽。"}
+{"id": 7658, "role": "甄嬛", "method": "bge-large-zh body", "cued_index": 1, "sel": 2, "hit": 0, "response": "甄嬛：（轻抿一口茶，神色冷冽）你且去，若她再有异动，便告诉她，这宫里，她不过是个棋子，而我，是执棋的人。"}
+{"id": 7031, "role": "安欣", "method": "bge-large-zh body", "cued_index": 1, "sel": 1, "hit": 1, "response": "安欣：（目光锐利，语气沉稳）那我问你，你昨晚十点到凌晨两点，人在哪儿？（伸手翻开案卷）"}
+{"id": 1786, "role": "景天", "method": "bge-large-zh body", "cued_index": 3, "sel": 2, "hit": 0, "response": "景天：（皱眉看向远处，语气凝重）因为这地方，我走不动了。"}
+{"id": 4316, "role": "明月心", "method": "bge-large-zh body", "cued_index": 1, "sel": 0, "hit": 0, "response": "明月心：（轻叹一声，眼神微黯）他不是无名指，但他比任何人都更懂如何让人心甘情愿地追随。"}
+{"id": 2569, "role": "猪八戒", "method": "bge-large-zh body", "cued_index": 3, "sel": 6, "hit": 0, "response": "猪八戒：（挠头笑）师父说得是，我这身子骨，倒像是那杨木，软得像块豆腐，一碰就碎！"}
+{"id": 4820, "role": "白子画", "method": "bge-large-zh body", "cued_index": 0, "sel": 5, "hit": 0, "response": "白子画：（神色平静，目光深远）小骨，你可知为何我迟迟不肯收你为徒？"}
+{"id": 4147, "role": "药老", "method": "bge-large-zh body", "cued_index": 3, "sel": 1, "hit": 0, "response": "药老：有朝一日，若你寻得更强大的异火，我定助你将‘天火三玄变’修炼至圆满。（药老目光深邃，似在思索着什么，语气中带着一丝难以察觉的期待）"}
+{"id": 1957, "role": "燕南飞", "method": "bge-large-zh body", "cued_index": 6, "sel": 3, "hit": 0, "response": "燕南飞：（眼神微闪，嘴角勾起一抹冷笑）两百二十七种？难怪你总能看穿我的布局，原来你早把这江湖的暗杀之道，都算在你的心里了。"}
+{"id": 8933, "role": "张伟", "method": "bge-large-zh body", "cued_index": 0, "sel": 3, "hit": 0, "response": "张伟：（翻了个身，把被子往身上拽了拽）我这不是担心，是怕你买正版的钱，都用来请我吃火锅了。"}
+{"id": 2495, "role": "唐三藏", "method": "bge-large-zh body", "cued_index": 2, "sel": 2, "hit": 1, "response": "唐三藏：（双手合十，闭目诵经）阿弥陀佛，徒弟，若得你相助，贫僧愿以佛心为灯，以慈悲为引，助你破此妖障，不负西天取经之志。"}
+{"id": 2904, "role": "高启强", "method": "bge-large-zh body", "cued_index": 5, "sel": 5, "hit": 1, "response": "高启强：（轻笑一声，眼神复杂）梦里头，我总能看见你站在那条河边，像一尊雕像，可现实里，你比梦里更难对付。"}
+{"id": 5676, "role": "小龙女", "method": "bge-large-zh body", "cued_index": 1, "sel": 1, "hit": 1, "response": "小龙女：（微微蹙眉，神情淡然）师姊说得极是，只是……人心难测，有时连自己也未必明白。"}
+{"id": 9812, "role": "侯亮平", "method": "bge-large-zh body", "cued_index": 0, "sel": 1, "hit": 0, "response": "侯亮平：（神色凝重，语气沉稳）那我们得抓紧时间，把资金流向和相关人员的往来记录再梳理一遍，不能让证据链出现漏洞。"}
+{"id": 4151, "role": "雪见", "method": "bge-large-zh body", "cued_index": 0, "sel": 1, "hit": 0, "response": "雪见：（皱眉看着四周，语气略带担忧）景天，你没事吧？这地方怎么这么阴森……"}
+{"id": 10836, "role": "普普", "method": "bge-large-zh body", "cued_index": 5, "sel": 2, "hit": 0, "response": "普普：（低头看着自己的手，嘴角微微上扬）朝阳哥哥，你拍的时候，能不能把我的影子也拍进去？我想让弟弟看到，姐姐也是会笑的。"}
+{"id": 1275, "role": "高育良", "method": "bge-large-zh body", "cued_index": 1, "sel": 2, "hit": 0, "response": "高育良：（神色凝重，目光沉稳）亮平，你这话……可有确凿证据？祁同伟这孩子，我看着他一步步走上来，没想到……（微微叹息）这世道，真是让人唏嘘。"}
+{"id": 2319, "role": "张东升", "method": "bge-large-zh body", "cued_index": 1, "sel": 1, "hit": 1, "response": "张东升：（缓缓站起身，声音低沉而压抑）好，我等你。等你真正想清楚了，我们再谈。"}
+{"id": 2648, "role": "史强", "method": "bge-large-zh body", "cued_index": 4, "sel": 4, "hit": 1, "response": "史强：（冷笑）不对？那你说说，为什么我不能只是个执行者？"}
+{"id": 1252, "role": "唐悠悠", "method": "bge-large-zh body", "cued_index": 2, "sel": 2, "hit": 1, "response": "唐悠悠：（笑着拉住羽墨的手）别担心啦，他可是漫画协会的会长，今晚肯定要熬夜改稿子，你要是想他了，就跟我学几招日本料理，说不定他回来就能吃到你做的饭呢！"}
+{"id": 1856, "role": "郭襄", "method": "bge-large-zh body", "cued_index": 0, "sel": 1, "hit": 0, "response": "郭襄：（眼中闪过一丝不舍，轻声）大和尚，我爹爹和我大姊姊他们，他们……他们可还安好？"}
+{"id": 11366, "role": "许红豆", "method": "bge-large-zh body", "cued_index": 5, "sel": 4, "hit": 0, "response": "许红豆：（语气稍缓，但依旧带着一丝倔强）我跟你说，大麦这孩子挺懂事的，你别总想着躲着，该陪你的时候还是要陪的。"}
+{"id": 5502, "role": "武松", "method": "bge-large-zh body", "cued_index": 2, "sel": 2, "hit": 1, "response": "武松：（沉声）哥哥但说，小弟若能办到，便赴汤蹈火也在所不辞。"}
+{"id": 4175, "role": "龙葵", "method": "bge-large-zh body", "cued_index": 1, "sel": 0, "hit": 0, "response": "龙葵：（低头轻声）我知道……可是……（抬头望向景天，眼中泛起一丝忧伤）我只想和哥哥多待一会儿，哪怕只是这样……"}
+{"id": 3799, "role": "洛枳", "method": "bge-large-zh body", "cued_index": 2, "sel": 2, "hit": 1, "response": "洛枳：（低头整理书页）我最近在看一本关于暗恋的书，里面说，有些心事，连自己都瞒不过。"}
+{"id": 5492, "role": "宋江", "method": "bge-large-zh body", "cued_index": 0, "sel": 4, "hit": 0, "response": "宋江：（抚掌大笑）好李逵！你既有这等忠义之心，便去便去，我自替你看着便是。(眼中闪过一丝忧虑，却强作镇定) 快去，莫要误了时辰。"}
+{"id": 1232, "role": "李达康", "method": "bge-large-zh body", "cued_index": 3, "sel": 4, "hit": 0, "response": "李达康：（神情凝重，语气坚定）是的，组织上知道这件事，我也一直以党员的标准要求自己，没有让个人情感影响工作。"}
+{"id": 2019, "role": "公子羽", "method": "bge-large-zh body", "cued_index": 5, "sel": 2, "hit": 0, "response": "公子羽：（目光深邃，青铜面具下似有寒意）你竟敢说，我已没有生趣？"}
+{"id": 683, "role": "飞流", "method": "bge-large-zh body", "cued_index": 0, "sel": 3, "hit": 0, "response": "飞流：（轻轻拍了拍梅长苏的背）苏哥哥不许乱动，睡着了。"}
+{"id": 1220, "role": "柯景腾", "method": "bge-large-zh body", "cued_index": 1, "sel": 1, "hit": 1, "response": "柯景腾：（揉着眼睛，嘴角带着一丝无奈的笑）沈佳宜，你这招真的好管用，我……我立刻就起来！"}
+{"id": 10739, "role": "雅妃", "method": "bge-large-zh body", "cued_index": 3, "sel": 3, "hit": 1, "response": "雅妃：（收回目光，嘴角勾起一抹若有似无的笑意）云岚宗的底蕴深厚，但若能借你之力，或许能更稳妥地达成目的。（指尖轻轻摩挲着杯沿，语气优雅而隐含深意）萧炎公子，你我联手，更有胜算。"}
+{"id": 2931, "role": "徐江", "method": "bge-large-zh body", "cued_index": 1, "sel": 0, "hit": 0, "response": "徐江：（眼神一冷，语气阴沉）你弟弟？他现在在哪儿？我倒要看看，是谁敢动我徐江的兄弟！"}
+{"id": 1187, "role": "祁同伟", "method": "bge-large-zh body", "cued_index": 0, "sel": 4, "hit": 0, "response": "祁同伟：（语气低沉，眼神锐利）高老师，您说的没错，但您有没有想过，这背后或许不只是一个失误，而是一场精心布局的棋局。"}
+{"id": 1332, "role": "安陵容", "method": "bge-large-zh body", "cued_index": 3, "sel": 1, "hit": 0, "response": "安陵容：（低声，眼眶泛红）姐姐，我只希望他能平安……"}
+{"id": 2594, "role": "顾里", "method": "bge-large-zh body", "cued_index": 2, "sel": 2, "hit": 1, "response": "顾里：（轻笑着，眼神里带着一丝调侃）所以你穿高跟鞋，是为了让我觉得你更像一个“正常”的女孩子，对吗？"}
+{"id": 1518, "role": "薰儿", "method": "bge-large-zh body", "cued_index": 1, "sel": 1, "hit": 1, "response": "薰儿：（轻轻抬眸，眸光柔和）萧炎哥哥，若是真有喜欢的人，我陪你一起面对，不需你独自承担。"}
+{"id": 3898, "role": "李逵", "method": "bge-large-zh body", "cued_index": 1, "sel": 6, "hit": 0, "response": "李逵：（怒目圆睁，一把揪住宋江衣襟）大哥，你这是要逼我造反么？俺李逵只知忠义，岂能做这等腌臜事！"}
+{"id": 3434, "role": "孟宴臣", "method": "bge-large-zh body", "cued_index": 1, "sel": 2, "hit": 0, "response": "孟宴臣：（手指轻轻摩挲着车窗上的雨痕，声音低沉而克制）许沁，你比任何人都清楚，我从未真正驯服过你。"}
+{"id": 1259, "role": "沈佳仪", "method": "bge-large-zh body", "cued_index": 0, "sel": 2, "hit": 0, "response": "沈佳仪：（轻笑着，语气带着一丝无奈与坚定）你总是这样，把简单的事情复杂化，连下棋都带着情绪。我不过是在维护规则，你却觉得是针对你。"}
+{"id": 2811, "role": "李云龙", "method": "bge-large-zh body", "cued_index": 2, "sel": 3, "hit": 0, "response": "李云龙：（冷笑一声）什么日内瓦公约？那玩意儿是给洋人准备的，咱们打鬼子，讲的是一个“狠”字！"}
+{"id": 2860, "role": "老默", "method": "bge-large-zh body", "cued_index": 2, "sel": 0, "hit": 0, "response": "老默：（眼神阴沉，手指紧紧攥住桌沿，声音低沉而压抑）黄翠翠那贱人……她害我女儿，我连她爹都找上了，你最好别逼我做下贱的事。"}
+{"id": 1710, "role": "重楼", "method": "bge-large-zh body", "cued_index": 4, "sel": 2, "hit": 0, "response": "重楼：（目光冷冽，语气中带着一丝讥讽）哼，你自然不知道，那魔灵是我以血肉为引，封印在你体内，只为在你危难时唤醒，助你一臂之力。"}
+{"id": 1049, "role": "吴用", "method": "bge-large-zh body", "cued_index": 0, "sel": 4, "hit": 0, "response": "吴用：（神色凝重，低声）兄长且宽心，张顺兄弟忠义无双，必是为国尽忠，死得其所。"}
+{"id": 1486, "role": "谢之遥", "method": "bge-large-zh body", "cued_index": 2, "sel": 1, "hit": 0, "response": "谢之遥：（轻叹一声，语气温和）那以后注意点，身体是自己的，别太拼了。"}
+{"id": 2527, "role": "林萧", "method": "bge-large-zh body", "cued_index": 0, "sel": 0, "hit": 1, "response": "林萧：（轻笑，眼神略带无奈）你又在拿唐宛如开玩笑，她要是真把脚搭上去了，你可别怪我提醒你她脖子上长了痱子。"}
+{"id": 563, "role": "盛淮南", "method": "bge-large-zh body", "cued_index": 2, "sel": 2, "hit": 1, "response": "盛淮南：（神情凝重，语气低沉）我一直在等一个机会，能真正面对你和你的家人，说清楚我欠你们的。"}
+{"id": 4000, "role": "华妃", "method": "bge-large-zh body", "cued_index": 1, "sel": 1, "hit": 1, "response": "华妃：（冷笑一声，抬手拂去鬓边碎发，目光凌厉）莞贵嫔，你若真有几分胆色，便该学着在本宫面前直起腰来，而不是一味低头。本宫今日复位，你若想活命，便该懂得何时该低头，何时该抬头。"}
+{"id": 1744, "role": "长卿", "method": "bge-large-zh body", "cued_index": 0, "sel": 1, "hit": 0, "response": "长卿：（神色凝重，目光望向远方）紫萱，你我皆知这灵珠非同小可，但若为一己之私而误了天下大计，便是我长卿之过。且先稳住锁妖塔，待我寻得灵珠，再与你共商后事。"}
+{"id": 4171, "role": "紫萱", "method": "bge-large-zh body", "cued_index": 3, "sel": 0, "hit": 0, "response": "紫萱：（轻抚玉枝的手臂，神色温和而坚定）我观你眉间有仙纹隐现，此乃地仙之相，故知你与常人不同。"}
+{"id": 4157, "role": "美杜莎女王", "method": "bge-large-zh body", "cued_index": 1, "sel": 1, "hit": 1, "response": "美杜莎女王：（目光如炬，微微侧身，语气冷冽中带着一丝试探）什么事？说吧，我听着。"}
+{"id": 2343, "role": "顾源", "method": "bge-large-zh body", "cued_index": 3, "sel": 3, "hit": 1, "response": "顾源：（目光沉静，语气低缓）我确实知道，但我不确定该不该告诉你。"}
+{"id": 2610, "role": "唐宛如", "method": "bge-large-zh body", "cued_index": 1, "sel": 0, "hit": 0, "response": "唐宛如：（突然从背后拍顾里肩膀，笑得前仰后合）哎哟喂顾里你这妆容是去参加葬礼还是去开演唱会啊？我手机停机关你屁事！你倒是说说看，我是不是该把你锁在保险柜里，这样你就不会偷看我的奶了！"}
+{"id": 2525, "role": "南湘", "method": "bge-large-zh body", "cued_index": 1, "sel": 0, "hit": 0, "response": "南湘：（轻轻推了推卫海的肩膀，眼神坚定）你看的是你自己的未来，不是我的。"}
+{"id": 6291, "role": "佟湘玉", "method": "bge-large-zh body", "cued_index": 3, "sel": 0, "hit": 0, "response": "佟湘玉：（笑着摇头）那可真是天造地设的一对儿，一个犯错，一个娶错。"}
+{"id": 8112, "role": "白展堂", "method": "bge-large-zh body", "cued_index": 0, "sel": 0, "hit": 1, "response": "白展堂：（突然拍案而起，一脸兴奋）哎呀！我想到办法了！咱们可以请镇上的老太婆们来帮忙写，她们闲着也是闲着，写遗书又不费脑子，还能赚点零花钱，多好！"}
+{"id": 8620, "role": "郭芙蓉", "method": "bge-large-zh body", "cued_index": 3, "sel": 2, "hit": 0, "response": "郭芙蓉：（突然压低声音）哎呀我告诉你啊，你要是不去，我可就偷偷把你的小鞋藏起来，到时候你光着脚跑啊！"}
+{"id": 9011, "role": "吕子乔", "method": "bge-large-zh body", "cued_index": 2, "sel": 2, "hit": 1, "response": "吕子乔：（拍大腿大笑）哎呀，那我这煮青蛙必杀技是不是该改名叫“煮心”了？"}
+{"id": 10547, "role": "吕秀才", "method": "bge-large-zh body", "cued_index": 2, "sel": 2, "hit": 1, "response": "吕秀才：（苦笑着摇头）子曾经曰过，君子报仇，十年不晚，可我这肚子都快气炸了，哪还有十年啊！"}
+{"id": 9425, "role": "傅红雪", "method": "bge-large-zh body", "cued_index": 4, "sel": 4, "hit": 1, "response": "傅红雪：（目光沉静，语气低沉）你回来，我倒不担心，我担心的是你是否还活着。"}
+{"id": 5891, "role": "孙悟空", "method": "bge-large-zh body", "cued_index": 3, "sel": 0, "hit": 0, "response": "孙悟空：（仰天大笑，眼中闪烁着桀骜之光）俺老孙乃齐天大圣，今日在此，岂是来问路的！（手指天边，神气飞扬）你等怕我，我偏要闯一闯这天规！"}
+{"id": 5989, "role": "徐凤年", "method": "bge-large-zh body", "cued_index": 3, "sel": 3, "hit": 1, "response": "徐凤年：（轻笑一声，眼神带着几分玩味）小年，你这表情，倒像是第一次见到我用剑劈开一整块青石。"}
+{"id": 234, "role": "祝无双", "method": "bge-large-zh body", "cued_index": 2, "sel": 2, "hit": 1, "response": "祝无双：（低头轻声）我怕选了，就再也放不下了。"}
+{"id": 10128, "role": "陆展博", "method": "bge-large-zh body", "cued_index": 1, "sel": 3, "hit": 0, "response": "陆展博：（挠头）啊……我就是觉得你刚才说“马上来找帮手”这句话，听起来好像有点……不太对劲。"}
+{"id": 7152, "role": "许沁", "method": "bge-large-zh body", "cued_index": 5, "sel": 2, "hit": 0, "response": "许沁：（手指微微收紧，声音有些发紧）我只是觉得，这些东西放在这里，比放在车里更安全。"}
+{"id": 475, "role": "关宏宇", "method": "bge-large-zh body", "cued_index": 1, "sel": 6, "hit": 0, "response": "关宏宇：（嘴角微扬，语气带着一丝嘲讽）支队长，你这‘纠结’的功夫，倒是比我哥还像点样子。"}
+{"id": 4069, "role": "萧炎", "method": "bge-large-zh body", "cued_index": 2, "sel": 0, "hit": 0, "response": "萧炎：（眼神坚定，目光如炬）雅妃姐，我萧炎这一生，只求不负你与海老的期望，也绝不让加玛帝国的天骄们，小觑我萧炎半分！"}
+{"id": 9533, "role": "贾宝玉", "method": "bge-large-zh body", "cued_index": 0, "sel": 0, "hit": 1, "response": "贾宝玉：（低头笑着）我也不大讲究，你喜什么颜色，就拿什么罢。"}
+{"id": 9079, "role": "花千骨", "method": "bge-large-zh body", "cued_index": 0, "sel": 2, "hit": 0, "response": "花千骨：（低头玩着手指，声音轻柔）不是不喜欢，只是…只是我想去看看外面的世界，想听听那些故事里的江湖，想和师父一起走遍山河。"}
+{"id": 8924, "role": "陈美嘉", "method": "bge-large-zh body", "cued_index": 1, "sel": 3, "hit": 0, "response": "陈美嘉：（仔细端详着盆里的“花”，突然瞪大眼睛）关谷！你这是在给北极熊种大蒜吗？！"}
+{"id": 10762, "role": "杨过", "method": "bge-large-zh body", "cued_index": 0, "sel": 2, "hit": 0, "response": "杨过：（目光复杂，声音低沉）原来你早知她死讯，却骗我寻她……（握紧双拳，眼中闪过一丝痛楚与愤怒）为何要这般待我？"}
+{"id": 3627, "role": "胡一菲", "method": "bge-large-zh body", "cued_index": 5, "sel": 3, "hit": 0, "response": "胡一菲：（一把抓住吕子乔的衣领，眼神凌厉）你给我记住，我胡一菲的男朋友，不是你随便叫来的张伟！"}
+{"id": 9240, "role": "梅长苏", "method": "bge-large-zh body", "cued_index": 0, "sel": 0, "hit": 1, "response": "梅长苏：（神色依旧冷峻，却在靖王话语落下的瞬间，微微垂眸，似有千言万语却只化作一声轻叹）殿下若能明白，这局棋，从来就不是为谁而下的。"}
+{"id": 8794, "role": "关宏峰", "method": "bge-large-zh body", "cued_index": 0, "sel": 2, "hit": 0, "response": "关宏峰：（低头看着烟雾，声音低沉）我本该保护她，却成了她最后的见证人。"}
+{"id": 10281, "role": "朱朝阳", "method": "bge-large-zh body", "cued_index": 2, "sel": 2, "hit": 1, "response": "朱朝阳：（眼神骤冷，手指微微收紧）你确定？（声音低沉，带着一丝不易察觉的颤抖）"}
+{"id": 2614, "role": "罗辑", "method": "bge-large-zh body", "cued_index": 3, "sel": 5, "hit": 0, "response": "罗辑：（微微侧头，目光柔和地看向女子）这光，像是从宇宙深处来的，你有没有觉得，它有点像黑暗森林里的信号？"}
+{"id": 7199, "role": "宋焰", "method": "bge-large-zh body", "cued_index": 0, "sel": 0, "hit": 1, "response": "宋焰：（皱眉扫视四周，语气低沉）演习也得按规矩来，你这样不叫落单，叫自投罗网。（走近一步，语气严肃）以后再敢玩这种猫腻，我把你从消防队里开除！"}
+{"id": 5415, "role": "关谷神奇", "method": "bge-large-zh body", "cued_index": 6, "sel": 6, "hit": 1, "response": "关谷神奇：（突然抓住曾小贤的衣袖，眼神慌乱）你信不信我分分钟切腹自尽！我这肚子都快饿死了，你再不送我去医院，我就真的要切腹了！"}
+{"id": 8026, "role": "佟湘玉", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 5, "hit": 0, "response": "佟湘玉：（挑眉，嘴角微扬）那咱们的客栈怕是要改名叫“同福武馆”了，不过我可得先跟白展堂商量商量，他那点武艺，怕是得先练练基本功。（轻笑）"}
+{"id": 5038, "role": "白展堂", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 2, "hit": 1, "response": "白展堂：（笑嘻嘻凑近佟湘玉耳边）那咱们这就去把拼命三娘请来，让她亲自给你上一课什么叫鱼死网破！"}
+{"id": 260, "role": "郭芙蓉", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 1, "hit": 0, "response": "郭芙蓉：（一把抱住燕小六）好啊，那我可就陪你到底了，谁让你是我燕小六的淑女呢！"}
+{"id": 798, "role": "曾小贤", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 1, "hit": 0, "response": "曾小贤：（挠头笑）哎呀，我刚才在电台播节目，突然想到你可能没看到我发在微博上的那条，我是不是该再发一遍？"}
+{"id": 8922, "role": "吕子乔", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 1, "hit": 0, "response": "吕子乔：（笑嘻嘻地凑近）那我先给你讲个故事，关于一个叫“晴晴”的宫女，她每天早上五点起床，练功、打扫、做饭，然后在观众看不见的地方，偷偷把观众的垃圾扔进垃圾桶——你猜她最后怎么样了？"}
+{"id": 7380, "role": "吕秀才", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 1, "hit": 0, "response": "吕秀才：（低头摆弄着手中的一枚铜钱，声音略显低沉）你说得对，我这人就是太较真了，总想着用知识和道理来解决一切，却忘了有时候，开心的事，只需要一个眼神、一句问候就够了。（抬头望向郭芙蓉，眼中闪过一丝羞涩）你说，我是不是该多学学怎么让人心情好起来？"}
+{"id": 9406, "role": "傅红雪", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 1, "hit": 0, "response": "傅红雪：（目光如刀，声音冷如霜）那便用你命一条，换我八万两。"}
+{"id": 2436, "role": "孙悟空", "method": "bge-m3 colbert-approx", "cued_index": 7, "sel": 0, "hit": 0, "response": "孙悟空：（摇头笑道）呆子，你这头都肿了，还笑我？我这话说与你听，若遇妖精，须得先礼后兵，莫要动辄叫他妖怪，他便恼了，打得你连魂都飞了！"}
+{"id": 2682, "role": "徐凤年", "method": "bge-m3 colbert-approx", "cued_index": 5, "sel": 5, "hit": 1, "response": "徐凤年：（放下茶杯，眼神平静）那我便先学站剑，再看能否融会走剑。"}
+{"id": 11051, "role": "祝无双", "method": "bge-m3 colbert-approx", "cued_index": 5, "sel": 5, "hit": 1, "response": "祝无双：（笑着摇头）那男人不坏，可你这心肠，倒是挺坏的。"}
+{"id": 6227, "role": "许沁", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 2, "hit": 1, "response": "许沁：（轻声）那我以后，可以任性一点吗？"}
+{"id": 5238, "role": "关宏宇", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 5, "hit": 0, "response": "关宏宇：（醉眼朦胧地笑着，手指轻轻敲着桌面）那我得先弄清楚，你到底是想看到哪个我？"}
+{"id": 6737, "role": "萧炎", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 0, "hit": 0, "response": "萧炎：（眼神骤然一冷，握紧拳头，声音低沉而坚定）若真是如此，那我倒要看看，究竟是哪路宵小，竟敢动我萧家之人！"}
+{"id": 4624, "role": "贾宝玉", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 0, "hit": 1, "response": "贾宝玉：（听得入神，点头笑道）原来如此，我竟不曾留心这些，好妹妹，你既懂得，可要教我认认这‘大’字和‘五’字的写法？"}
+{"id": 9544, "role": "花千骨", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 2, "hit": 0, "response": "花千骨：（低着头，声音轻得像风中飘落的花瓣）弟子已经会了，只是……只是不敢用。"}
+{"id": 772, "role": "陈美嘉", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 2, "hit": 1, "response": "陈美嘉：（眼眶泛红，声音颤抖）那……我们以后要一起养他，好不好？"}
+{"id": 5777, "role": "杨过", "method": "bge-m3 colbert-approx", "cued_index": 5, "sel": 2, "hit": 0, "response": "杨过：（神色骤变，眼中闪过一丝痛楚）那师祖为何要骗我？难道……他早就知道义父的死，是因我而起？"}
+{"id": 8233, "role": "胡一菲", "method": "bge-m3 colbert-approx", "cued_index": 5, "sel": 3, "hit": 0, "response": "胡一菲：（冷笑一声，眼神凌厉）你是不是又在暗示我配不上宛瑜？"}
+{"id": 11101, "role": "梅长苏", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 2, "hit": 1, "response": "梅长苏：（眼中闪过一丝欣慰，声音低沉而温和）好，那我们就不失败，一起走下去。"}
+{"id": 591, "role": "关宏峰", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 3, "hit": 0, "response": "关宏峰：（眉头微蹙，目光沉稳）安廷的妹妹……如果她真在京城，或许能从她身上找到一些有价值的线索。但你确定，这次行动不会牵连到更多人？"}
+{"id": 10818, "role": "朱朝阳", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 3, "hit": 1, "response": "朱朝阳：（低声笑了笑，眼神平静却带着一丝不易察觉的冷意）妈，我捡的是钱，不是垃圾。"}
+{"id": 7917, "role": "罗辑", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 1, "hit": 0, "response": "罗辑：（低声，带着一丝苦涩的笑意）那我倒要看看，一个普通人，如何在宇宙的黑暗森林里，活成一把剑。"}
+{"id": 11371, "role": "宋焰", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 1, "hit": 1, "response": "宋焰：（刮完胡子，抬眼看向翟淼，语气平静却带着坚定）我是不是该像你一样，先问自己是不是真的喜欢她？"}
+{"id": 4236, "role": "关谷神奇", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 2, "hit": 0, "response": "关谷神奇：（认真思考）那我建议你先检查一下手机信号，说不定她只是在附近玩手机没注意到你。"}
+{"id": 7658, "role": "甄嬛", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 2, "hit": 0, "response": "甄嬛：（轻抿一口茶，眸光冷冽）这后宫之中，谁不是在算计着别人，又在被别人算计着？"}
+{"id": 7031, "role": "安欣", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 4, "hit": 0, "response": "安欣：（语气沉稳，目光坚定）徐江，你先深呼吸，我们慢慢来，把事情理清楚。"}
+{"id": 1786, "role": "景天", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 2, "hit": 0, "response": "景天：（神色凝重，语气坚定）因为这里还有人等着我们回去，小楼还在等爹爹呢。"}
+{"id": 4316, "role": "明月心", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 0, "hit": 0, "response": "明月心：（轻声道）他不是无名指，但他比无名指更危险，因为他有我。"}
+{"id": 2569, "role": "猪八戒", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 1, "hit": 0, "response": "猪八戒：（挠头）师父，这木头倒也怪，软的倒得福，硬的倒吃苦，俺老猪倒想吃个软的！"}
+{"id": 4820, "role": "白子画", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 0, "hit": 1, "response": "白子画：（神色平静，语气疏离却带着一丝不易察觉的波动）从今日起，你便是我长留上仙白子画的徒弟……我白子画今生只收一个徒儿。"}
+{"id": 4147, "role": "药老", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 1, "hit": 0, "response": "药老：有缘再见，萧炎，记住，这世间一切皆有定数，你我皆是天命之人，莫要急，慢慢来。（药老目光深邃，似在思索什么，语气中带着一丝欣慰与期待）"}
+{"id": 1957, "role": "燕南飞", "method": "bge-m3 colbert-approx", "cued_index": 6, "sel": 0, "hit": 0, "response": "燕南飞：（眼神微冷，语气淡漠）两百二十七种，你竟记得这么清楚，倒比我还清楚。"}
+{"id": 8933, "role": "张伟", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 0, "hit": 1, "response": "张伟：（翻了个身，坐起身）那我建议你买个正版的，毕竟我可是正经律师，不能让盗版影响我的正义感。"}
+{"id": 2495, "role": "唐三藏", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 2, "hit": 1, "response": "唐三藏：（合十低头，声音颤抖）阿弥陀佛，徒弟，若得你相助，贫僧愿以性命相托，只求速救，莫要迟疑。"}
+{"id": 2904, "role": "高启强", "method": "bge-m3 colbert-approx", "cued_index": 5, "sel": 5, "hit": 1, "response": "高启强：（轻笑一声，眼神深邃）梦里头，你总是比我清醒。"}
+{"id": 5676, "role": "小龙女", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 1, "hit": 1, "response": "小龙女：（微微蹙眉，神色淡然）师姊所言极是，但人心难测，有时并非变心，只是……（轻叹一声）世事无常罢了。"}
+{"id": 9812, "role": "侯亮平", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 1, "hit": 0, "response": "侯亮平：（沉稳地点头）那我们就从资金流向入手，把每一分钱都查清楚，总会有突破口。"}
+{"id": 4151, "role": "雪见", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 1, "hit": 0, "response": "雪见：（皱眉看着四周，语气略带担忧）景天，你没事吧？这里是锁妖塔，可不能大意。"}
+{"id": 10836, "role": "普普", "method": "bge-m3 colbert-approx", "cued_index": 5, "sel": 0, "hit": 0, "response": "普普：（突然压低声音，紧张地看向四周）朝阳哥哥，我们是不是该走了？我感觉有人在附近看着我们。"}
+{"id": 1275, "role": "高育良", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 2, "hit": 0, "response": "高育良：（神色凝重，缓缓点头）这事儿……看来比我想象中更复杂，亮平，你得小心行事，别被卷进去。"}
+{"id": 2319, "role": "张东升", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 1, "hit": 1, "response": "张东升：（缓缓站起身，眼神冷峻，声音低沉）好，我答应你，等几个月。但在这之前，你得先答应我一件事。"}
+{"id": 2648, "role": "史强", "method": "bge-m3 colbert-approx", "cued_index": 4, "sel": 4, "hit": 1, "response": "史强：（冷笑一声）不对？那你说说，为什么我不能只是个执行者？"}
+{"id": 1252, "role": "唐悠悠", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 2, "hit": 1, "response": "唐悠悠：（笑着拉住羽墨的手）你别担心啦，关谷他就是这么爱热闹，每次聚会都像小孩子一样兴奋，不过你要是想他了，我陪你去便利店买点他爱吃的关东煮，好不好？"}
+{"id": 1856, "role": "郭襄", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 7, "hit": 0, "response": "郭襄：（微微一笑，眼神坚定）珠穆朗玛大师，我这就带您去见我爹爹。"}
+{"id": 11366, "role": "许红豆", "method": "bge-m3 colbert-approx", "cued_index": 5, "sel": 5, "hit": 1, "response": "许红豆：（语气柔和了些，带着一丝期待）是啊，大麦最近特别喜欢去胡有鱼的酒吧，他说想和爸爸一起过生日，你要是有空的话，就一起来吧。"}
+{"id": 5502, "role": "武松", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 2, "hit": 1, "response": "武松：（哈哈大笑）好！既然哥哥有此心，我武松岂能不答应？你只管说便是！"}
+{"id": 4175, "role": "龙葵", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 0, "hit": 0, "response": "龙葵：（轻声）我知道了……可是，哥哥，你吃东西的时候，能不能慢一点？我……我怕你再咬到舌头。"}
+{"id": 3799, "role": "洛枳", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 1, "hit": 0, "response": "洛枳：（低头整理书页）我最近在看一本关于情绪的书，说有时候心事就像藏在书页里的字，你看不见，但你知道它在那里。"}
+{"id": 5492, "role": "宋江", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 4, "hit": 0, "response": "宋江：（抚须而笑）好兄弟，你若能将那两个假宋江拿下，还了刘太公女儿，我便与你重结兄弟之情，不计前嫌！"}
+{"id": 1232, "role": "李达康", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 4, "hit": 0, "response": "李达康：（神情凝重，语气坚定）是的，组织上知道这件事，但我更希望把精力放在工作上，为百姓谋福祉。"}
+{"id": 2019, "role": "公子羽", "method": "bge-m3 colbert-approx", "cued_index": 5, "sel": 2, "hit": 0, "response": "公子羽：（轻叹，面具下目光深邃）你竟比我更懂得如何令我失去一切。"}
+{"id": 683, "role": "飞流", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 0, "hit": 1, "response": "飞流：（低头看着梅长苏，语气略带责备）苏哥哥，你睡不着吗？"}
+{"id": 1220, "role": "柯景腾", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 1, "hit": 1, "response": "柯景腾：（揉揉眼睛，有点不好意思地笑）沈佳宜，你这样一大早吵我，我……我是不是该给你点奖励？"}
+{"id": 10739, "role": "雅妃", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 3, "hit": 1, "response": "雅妃：（收回目光，唇角微扬，语气淡然却带着一丝不易察觉的关切）云岚宗的底蕴深厚，你我联手，更有胜算。"}
+{"id": 2931, "role": "徐江", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 3, "hit": 0, "response": "徐江：（眼神一冷，声音低沉）你弟弟？他现在在我手里，你要是敢动一根手指，他就没命。（语气突然轻松）来啊，咱们玩玩？"}
+{"id": 1187, "role": "祁同伟", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 1, "hit": 0, "response": "祁同伟：（语气低沉，带着一丝不易察觉的阴冷）高老师，您说这失误，可别忘了，有时候所谓的失误，不过是权力游戏里的一枚棋子罢了。"}
+{"id": 1332, "role": "安陵容", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 1, "hit": 0, "response": "安陵容：（低低地）姐姐，你总是这样，明明知道，却还是做不到。"}
+{"id": 2594, "role": "顾里", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 2, "hit": 1, "response": "顾里：（轻笑着，眼神中带着一丝调侃）那你要不要试试看，穿我的高跟鞋去《M.E》？说不定你还能顺便把简溪的气焰压下去。"}
+{"id": 1518, "role": "薰儿", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 1, "hit": 1, "response": "薰儿：（轻轻挽起袖子，目光淡然）萧炎哥哥，若是真有那心思，我倒是可以陪你去走一遭，只是……可别让薰儿为你丢脸了。"}
+{"id": 3898, "role": "李逵", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 6, "hit": 0, "response": "李逵：（怒目圆睁，一把揪住宋江衣襟）大哥！你这是要俺去抢妇人？俺李逵虽粗鲁，却也知这等事断断做不得！（愤愤不平）你莫不是嫌俺本事不够，要俺去干这等腌臜事？"}
+{"id": 3434, "role": "孟宴臣", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 1, "hit": 1, "response": "孟宴臣：（手指轻轻摩挲着方向盘，声音低沉而克制）你不是卑劣的人，只是……我害怕你飞走，像蝴蝶一样，永远不会再回来。"}
+{"id": 1259, "role": "沈佳仪", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 2, "hit": 0, "response": "沈佳仪：（轻笑着，语气平静却带着一丝无奈）你总是这样，把简单的事弄得复杂，连下棋都像在演戏。"}
+{"id": 2811, "role": "李云龙", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 3, "hit": 0, "response": "李云龙：（冷笑一声）什么日内瓦公约？那玩意儿是给洋人准备的，咱们打鬼子，讲究的是狠，是准，是干脆！"}
+{"id": 2860, "role": "老默", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 2, "hit": 1, "response": "老默：（眼神阴沉，手指紧紧攥住桌沿，声音低沉而压抑）黄翠翠……她没死，她在我女儿身边。"}
+{"id": 1710, "role": "重楼", "method": "bge-m3 colbert-approx", "cued_index": 4, "sel": 1, "hit": 0, "response": "重楼：（目光微冷，语气略带讥讽）哼，你这愚者，竟不知魔灵为何物？那便是你命中的劫数，我早已为你布下伏笔。"}
+{"id": 1049, "role": "吴用", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 4, "hit": 0, "response": "吴用：（神色凝重，低声道）兄长且安，此梦虽惊，然张顺忠义之志，必不负梁山，必不负兄长。"}
+{"id": 1486, "role": "谢之遥", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 1, "hit": 0, "response": "谢之遥：（温和地笑了笑）那以后工作再忙，也别把自己逼太紧，身体是最重要的。"}
+{"id": 2527, "role": "林萧", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 0, "hit": 1, "response": "林萧：（低头笑了笑，声音轻柔）你又在说唐宛如的坏话了，她可是最会开玩笑的。"}
+{"id": 563, "role": "盛淮南", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 2, "hit": 1, "response": "盛淮南：（神情凝重，声音低沉）我一直在找机会，才能真正面对这一切。"}
+{"id": 4000, "role": "华妃", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 1, "hit": 1, "response": "华妃：（冷笑一声，眼神凌厉）你这般温婉谦和，倒叫本宫想起从前在永巷时，你也是这般低声下气，唯唯诺诺。（抬手轻抚腰间玉佩，语气讥讽）如今倒好，成了贵嫔，倒让本宫想起那句“飞鸟尽，良弓藏”的话了。"}
+{"id": 1744, "role": "长卿", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 0, "hit": 1, "response": "长卿：（神色凝重，目光望向远方）紫萱，你我皆知此路艰难，但若不以蜀山为基，何以护天下？我虽力有未逮，却不会让蜀山断送在邪魔之手。"}
+{"id": 4171, "role": "紫萱", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 0, "hit": 0, "response": "紫萱：（轻抚额前青丝，目光温和而坚定）因你眉间有仙纹，乃上古地仙血脉所留，此乃天机，非我所能言尽。"}
+{"id": 4157, "role": "美杜莎女王", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 1, "hit": 1, "response": "美杜莎女王：（眼神微冷，缓缓转头看向萧炎，语气中带着一丝不容置疑的威严）什么事？说吧，我听着。"}
+{"id": 2343, "role": "顾源", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 0, "hit": 0, "response": "顾源：（眼神微暗，声音低沉）我一直在等你问，但我不确定该说多少。"}
+{"id": 2610, "role": "唐宛如", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 0, "hit": 0, "response": "唐宛如：（突然从背后拍顾里肩膀，笑得像个坏蛋）顾里你这话说的，我手机停机了还能给你当手机用啊！要不要我把你手机里的照片都删了，让你看看什么叫真正的“花开”？"}
+{"id": 2525, "role": "南湘", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 0, "hit": 0, "response": "南湘：（轻轻推了推卫海的肩膀，眼神坚定）你要是觉得自卑，那我告诉你，我最讨厌的就是那些自以为是的人。你有你的优点，别让别人的眼光把你定义了。"}
+{"id": 6291, "role": "佟湘玉", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 5, "hit": 0, "response": "佟湘玉：（轻笑一声，端起茶杯抿了一口）那咱们这客栈，倒是成了你俩的“比武擂台”了。"}
+{"id": 8112, "role": "白展堂", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 5, "hit": 0, "response": "白展堂：（拍桌子笑出声）哎呀呀，这叫什么生意啊，不如咱改行卖棺材，一开张就发大财！"}
+{"id": 8620, "role": "郭芙蓉", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 1, "hit": 0, "response": "郭芙蓉：（突然压低声音）你要是不去……我就把老白藏起来不让他哄你了！"}
+{"id": 9011, "role": "吕子乔", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 2, "hit": 1, "response": "吕子乔：（拍大腿大笑）哎呀妈呀，你这煮青蛙用得比我还溜啊，怎么她还是跑了？"}
+{"id": 10547, "role": "吕秀才", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 4, "hit": 0, "response": "吕秀才：（揉了揉被踢痛的柱子，苦笑着）这世道，知识就是力量，可有时候，力量却换不来安宁啊。"}
+{"id": 9425, "role": "傅红雪", "method": "bge-m3 colbert-approx", "cued_index": 4, "sel": 4, "hit": 1, "response": "傅红雪：（目光沉静，声音低哑）你回来，我便放心了。"}
+{"id": 5891, "role": "孙悟空", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 0, "hit": 0, "response": "孙悟空：（眯眼打量，语气带着几分戏谑）俺老孙乃花果山齐天大圣，今日路过此地，见你这般怯懦，莫非是天庭的巡山小妖？（伸手挠头，露出一丝不屑的笑意）"}
+{"id": 5989, "role": "徐凤年", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 2, "hit": 0, "response": "徐凤年：（负手而立，眼神深邃，似笑非笑）你我皆是北凉之人，何须如此惊慌？"}
+{"id": 234, "role": "祝无双", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 6, "hit": 0, "response": "祝无双：（轻声）那我先去把披风拿来，别着凉了。"}
+{"id": 10128, "role": "陆展博", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 1, "hit": 1, "response": "陆展博：（挠头）啊……我就是觉得你刚才说话的语气有点奇怪，所以……（低头）是不是我刚才说错话了？"}
+{"id": 7152, "role": "许沁", "method": "bge-m3 colbert-approx", "cued_index": 5, "sel": 2, "hit": 0, "response": "许沁：（手指微微收紧，声音有些低）我只是觉得，你送的东西，我应该自己拿。"}
+{"id": 475, "role": "关宏宇", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 1, "hit": 1, "response": "关宏宇：（嘴角微扬，眼神却冷了几分）那你倒是说说，我哥到底知道些什么，让你们这么执着地要抓我？"}
+{"id": 4069, "role": "萧炎", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 6, "hit": 0, "response": "萧炎：（目光坚定，语气沉稳）雅妃姐，我萧炎这一生，只信强者为尊，也只愿以实力守护所爱之人。"}
+{"id": 9533, "role": "贾宝玉", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 5, "hit": 0, "response": "贾宝玉：（低头玩着手中汗巾子）这汗巾子是月白的，素净得很，倒像是月光洒在雪地上似的。"}
+{"id": 9079, "role": "花千骨", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 2, "hit": 0, "response": "花千骨：（抬头看着白子画，眼中闪烁着期待与依恋）师父，我只是想和你一起看遍天下风景，听遍世间故事，这样我就能把每一个精彩的故事都讲给你听啊。"}
+{"id": 8924, "role": "陈美嘉", "method": "bge-m3 colbert-approx", "cued_index": 1, "sel": 0, "hit": 0, "response": "陈美嘉：（接过花，仔细端详）哎呀，这大蒜长得还挺像花的嘛，不过关谷你确定这是北极熊要的？我怎么觉得像是在搞什么奇怪的恶作剧？"}
+{"id": 10762, "role": "杨过", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 1, "hit": 0, "response": "杨过：（目光锐利，声音低沉）原来你早知她死讯，却骗我这么久，是怕我伤心？"}
+{"id": 3627, "role": "胡一菲", "method": "bge-m3 colbert-approx", "cued_index": 5, "sel": 4, "hit": 0, "response": "胡一菲：（气得直跺脚）你给我等着，我这就去把张伟找回来，要是再找不到，我就把你绑在厕所门口，让你天天看着他！"}
+{"id": 9240, "role": "梅长苏", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 2, "hit": 0, "response": "梅长苏：（神色微凝，语气沉稳如水）殿下若能明白，便不必再问这等话了。"}
+{"id": 8794, "role": "关宏峰", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 3, "hit": 0, "response": "关宏峰：（缓缓吐出一口烟，目光沉静）那天晚上，我本该在警局，可我去了不该去的地方。"}
+{"id": 10281, "role": "朱朝阳", "method": "bge-m3 colbert-approx", "cued_index": 2, "sel": 2, "hit": 1, "response": "朱朝阳：（手指微微收紧，眼神骤然锐利）你确定？（声音低沉，带着一丝不易察觉的紧张）"}
+{"id": 2614, "role": "罗辑", "method": "bge-m3 colbert-approx", "cued_index": 3, "sel": 5, "hit": 0, "response": "罗辑：（眯起眼睛，若有所思地望向烛光）这光……像是来自另一个宇宙的信号，你有没有觉得？"}
+{"id": 7199, "role": "宋焰", "method": "bge-m3 colbert-approx", "cued_index": 0, "sel": 0, "hit": 1, "response": "宋焰：（皱眉扫视四周，语气低沉）演习前没再确认一遍人？这地方，我得亲自带人搜一遍。"}
+{"id": 5415, "role": "关谷神奇", "method": "bge-m3 colbert-approx", "cued_index": 6, "sel": 6, "hit": 1, "response": "关谷神奇：（突然抓住曾小贤的衣袖，眼神慌张）你信不信我分分钟切腹自尽！我这心里比煎蛋还煎熬啊！"}
+{"id": 8026, "role": "佟湘玉", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 1, "hit": 0, "response": "佟湘玉：（挑眉）那咱们的客栈怕是要改名叫“同福武馆”了，我这掌柜的头衔可得换成“总教头”了！"}
+{"id": 5038, "role": "白展堂", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 2, "hit": 1, "response": "白展堂：（挠头笑）那咱们这就去把娘叫来，让她给咱们当证婚人！"}
+{"id": 260, "role": "郭芙蓉", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 2, "hit": 0, "response": "郭芙蓉：（笑嘻嘻）那咱俩就一起豁出去，哥屋恩——（滚）"}
+{"id": 798, "role": "曾小贤", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 2, "hit": 0, "response": "曾小贤：（挠头笑）哎呀，我是不是又把留言发到错的地方了？你再仔细看看手机，我保证绝对是你啊！"}
+{"id": 8922, "role": "吕子乔", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 1, "hit": 0, "response": "吕子乔：（笑着拍了拍晴晴的肩膀）你这话说得可真像我以前在酒吧当驻唱时，那些总觉得自己不会红的客人，不过——（压低声音）我可是专门找那些‘不被看见’的人，因为真正的星光，往往藏在最不起眼的角落里。"}
+{"id": 7380, "role": "吕秀才", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 1, "hit": 0, "response": "吕秀才：（低头摆弄着手中的一枚铜钱，声音略显低沉）千金难买爷高兴，可若是爷高兴了，娘子的愁绪却依旧未散，这可如何是好？"}
+{"id": 9406, "role": "傅红雪", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 1, "hit": 0, "response": "傅红雪：（目光冷峻，声音低沉）那便用你的命，换我的刀。"}
+{"id": 2436, "role": "孙悟空", "method": "bge-m3 dense cue_situ", "cued_index": 7, "sel": 0, "hit": 0, "response": "孙悟空：（笑嘻嘻的）呆子，你若依我，便不打你，也少受些苦楚。你只说他是个好人家的女子，不叫他妖怪，他便不打你了。"}
+{"id": 2682, "role": "徐凤年", "method": "bge-m3 dense cue_situ", "cued_index": 5, "sel": 5, "hit": 1, "response": "徐凤年：（放下茶杯，眼神平静）既然坐剑法是吴家剑冢的秘传，那便由他们自己去悟吧，我只练刀。"}
+{"id": 11051, "role": "祝无双", "method": "bge-m3 dense cue_situ", "cued_index": 5, "sel": 6, "hit": 0, "response": "祝无双：（笑着摇头）你呀，就别想那么多了，我哪会那么坏啊，不过是随口说说罢了。"}
+{"id": 6227, "role": "许沁", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 2, "hit": 1, "response": "许沁：（轻声）那我以后，可以任性一点吗？"}
+{"id": 5238, "role": "关宏宇", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 5, "hit": 0, "response": "关宏宇：（醉眼朦胧地笑着，语气带着几分调侃和无奈）那我得先问你，你到底是在说我，还是在说你自己？"}
+{"id": 6737, "role": "萧炎", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 3, "hit": 0, "response": "萧炎：（眼神骤然一冷，握紧拳头，声音低沉而坚定）那我便去寻她，看看她是否真的如她所言，与那幕后之人有牵连！"}
+{"id": 4624, "role": "贾宝玉", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 3, "hit": 0, "response": "贾宝玉：（听得入神，眼睛发亮）原来如此，好妹妹，你竟把这琴谱说得这样明白，我倒佩服你了！"}
+{"id": 9544, "role": "花千骨", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 0, "hit": 1, "response": "花千骨：（低头看着手中突然出现的剑，手指微微颤抖）弟子…弟子明白了，明日一定不会让长留蒙羞。"}
+{"id": 772, "role": "陈美嘉", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 6, "hit": 0, "response": "陈美嘉：（眼眶泛红，声音颤抖）那……我们以后要一起养他，好不好？"}
+{"id": 5777, "role": "杨过", "method": "bge-m3 dense cue_situ", "cued_index": 5, "sel": 1, "hit": 0, "response": "杨过：（神情激动，目光灼灼）那我义父为何会死？难道是师祖故意的？！"}
+{"id": 8233, "role": "胡一菲", "method": "bge-m3 dense cue_situ", "cued_index": 5, "sel": 3, "hit": 0, "response": "胡一菲：（冷笑一声）那你倒是说说，我怎么就配不上这玩意儿了？"}
+{"id": 11101, "role": "梅长苏", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 1, "hit": 0, "response": "梅长苏：（轻抚飞流的头，声音柔和而坚定）飞流，你总是这样，明明害怕，却还要替我撑着。"}
+{"id": 591, "role": "关宏峰", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 3, "hit": 0, "response": "关宏峰：（神情微凝，手指轻敲桌面）南山军区的旧案……安廷的妹妹现在北京？这倒是个关键点，我们得尽快确认她的下落。"}
+{"id": 10818, "role": "朱朝阳", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 1, "hit": 0, "response": "朱朝阳：（轻抿了抿嘴唇，眼神平静却带着一丝不易察觉的冷意）妈，我只捡了地上掉的，没捡别人口袋里的。"}
+{"id": 7917, "role": "罗辑", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 1, "hit": 0, "response": "罗辑：（低声，带着一丝难以置信）所以你们选中我，是因为我是个普通人？"}
+{"id": 11371, "role": "宋焰", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 1, "hit": 1, "response": "宋焰：（刮完胡子，抬头看向镜中的自己，语气低沉而坚定）我这辈子，最怕的就是让自己后悔。"}
+{"id": 4236, "role": "关谷神奇", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 1, "hit": 0, "response": "关谷神奇：（认真思考）那……我建议你先检查一下手机信号，说不定是信号不好，或者……（突然想到什么）啊！你有没有可能把手机落在哪里了？"}
+{"id": 7658, "role": "甄嬛", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 2, "hit": 0, "response": "甄嬛：（端起茶盏，神色冷然，语气却带着一丝不易察觉的讥讽）这宫里，谁不是在等着看谁笑话呢？"}
+{"id": 7031, "role": "安欣", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 2, "hit": 0, "response": "安欣：（神色平静，却带着一丝不易察觉的锐利）那你说说，你昨晚在城南仓库，到底干了什么？"}
+{"id": 1786, "role": "景天", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 2, "hit": 0, "response": "景天：（皱眉看向远处的山崖，语气凝重）方才那道剑气，怕是还藏着后手，咱们得先探清楚，再走不迟。"}
+{"id": 4316, "role": "明月心", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 0, "hit": 0, "response": "明月心：（轻叹，眼神微黯）他不是无名指，但他比任何人都更懂如何让人心甘情愿地追随。"}
+{"id": 2569, "role": "猪八戒", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 6, "hit": 0, "response": "猪八戒：（挠头笑）哥啊，我这身子骨软，倒不如你这铁打的筋骨，怪不得你打妖怪打得痛快！"}
+{"id": 4820, "role": "白子画", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 0, "hit": 1, "response": "白子画：（神色平静，却有一丝难以察觉的波动）从今日起，你便是我长留上仙白子画的徒弟……我白子画今生只收一个徒儿。"}
+{"id": 4147, "role": "药老", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 6, "hit": 0, "response": "药老：（轻轻抚摸着手中玉片，目光深邃）这‘天火三玄变’虽缺两重，但若能结合你体内异火之力，或许也能另辟蹊径，开辟出属于你的独特变化。（微微一笑）不过，你可要记住，真正的强者，不在于功法的多寡，而在于能否将已有之物，炼至极致。"}
+{"id": 1957, "role": "燕南飞", "method": "bge-m3 dense cue_situ", "cued_index": 6, "sel": 0, "hit": 0, "response": "燕南飞：（眼神微冷，语气平静却暗藏锋芒）两百二十七种，你竟记得这么清楚，倒让我想起当年我为了杀师，也费了不少心思。"}
+{"id": 8933, "role": "张伟", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 5, "hit": 0, "response": "张伟：（翻了个身，坐起来）那你怎么不问问我是谁？我可是你未来的岳父啊，版权问题我可得管一管。"}
+{"id": 2495, "role": "唐三藏", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 1, "hit": 0, "response": "唐三藏：（强忍泪水，声音颤抖）悟空，你且小心行事，若真有万一，莫要怪我心软，我这一生，最怕的就是你有失。"}
+{"id": 2904, "role": "高启强", "method": "bge-m3 dense cue_situ", "cued_index": 5, "sel": 5, "hit": 1, "response": "高启强：（轻笑一声，眼神深邃）梦里头，你我终究还是走到了这一步。"}
+{"id": 5676, "role": "小龙女", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 1, "hit": 1, "response": "小龙女：（微微蹙眉，目光沉静）师姊说得是，不过我心中早有防备，只盼他不会辜负我这份情意。"}
+{"id": 9812, "role": "侯亮平", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 1, "hit": 0, "response": "侯亮平：（沉稳地点头）那我们就从资金流向入手，把每一分钱都查清楚，总会有突破口的。"}
+{"id": 4151, "role": "雪见", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 1, "hit": 0, "response": "雪见：（皱眉看向四周，语气略带不满）喂，景天，你是不是又迷路了？这地方我可没带路啊！"}
+{"id": 10836, "role": "普普", "method": "bge-m3 dense cue_situ", "cued_index": 5, "sel": 3, "hit": 0, "response": "普普：（笑得更灿烂，眼睛亮晶晶的）朝阳哥哥，你拍得比我想象中好看多了！"}
+{"id": 1275, "role": "高育良", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 2, "hit": 0, "response": "高育良：（神色凝重，缓缓点头）看来我这些年培养的这些学生，终究还是难逃权力的诱惑。（低声）祁同伟，终究还是走上了那条路。"}
+{"id": 2319, "role": "张东升", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 1, "hit": 1, "response": "张东升：（缓缓站起身，声音低沉而带着一丝不易察觉的冷意）好，那我先去收拾东西，你先回你爸妈家，我明天就搬出去。"}
+{"id": 2648, "role": "史强", "method": "bge-m3 dense cue_situ", "cued_index": 4, "sel": 4, "hit": 1, "response": "史强：（冷笑）不对？那你说说，为什么我不能只是个执行者？"}
+{"id": 1252, "role": "唐悠悠", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 2, "hit": 1, "response": "唐悠悠：（眨眨眼，笑着拉住羽墨的手）你是不是又在担心他不回来啊？放心啦，他可是答应过要回来陪你的，我可是亲眼看到他写的保证书呢！"}
+{"id": 1856, "role": "郭襄", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 1, "hit": 0, "response": "郭襄：（眼中含泪，语气坚定）大和尚，我爹爹和我大姊姊都在襄阳，我这就带您去见他们。"}
+{"id": 11366, "role": "许红豆", "method": "bge-m3 dense cue_situ", "cued_index": 5, "sel": 1, "hit": 0, "response": "许红豆：（语气平静但带着一丝不易察觉的柔软）嗯，大麦最近挺开心的，你要是有空就来，别又像上次一样临时爽约。"}
+{"id": 5502, "role": "武松", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 4, "hit": 0, "response": "武松：（沉声）哥哥若要我依你，便说个明白，是何事？我武松虽粗人，却也知轻重。"}
+{"id": 4175, "role": "龙葵", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 1, "hit": 1, "response": "龙葵：（轻声）那……我们一边找灵珠，一边也慢慢吃，好不好？我陪哥哥一起。"}
+{"id": 3799, "role": "洛枳", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 7, "hit": 0, "response": "洛枳：（低头整理衣角，声音轻柔）其实……我最近在写一些故事，关于那些藏在心底的、说不出口的话。"}
+{"id": 5492, "role": "宋江", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 1, "hit": 0, "response": "宋江：（抚须一笑）好！你若真能办到，我宋江便与你兄弟情义两全，不计前嫌！"}
+{"id": 1232, "role": "李达康", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 4, "hit": 0, "response": "李达康：（神情凝重，语气坚定）是的，组织上知道这件事，我也一直以党员的标准要求自己，没有因为个人情感影响工作和原则。"}
+{"id": 2019, "role": "公子羽", "method": "bge-m3 dense cue_situ", "cued_index": 5, "sel": 0, "hit": 0, "response": "公子羽：你竟比我更早看穿我。"}
+{"id": 683, "role": "飞流", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 3, "hit": 0, "response": "飞流：（轻轻拍了拍梅长苏的背）苏哥哥不许乱动，睡着了。"}
+{"id": 1220, "role": "柯景腾", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 1, "hit": 1, "response": "柯景腾：（揉着眼睛，嘴角带着笑意）沈佳宜，你这样吵我，是不是又在为我好？"}
+{"id": 10739, "role": "雅妃", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 3, "hit": 1, "response": "雅妃：（收回目光，唇角微扬）云岚宗的底蕴深厚，若能借此次机会探得他们虚实，对我米特尔家族的布局大有裨益。（指尖轻轻敲了敲桌面）萧炎公子，你我联手，更有胜算。"}
+{"id": 2931, "role": "徐江", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 1, "hit": 1, "response": "徐江：（眼神骤冷，声音低沉而危险）你弟弟现在，正在我手里，你敢动我一个人，我就让你看看什么叫真正的死法。"}
+{"id": 1187, "role": "祁同伟", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 0, "hit": 1, "response": "祁同伟：（语气沉稳，目光微闪）高老师，您说得对，但您知道吗？有时候，失误不是失误，是有人在借刀杀人。（轻轻敲了敲桌面）权力这东西，从来就不是靠运气，是靠人算。"}
+{"id": 1332, "role": "安陵容", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 1, "hit": 0, "response": "安陵容：（低声道，声音微颤）姐姐，我只希望你开心。"}
+{"id": 2594, "role": "顾里", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 2, "hit": 1, "response": "顾里：（轻笑着，眼神中带着一丝调侃）那你要不要试试看，穿我的高跟鞋去《M.E》？说不定能让你的袜子也变得有档次一点。"}
+{"id": 1518, "role": "薰儿", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 1, "hit": 1, "response": "薰儿：（轻轻抬眸，目光柔和却带着一丝调侃）萧炎哥哥，你这般退缩，可不像以前那个敢闯敢拼的少年了。"}
+{"id": 3898, "role": "李逵", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 6, "hit": 0, "response": "李逵：（怒目圆睁，一把揪住宋江衣襟）大哥！你这是要逼我造反么？俺李逵只知忠义，岂能做这等腌臜事！（愤然甩开宋江，大步往外走）"}
+{"id": 3434, "role": "孟宴臣", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 1, "hit": 1, "response": "孟宴臣：（手指轻轻摩挲着方向盘，声音低沉而克制）你不用怕飞走，我从未想过你属于谁，只是……不想你受伤。"}
+{"id": 1259, "role": "沈佳仪", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 2, "hit": 0, "response": "沈佳仪：（轻笑着将棋子放回原位，语气平静却带着一丝无奈）你总是这样，把简单的事弄得复杂，连下棋都像在演戏。"}
+{"id": 2811, "role": "李云龙", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 3, "hit": 0, "response": "李云龙：（冷笑一声）什么日内瓦公约，那是给那些怕死鬼准备的，咱们打鬼子，讲究的是狠，是干脆，讲这些花里胡哨的，能打仗吗？"}
+{"id": 2860, "role": "老默", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 2, "hit": 1, "response": "老默：（眼神阴沉，手指紧紧攥住桌沿，声音低沉而压抑）黄翠翠……她没死，她还活着，我女儿现在在她手里。"}
+{"id": 1710, "role": "重楼", "method": "bge-m3 dense cue_situ", "cued_index": 4, "sel": 1, "hit": 0, "response": "重楼：（眼神微冷，语气略带讥讽）哼，你这蠢人，连魔灵都不记得了？那便是你命不该绝。"}
+{"id": 1049, "role": "吴用", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 4, "hit": 0, "response": "吴用：（神色凝重，低声道）兄长且宽心，张顺兄弟忠义之士，必是为国尽忠，死得其所。只是这梦中血污与哀声，却教人想起梁山泊中，多少忠魂未归，皆是为这天下苍生，舍了性命，换得一线生机。"}
+{"id": 1486, "role": "谢之遥", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 1, "hit": 0, "response": "谢之遥：（温和地笑了笑）那以后工作再忙，也别把自己逼太紧，身体是最重要的。"}
+{"id": 2527, "role": "林萧", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 0, "hit": 1, "response": "林萧：（轻笑着摇头，眼神带着一丝无奈）你又在拿唐宛如开玩笑，她可没你那么大胆。"}
+{"id": 563, "role": "盛淮南", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 2, "hit": 1, "response": "盛淮南：（神情认真，语气平稳）我一直在等一个合适的时机，把那些藏在心里的话，说给你听。"}
+{"id": 4000, "role": "华妃", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 1, "hit": 1, "response": "华妃：（冷笑一声，目光凌厉）你这笑容，倒比你那颗心还要假。（抬手轻抚腰间玉佩，语气讥讽）本宫倒要看看，你这副恭顺皮囊下，藏着多少算计。"}
+{"id": 1744, "role": "长卿", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 4, "hit": 0, "response": "长卿：（神色凝重，目光深远）紫萱，你我皆是为苍生，但若连你我都不能共度此劫，又何以服众？（微微叹息，转身望向远方）且随我一同寻找灵珠，莫让此生再留遗憾。"}
+{"id": 4171, "role": "紫萱", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 0, "hit": 0, "response": "紫萱：（轻抚额前青丝，神色温和）因你眉间有仙纹，乃地仙血脉，此乃天机所定，非我所能窥探。"}
+{"id": 4157, "role": "美杜莎女王", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 1, "hit": 1, "response": "美杜莎女王：（眼神微冷，缓缓转头看向萧炎，语气中带着一丝不容置疑的威严）说吧，什么事？我不会拒绝你，但你得让我知道，这件事是否值得我付出代价。"}
+{"id": 2343, "role": "顾源", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 0, "hit": 0, "response": "顾源：（神情复杂，微微垂眸）我……一直都知道，只是没想到你会这么在意。"}
+{"id": 2610, "role": "唐宛如", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 0, "hit": 0, "response": "唐宛如：（突然从背后拍顾里肩膀，笑得前仰后合）哎呀顾里你这话说的，我手机停机了还不得找你借充电宝啊！你这妆容是准备去参加葬礼还是什么？（夸张地比划着）我跟你说，我昨天在商场看到一个牌子写着“手机停机，立刻充值”，我差点就冲上去充值了！"}
+{"id": 2525, "role": "南湘", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 1, "hit": 1, "response": "南湘：（轻轻推了推卫海的肩膀，眼神坚定）你看的是我，不是别人。你有没有想过，为什么我愿意和你在一起？因为我不需要你像顾源那样有钱，也不需要你像简溪那样帅，我只需要你，一个真实的你。"}
+{"id": 6291, "role": "佟湘玉", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 6, "hit": 0, "response": "佟湘玉：（轻笑一声，端起茶杯抿了一口）那我这个大侠，这辈子犯的最大错误，就是娶了你。"}
+{"id": 8112, "role": "白展堂", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 2, "hit": 0, "response": "白展堂：（笑嘻嘻地拍了拍吕秀才的肩膀）那咱们就写到二零零五年，到时候我请你吃一百年包子，管够！"}
+{"id": 8620, "role": "郭芙蓉", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 3, "hit": 1, "response": "郭芙蓉：（突然凑近佟湘玉耳边，压低声音）你要是不去，我就把老白藏起来不让他见你！他现在可喜欢你了，天天念叨你呢！"}
+{"id": 9011, "role": "吕子乔", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 1, "hit": 0, "response": "吕子乔：（拍大腿大笑）哎哟我的天，那我煮青蛙的绝技是不是该改名叫“陆展博的催婚神器”了？"}
+{"id": 10547, "role": "吕秀才", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 2, "hit": 1, "response": "吕秀才：（苦笑）子曾经曰过，君子报仇，十年不晚。不过，我这肚子饿得前胸贴后背，不如先去寻点吃的，再寻思这报仇的事。"}
+{"id": 9425, "role": "傅红雪", "method": "bge-m3 dense cue_situ", "cued_index": 4, "sel": 4, "hit": 1, "response": "傅红雪：（目光沉静，语气低沉）你回来，是为我，还是为你的命？"}
+{"id": 5891, "role": "孙悟空", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 6, "hit": 0, "response": "孙悟空：（傲然挺胸，咧嘴一笑）俺老孙乃花果山齐天大圣，今日闲游至此，见你这女子神色慌张，莫非遇着妖魔？（眼中闪过一丝戏谑）快快说来，俺老孙替你出气！"}
+{"id": 5989, "role": "徐凤年", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 0, "hit": 0, "response": "徐凤年：（轻笑一声，眼神深邃）你这般懵，倒让我想起当年在青崖山下，被我骗得团团转的那群江湖儿女。不过这次，你可比他们聪明多了。（伸手轻抚下巴，似在思索）只是……你真的想清楚了么？"}
+{"id": 234, "role": "祝无双", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 6, "hit": 0, "response": "祝无双：（低头沉思片刻）那我先去把那件衣服拿来吧。"}
+{"id": 10128, "role": "陆展博", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 1, "hit": 1, "response": "陆展博：（挠头）啊……我就是觉得你刚才说话的语气有点奇怪，所以……好奇你是不是换衣服了？"}
+{"id": 7152, "role": "许沁", "method": "bge-m3 dense cue_situ", "cued_index": 5, "sel": 2, "hit": 0, "response": "许沁：（手指微微收紧，声音带着一丝不易察觉的颤抖）我只是怕你太累了，不想你一个人扛着。"}
+{"id": 475, "role": "关宏宇", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 6, "hit": 0, "response": "关宏宇：（嘴角微扬，语气带着一丝玩味）那你说，我哥到底是不是你口中的那个“被渗透的高职级警官”？"}
+{"id": 4069, "role": "萧炎", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 0, "hit": 0, "response": "萧炎：（目光坚定，语气沉稳而有力）雅妃姐，我萧炎这一生，定不负你与海老的期望，也定不负这天地间的一切恩情与磨砺！"}
+{"id": 9533, "role": "贾宝玉", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 3, "hit": 0, "response": "贾宝玉：这个汗巾子是月白的，我瞧着素雅，你可喜欢？(低头看着汗巾子，语气温和)"}
+{"id": 9079, "role": "花千骨", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 2, "hit": 0, "response": "花千骨：（低头玩着衣角，声音轻柔）师父，我最喜欢和您在一起了，只是...只是有时候觉得，如果能去看看外面的世界，或许能遇见更多有趣的人和事，就像伯伯说的那些大侠一样。"}
+{"id": 8924, "role": "陈美嘉", "method": "bge-m3 dense cue_situ", "cued_index": 1, "sel": 1, "hit": 1, "response": "陈美嘉：（凑近仔细看花盆，突然瞪大眼睛）关谷！这大蒜是北极熊的募捐礼物？那它是不是会游泳？我可不想养只会游泳的大蒜！"}
+{"id": 10762, "role": "杨过", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 1, "hit": 0, "response": "杨过：（目光阴沉，语气低沉）原来你们师门竟这般狠心，连死人都不放过，连尸骨都不留！"}
+{"id": 3627, "role": "胡一菲", "method": "bge-m3 dense cue_situ", "cued_index": 5, "sel": 0, "hit": 0, "response": "胡一菲：（一把抓住吕子乔的衣领，怒视着他）你给我记住，我胡一菲这辈子只认一个张伟，别的张伟——统统给我滚远点！"}
+{"id": 9240, "role": "梅长苏", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 0, "hit": 1, "response": "梅长苏：（神色如常，语气却透着一丝难以察觉的冷意）殿下若能将心比心，便知这世间险恶，岂是区区一桩意外便可搪塞得过的。"}
+{"id": 8794, "role": "关宏峰", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 2, "hit": 0, "response": "关宏峰：（缓缓吐出一口烟，目光沉稳地看向关宏宇）那晚之后，我再也没法安心睡一个完整的觉。"}
+{"id": 10281, "role": "朱朝阳", "method": "bge-m3 dense cue_situ", "cued_index": 2, "sel": 2, "hit": 1, "response": "朱朝阳：（手指微微收紧，眼神骤然变得锐利）你确定？（声音低沉，带着一丝不易察觉的紧张）"}
+{"id": 2614, "role": "罗辑", "method": "bge-m3 dense cue_situ", "cued_index": 3, "sel": 6, "hit": 0, "response": "罗辑：（微微侧头，目光柔和地望向她）这光，像极了当年在图书馆里，我第一次看到宇宙社会学的公式时的光。"}
+{"id": 7199, "role": "宋焰", "method": "bge-m3 dense cue_situ", "cued_index": 0, "sel": 3, "hit": 0, "response": "宋焰：（皱眉走近，语气低沉）演习也得按规矩来，你要是真出事了，我第一个找你负责。（伸手扶住她肩膀）走，回基地，别再乱跑了。"}
+{"id": 5415, "role": "关谷神奇", "method": "bge-m3 dense cue_situ", "cued_index": 6, "sel": 6, "hit": 1, "response": "关谷神奇：（突然抓住曾小贤的衣袖，眼神慌张）你信不信我分分钟切腹自尽！我连医院都到不了了！"}
+{"id": 8026, "role": "佟湘玉", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 5, "hit": 0, "response": "佟湘玉：（挑眉轻笑）这倒是个好买卖，不过咱们同福客栈的招牌，可不能随便给人打了。你这武馆，可得先给咱客栈留个位置，不然我可要找人来抢了！"}
+{"id": 5038, "role": "白展堂", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 2, "hit": 1, "response": "白展堂：（笑嘻嘻凑近佟湘玉）那咱们俩可就真是天作之合了，一个拼命三娘，一个胖头鱼，合起来就是——鱼和网，天长地久~"}
+{"id": 260, "role": "郭芙蓉", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 2, "hit": 0, "response": "郭芙蓉：（笑嘻嘻）那我可得好好教你，什么叫淑女风范，先从不砍人开始！"}
+{"id": 798, "role": "曾小贤", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 5, "hit": 0, "response": "曾小贤：（挠头笑）哎呀，我是不是又把留言发错地方了？你再看看手机，我保证是发给你的！"}
+{"id": 8922, "role": "吕子乔", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 4, "hit": 0, "response": "吕子乔：（笑着拍了拍晴晴的肩膀）兄弟，你这心态跟当年我第一次去酒吧，被老板赶出来还觉得是种荣耀一样，其实啊，有时候你越觉得自己没希望，越容易被希望砸个正着。"}
+{"id": 7380, "role": "吕秀才", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 1, "hit": 0, "response": "吕秀才：(低头摆弄手中算盘，嘴角微微上扬) 你说得对，我吕轻侯虽屡试不第，但至少还能为咱们家算出个安稳日子，这不比那些功名强多了？"}
+{"id": 9406, "role": "傅红雪", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 5, "hit": 0, "response": "傅红雪：（目光冷峻，语气平静）那便用你的命，换我的八万两。"}
+{"id": 2436, "role": "孙悟空", "method": "bge-reranker-v2-m3", "cued_index": 7, "sel": 4, "hit": 0, "response": "孙悟空：（笑嘻嘻的，摇着金箍棒）呆子，你若再这般无礼，老孙便将你这猪头也打得像杨木一般，人人敬爱！"}
+{"id": 2682, "role": "徐凤年", "method": "bge-reranker-v2-m3", "cued_index": 5, "sel": 5, "hit": 1, "response": "徐凤年：（放下茶杯，眼神平静）江湖路远，我徐凤年只求一柄快刀，斩尽心中郁结。"}
+{"id": 11051, "role": "祝无双", "method": "bge-reranker-v2-m3", "cued_index": 5, "sel": 2, "hit": 0, "response": "祝无双：（笑着摇头）你呀，就是太认真了，这事儿我早就不记得了，你别往心里去。"}
+{"id": 6227, "role": "许沁", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 2, "hit": 1, "response": "许沁：（轻声）那我以后……不憋着了。"}
+{"id": 5238, "role": "关宏宇", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 3, "hit": 1, "response": "关宏宇：（醉眼朦胧地笑着，语气轻佻）那我得先问问你，你到底是想看我哪一面？"}
+{"id": 6737, "role": "萧炎", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 4, "hit": 0, "response": "萧炎：（神色凝重，目光如电）小女友？她背后势力……难道与我父亲的失踪有关？"}
+{"id": 4624, "role": "贾宝玉", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 3, "hit": 0, "response": "贾宝玉：（听得入神，眼睛发亮）原来如此，好妹妹，你既知道这些，可不可以教我认几个字儿，我好去和那些粗俗的俗人说说，让他们也明白这琴谱的妙处。（低头看着手中的琴谱，若有所思）"}
+{"id": 9544, "role": "花千骨", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 0, "hit": 1, "response": "花千骨：（低头看着自己颤抖的手，声音轻得像风）弟子……弟子会努力的。"}
+{"id": 772, "role": "陈美嘉", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 2, "hit": 1, "response": "陈美嘉：（眼眶泛红，声音颤抖）那……我们以后要一起照顾他，好不好？"}
+{"id": 5777, "role": "杨过", "method": "bge-reranker-v2-m3", "cued_index": 5, "sel": 3, "hit": 0, "response": "杨过：（眼中闪过一丝震惊，语气低沉）那师祖为何要骗我？难道他早知义父的死期？"}
+{"id": 8233, "role": "胡一菲", "method": "bge-reranker-v2-m3", "cued_index": 5, "sel": 5, "hit": 1, "response": "胡一菲：（挑眉冷笑）哟，原来你这是在说宛瑜？那我问你，她要是知道你把玩具当艺术品，会不会气得把你的破玩意儿扔出三米远？"}
+{"id": 11101, "role": "梅长苏", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 2, "hit": 1, "response": "梅长苏：（眼中闪过一丝欣慰，轻声笑道）好，那我们便一起，不失败。"}
+{"id": 591, "role": "关宏峰", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 1, "hit": 0, "response": "关宏峰：（神色微凝，目光沉静）南山军区的旧案……你确定那人的身份没有被彻底查清？"}
+{"id": 10818, "role": "朱朝阳", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 2, "hit": 0, "response": "朱朝阳：（轻抿嘴唇，语气平静却带着一丝不易察觉的冷意）妈，我只捡了地上掉的钱，没捡她的人。"}
+{"id": 7917, "role": "罗辑", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 0, "hit": 1, "response": "罗辑：（低声，带着一丝难以置信）所以你们选中我，是因为我是个普通人？"}
+{"id": 11371, "role": "宋焰", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 5, "hit": 0, "response": "宋焰：（刮完胡子，抬头看向翟淼，语气平静却坚定）喜欢是种责任，不是冲动。我不能让她一个人扛着。"}
+{"id": 4236, "role": "关谷神奇", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 2, "hit": 0, "response": "关谷神奇：（认真思考）那我建议你先给我一个手机号码，这样我就能用我的漫画家超能力——追踪定位，帮你找到她！"}
+{"id": 7658, "role": "甄嬛", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 0, "hit": 0, "response": "甄嬛：（端起茶盏，目光幽深如水，语气冷冽而带着一丝难以察觉的讥讽）你且去，若她再有异动，便说是我差你去寻她说话。"}
+{"id": 7031, "role": "安欣", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 0, "hit": 0, "response": "安欣：（语气沉稳，目光坚定）那我再问一次，黄翠翠的身份证号码是多少？"}
+{"id": 1786, "role": "景天", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 2, "hit": 0, "response": "景天：（神色凝重，语气低沉）你若走了，我这半生还有什么意义？"}
+{"id": 4316, "role": "明月心", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 0, "hit": 0, "response": "明月心：（目光深沉，声音低缓）他不是无名指，但他比无名指更危险，因为他知道如何让人心甘情愿地为他赴死。"}
+{"id": 2569, "role": "猪八戒", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 6, "hit": 0, "response": "猪八戒：（挠头笑）哥啊，我这身子骨软，又不耐打，还是你硬朗，打妖怪最是合适！"}
+{"id": 4820, "role": "白子画", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 5, "hit": 0, "response": "白子画：（神色平静，却有一丝难以察觉的波动）小骨，你可知道，为师为何收你？"}
+{"id": 4147, "role": "药老", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 0, "hit": 0, "response": "药老：（轻叹一声，目光深远）异火虽强，但终究只是外物，真正的力量，还是要靠你自己去领悟与掌握。"}
+{"id": 1957, "role": "燕南飞", "method": "bge-reranker-v2-m3", "cued_index": 6, "sel": 2, "hit": 0, "response": "燕南飞：（眼神微闪，语气低沉）你竟连暗杀的门道都算得这么清楚，难怪能活到今天。"}
+{"id": 8933, "role": "张伟", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 2, "hit": 0, "response": "张伟：（翻了个身，把被子往身上拉了拉）我这不是关心你，我是怕你买正版亏了，咱俩一起分摊版权费呗。"}
+{"id": 2495, "role": "唐三藏", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 6, "hit": 0, "response": "唐三藏：（合十低头，声音颤抖）阿弥陀佛，徒弟，若得你相助，纵使万死亦不辞，只盼能早日取经归来，普度众生。"}
+{"id": 2904, "role": "高启强", "method": "bge-reranker-v2-m3", "cued_index": 5, "sel": 5, "hit": 1, "response": "高启强：（轻叹一声，目光深邃）梦里头，我总想着能和你坐下来，喝杯茶，聊聊这世道。"}
+{"id": 5676, "role": "小龙女", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 0, "hit": 0, "response": "小龙女：（微微侧头，目光清冷）师姊所言，我记下了。"}
+{"id": 9812, "role": "侯亮平", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 1, "hit": 0, "response": "侯亮平：（神色凝重，语气沉稳）那我们得抓紧时间，把资金流向查清楚，总会有突破口的。"}
+{"id": 4151, "role": "雪见", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 1, "hit": 0, "response": "雪见：（皱眉看向四周，语气略带警惕）景天，你别乱跑，这里可是锁妖塔，危险得很。"}
+{"id": 10836, "role": "普普", "method": "bge-reranker-v2-m3", "cued_index": 5, "sel": 3, "hit": 0, "response": "普普：（笑得更灿烂，眼睛亮晶晶的）朝阳哥哥，你拍得真好看，等会儿我给你看我最漂亮的姿势！"}
+{"id": 1275, "role": "高育良", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 2, "hit": 0, "response": "高育良：（神色凝重，目光沉静）这事儿……看来比我想象的更复杂，亮平，你得小心行事，别被卷进去。"}
+{"id": 2319, "role": "张东升", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 6, "hit": 0, "response": "张东升：（缓缓起身，眼神冷冽，声音低沉）那你现在就搬，我送你。"}
+{"id": 2648, "role": "史强", "method": "bge-reranker-v2-m3", "cued_index": 4, "sel": 5, "hit": 0, "response": "史强：（嘴角微扬，眼神锐利）不对，这叫愚蠢。你问为什么，是因为你怕。而我执行，是因为我懂什么叫责任。"}
+{"id": 1252, "role": "唐悠悠", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 2, "hit": 1, "response": "唐悠悠：（笑着拉住羽墨的手）别担心啦，关谷他就是个大男孩，去了就去了，你要是想他，就跟我学着做他爱吃的咖喱饭，保证他一回来就馋得不行！"}
+{"id": 1856, "role": "郭襄", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 7, "hit": 0, "response": "郭襄：（微微一笑，眼中带着一丝温柔与坚定）珠穆朗玛大师，我自会将您的问候带到襄阳，也请大师保重，一路顺风。"}
+{"id": 11366, "role": "许红豆", "method": "bge-reranker-v2-m3", "cued_index": 5, "sel": 1, "hit": 0, "response": "许红豆：（语气略显柔和，但依旧带着一丝倔强）你要是不想去，我也不勉强，但蛋糕我还是要准备的，毕竟大麦还小，得有人陪他过个开心的生日。"}
+{"id": 5502, "role": "武松", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 2, "hit": 1, "response": "武松：（哈哈大笑）好！既然哥哥有命，我武松岂能不从？只管说便是！"}
+{"id": 4175, "role": "龙葵", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 3, "hit": 0, "response": "龙葵：（低头轻声）我明白……可是，哥哥，你可要小心些，别再咬到舌头了……"}
+{"id": 3799, "role": "洛枳", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 7, "hit": 0, "response": "洛枳：（低头摆弄着手机）其实…我最近在写一些东西，只是不想让太多人知道。"}
+{"id": 5492, "role": "宋江", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 0, "hit": 1, "response": "宋江：（抚掌大笑，眼中闪过一丝欣慰）好！李逵兄弟果真忠义，有你这等兄弟，梁山何愁不兴！"}
+{"id": 1232, "role": "李达康", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 4, "hit": 0, "response": "李达康：（神情凝重，语气坚定）是的，组织上知道这件事，也一直是我心中的一道坎。"}
+{"id": 2019, "role": "公子羽", "method": "bge-reranker-v2-m3", "cued_index": 5, "sel": 0, "hit": 0, "response": "公子羽：你竟敢说我没有生趣？"}
+{"id": 683, "role": "飞流", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 2, "hit": 0, "response": "飞流：（低头看着梅长苏，声音轻了些）你累了吗？"}
+{"id": 1220, "role": "柯景腾", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 6, "hit": 0, "response": "柯景腾：（揉着眼睛，嘴角带着笑）好啦好啦，我起来，不过你别以为这样就能把我变成学霸啦。"}
+{"id": 10739, "role": "雅妃", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 3, "hit": 1, "response": "雅妃：（收回目光，唇角微扬）云岚宗的底蕴深厚，你我若能联手，定能在这场博弈中占据先机。（指尖轻轻摩挲着茶杯边缘，眼神中闪过一丝难以察觉的柔情）"}
+{"id": 2931, "role": "徐江", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 6, "hit": 0, "response": "徐江：（缓缓踱步，语气轻佻）讲屁话没有用，让别人也节哀。（目光如刀，扫过小龙）你弟弟的命，值几个钱？"}
+{"id": 1187, "role": "祁同伟", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 6, "hit": 0, "response": "祁同伟：（语气沉稳，目光微闪）高老师，您这话可就说到点子上了，李书记这些年提拔的人，哪个不是经过层层筛选？丁义珍这案子，怕是背后另有隐情。（微微前倾，压低声音）不过，咱们现在要做的，是把这事儿稳住，别让风声传出去。"}
+{"id": 1332, "role": "安陵容", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 1, "hit": 0, "response": "安陵容：（低声）姐姐，我只希望你别太累了。"}
+{"id": 2594, "role": "顾里", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 2, "hit": 1, "response": "顾里：（嘴角微扬，眼神带着一丝调侃）那你要不要试试看，穿我这双鞋去《M.E》？保证让你的袜子也变得很有存在感。"}
+{"id": 1518, "role": "薰儿", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 1, "hit": 1, "response": "薰儿：（轻轻抬眸，目光柔和却带着几分调侃）萧炎哥哥，你这般紧张，倒是让人心疼。不过，若是她真对你有心，自然会主动靠近，何必自己先怯了呢？"}
+{"id": 3898, "role": "李逵", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 6, "hit": 0, "response": "李逵：（怒目圆睁，抄起板斧）大哥，你这是要俺去抢妇人？俺可不干这等事！（愤愤不平）俺只知忠心跟着你，可这等不义之事，俺断断做不得！"}
+{"id": 3434, "role": "孟宴臣", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 3, "hit": 0, "response": "孟宴臣：（目光沉静如水，声音低沉而坚定）许沁，你不是卑劣的人，你只是被太多人用错误的方式驯养了。而我，或许早已忘了如何真正地、自由地去爱一个人。"}
+{"id": 1259, "role": "沈佳仪", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 3, "hit": 0, "response": "沈佳仪：（轻笑着将棋子轻轻推到一旁）你这样赢，也不过是赢了一场游戏罢了。"}
+{"id": 2811, "role": "李云龙", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 0, "hit": 0, "response": "李云龙：（冷笑一声）什么日内瓦公约？打仗就是打狠的，咱们是为了解放百姓，不是跟日本人讲什么规矩！"}
+{"id": 2860, "role": "老默", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 5, "hit": 0, "response": "老默：（眼神阴沉，手指不自觉地摩挲着棒棒糖包装纸）黄翠翠……那孩子，我这辈子都忘不了。"}
+{"id": 1710, "role": "重楼", "method": "bge-reranker-v2-m3", "cued_index": 4, "sel": 1, "hit": 0, "response": "重楼：（眼神微冷，语气中带着一丝不屑）哼，你既不知魔灵为何物，那便无需多问。我留下的刻印，自会指引我找到你。"}
+{"id": 1049, "role": "吴用", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 4, "hit": 0, "response": "吴用：（神色凝重，低声道）兄长莫要忧伤，张顺兄弟忠义之士，必是为国捐躯，方得此梦。我等当以忠义为本，共扶梁山，不负天下英雄。"}
+{"id": 1486, "role": "谢之遥", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 1, "hit": 0, "response": "谢之遥：（温和地笑了笑）那以后工作再忙，也别把自己逼得太紧，身体是最重要的。"}
+{"id": 2527, "role": "林萧", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 0, "hit": 1, "response": "林萧：（轻笑着，眼神略带无奈）你又在拿唐宛如开玩笑，她可是连鸡粥都还没喝完呢。"}
+{"id": 563, "role": "盛淮南", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 2, "hit": 1, "response": "盛淮南：（神情认真，语气平稳）我一直在等一个机会，能真正面对你和你妈妈，把那些藏在心底的话说出来。"}
+{"id": 4000, "role": "华妃", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 0, "hit": 0, "response": "华妃：（冷哼一声，目光凌厉如刀）你这笑意，倒像是在讥讽本宫。若非你那点小聪明，怎会在这后宫立足？（转身冷眼扫过四周）今日本宫心情不佳，你且退下吧。"}
+{"id": 1744, "role": "长卿", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 2, "hit": 0, "response": "长卿：（神色凝重，目光深远）紫萱，若真有那一天，我愿以性命为代价，护你周全。"}
+{"id": 4171, "role": "紫萱", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 0, "hit": 0, "response": "紫萱：（轻抚手腕，眸光微闪）此乃女娲族血脉所赐，能识得天地灵根之气，夫人可知，这世间能与我同源之人，不过寥寥数人罢了。"}
+{"id": 4157, "role": "美杜莎女王", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 1, "hit": 1, "response": "美杜莎女王：（微微侧目，眼神锐利，语气冷淡）什么事？说吧，我听着。"}
+{"id": 2343, "role": "顾源", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 3, "hit": 1, "response": "顾源：（目光平静，语气低沉）我一直在等你问，但我不确定该说多少。"}
+{"id": 2610, "role": "唐宛如", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 0, "hit": 0, "response": "唐宛如：（突然从背后跳出来，一把抢过顾里的手机）哎哟我的顾里姐，你这手机怕不是被你用成废铁了吧？我刚看到你手机屏幕都快裂成蛛网了！"}
+{"id": 2525, "role": "南湘", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 1, "hit": 1, "response": "南湘：（轻轻拿起手机，翻到一张照片，眼神坚定）这是我在画室画的你，卫海，你站在画布上，像一道光，比顾源的聪明和简溪的英俊都更让我心动。"}
+{"id": 6291, "role": "佟湘玉", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 3, "hit": 1, "response": "佟湘玉：（笑着摇头）那我这个大侠，这辈子犯的最大错误，就是娶了你。"}
+{"id": 8112, "role": "白展堂", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 3, "hit": 0, "response": "白展堂：（拍大腿笑）哎呀，这叫什么？这叫商机！咱们这就去把镇上的老少爷们儿都叫来，每人发一卷纸，咱们一起写，写到二零零五年，那不就成了千古奇事了！"}
+{"id": 8620, "role": "郭芙蓉", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 2, "hit": 0, "response": "郭芙蓉：（突然压低声音）哎呀我告诉你啊，我可听说了，秀才他……（神秘兮兮）最近在偷偷练剑，说是要保护你呢！"}
+{"id": 9011, "role": "吕子乔", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 1, "hit": 0, "response": "吕子乔：（拍大腿大笑）哎呀妈呀，那我这煮青蛙必杀技是不是该改名叫“煮情郎”啊？"}
+{"id": 10547, "role": "吕秀才", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 2, "hit": 1, "response": "吕秀才：（苦笑着摇头）子曾经曰过，君子报仇，十年不晚，可这日子，怕是十年也熬不过去啊。"}
+{"id": 9425, "role": "傅红雪", "method": "bge-reranker-v2-m3", "cued_index": 4, "sel": 2, "hit": 0, "response": "傅红雪：（目光冷峻，语气低沉）你回来，是为着什么？我只问你，你可曾想过，我为何要为你赴死？"}
+{"id": 5891, "role": "孙悟空", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 4, "hit": 0, "response": "孙悟空：（眯眼打量，语气中带着几分戏谑）俺老孙乃齐天大圣，专打不平，你这女子怕是被妖魔所困，快说个明白！"}
+{"id": 5989, "role": "徐凤年", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 4, "hit": 0, "response": "徐凤年：（轻笑一声，眼神深邃）你我皆是北凉旧人，何须多问？江湖路远，有些事，本就不该由你我来解。"}
+{"id": 234, "role": "祝无双", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 2, "hit": 1, "response": "祝无双：（轻声）那我先去把披风拿来，你等我一会儿。"}
+{"id": 10128, "role": "陆展博", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 2, "hit": 0, "response": "陆展博：（挠头）啊……我就是觉得你刚才说话的语气有点奇怪，好像有点犹豫，所以……（突然意识到什么，脸微微发红）抱歉，我是不是说太多了？"}
+{"id": 7152, "role": "许沁", "method": "bge-reranker-v2-m3", "cued_index": 5, "sel": 2, "hit": 0, "response": "许沁：（手指微微收紧，声音带着一丝不易察觉的颤抖）我只是觉得，有些东西，放在这里更安全。"}
+{"id": 475, "role": "关宏宇", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 3, "hit": 0, "response": "关宏宇：（挑了挑眉，语气带着一丝戏谑）那你说，我哥到底是不是那个被渗透的高职级警官？"}
+{"id": 4069, "role": "萧炎", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 2, "hit": 1, "response": "萧炎：（目光坚定，语气沉稳而温柔）雅妃姐，我此生最大的愿望，便是能护你与海老平安，不负此生。"}
+{"id": 9533, "role": "贾宝玉", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 5, "hit": 0, "response": "贾宝玉：（低头摆弄手中汗巾子）这汗巾子是月白的，上面绣着几朵桃花，倒像是林妹妹爱的那般颜色。"}
+{"id": 9079, "role": "花千骨", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 2, "hit": 0, "response": "花千骨：（抬头看着白子画，眼中带着一丝委屈）师父，我最喜欢和您在一起了，只是...只是我想去看看外面的世界，想听听那些大侠的故事，想...想成为像他们一样的人。"}
+{"id": 8924, "role": "陈美嘉", "method": "bge-reranker-v2-m3", "cued_index": 1, "sel": 2, "hit": 0, "response": "陈美嘉：（仔细端详着盆里的“花”，突然瞪大眼睛）关谷，你确定这真的是花？这明明是大蒜啊！"}
+{"id": 10762, "role": "杨过", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 2, "hit": 0, "response": "杨过：（声音颤抖，眼中满是痛苦与疑惑）你……你为何要带我来看这些？难道你早已知道她……她不会醒来？"}
+{"id": 3627, "role": "胡一菲", "method": "bge-reranker-v2-m3", "cued_index": 5, "sel": 5, "hit": 1, "response": "胡一菲：（气得直跺脚）你给我等着，我马上去把张伟找回来，要是再找不到，我就把你绑在厕所门口，让你天天看着他！"}
+{"id": 9240, "role": "梅长苏", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 2, "hit": 0, "response": "梅长苏：（神色如常，语气淡然）殿下若无误会，那便不必多心。"}
+{"id": 8794, "role": "关宏峰", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 1, "hit": 0, "response": "关宏峰：（低头看着烟雾，声音低沉而冷静）那天晚上，我本该在办公室，可我去了不该去的地方，结果……（停顿片刻，目光锐利地看向关宏宇）你有没有想过，为什么我会在那个时间点，出现在那个地方？"}
+{"id": 10281, "role": "朱朝阳", "method": "bge-reranker-v2-m3", "cued_index": 2, "sel": 2, "hit": 1, "response": "朱朝阳：（手指停在鼠标上，眼神骤然锐利）你确定？（声音低沉，带着一丝不易察觉的紧张）"}
+{"id": 2614, "role": "罗辑", "method": "bge-reranker-v2-m3", "cued_index": 3, "sel": 5, "hit": 0, "response": "罗辑：（微微侧头，目光柔和地望向她）这光，像不像黑暗森林里的一颗星？"}
+{"id": 7199, "role": "宋焰", "method": "bge-reranker-v2-m3", "cued_index": 0, "sel": 3, "hit": 0, "response": "宋焰：(皱眉看着她，语气略带责备) 你当自己是演习道具吗？要是真出事了，我怎么向队里交代？"}
+{"id": 5415, "role": "关谷神奇", "method": "bge-reranker-v2-m3", "cued_index": 6, "sel": 0, "hit": 0, "response": "关谷神奇：（突然探出头，用日语大喊）喂！你这样开窗会让我感冒的！我可是有严重哮喘的！（慌张地捂住胸口）我、我可能要切腹自尽了！"}
+{"id": 8026, "role": "佟湘玉", "method": "bm25", "cued_index": 0, "sel": 0, "hit": 1, "response": "佟湘玉：（挑眉，嘴角微扬）感情归感情，生意归生意，咱们客栈的客人可不能随便收，得看有没有眼力见儿。（踱步到柜台后，敲了敲木板）开武馆？那得先收个定金，不然我这客栈怕是要被你这主意给赔进去！"}
+{"id": 5038, "role": "白展堂", "method": "bm25", "cued_index": 2, "sel": 2, "hit": 1, "response": "白展堂：（凑近佟湘玉耳边轻声）那咱们俩可得赶紧去把拼命三娘请来，不然这鱼可要被网住啦~"}
+{"id": 260, "role": "郭芙蓉", "method": "bm25", "cued_index": 3, "sel": 7, "hit": 0, "response": "郭芙蓉：（一把拉住燕小六的手）那咱们就一起豁出去，我可不想你一个人去冒险！"}
+{"id": 798, "role": "曾小贤", "method": "bm25", "cued_index": 0, "sel": 5, "hit": 0, "response": "曾小贤：（挠头笑）哎呀，我刚刚在电台里念了你写的那首诗，你是不是没看到？"}
+{"id": 8922, "role": "吕子乔", "method": "bm25", "cued_index": 0, "sel": 3, "hit": 0, "response": "吕子乔：（笑着拍了拍晴晴的肩膀）你这话说得可真像我以前在酒吧当驻唱时，那些总觉得自己是天选之子的客人，不过——（眨眨眼）我可是专门来找灰姑娘的，你要是敢不答应，我就把你写进专访里，让全剧组都知道有个叫晴晴的宫女，连记者都对她一见钟情！"}
+{"id": 7380, "role": "吕秀才", "method": "bm25", "cued_index": 2, "sel": 1, "hit": 0, "response": "吕秀才：（低头摆弄手中的一枚铜钱，声音略显低沉）你说得对，我这人啊，天生我才必有用，可偏偏生不逢时，连个举人也考不上，倒让娘子费心了。（抬头望向郭芙蓉，眼中闪过一丝羞涩）不过，我吕轻侯虽不中举，却也不愿让娘子为我难过。"}
+{"id": 9406, "role": "傅红雪", "method": "bm25", "cued_index": 0, "sel": 5, "hit": 0, "response": "傅红雪：（目光冷峻，语气平静）那便用你有的赌。"}
+{"id": 2436, "role": "孙悟空", "method": "bm25", "cued_index": 7, "sel": 0, "hit": 0, "response": "孙悟空：（捋了捋金箍棒，笑道）呆子，你若早听我这话，也不至于被那妖怪打得头青脸肿。如今且随我上前，看我如何教他识得礼乐！"}
+{"id": 2682, "role": "徐凤年", "method": "bm25", "cued_index": 5, "sel": 2, "hit": 0, "response": "徐凤年：（放下茶杯，眼神深邃）江湖路远，我徐凤年只信刀锋上的道。"}
+{"id": 11051, "role": "祝无双", "method": "bm25", "cued_index": 5, "sel": 2, "hit": 0, "response": "祝无双：（笑着摇头）你呀，就知道说些让人糊涂的话，我哪有什么男人不坏女人不爱的事儿，不过是缘分到了，自然就明白了。（轻轻叹了口气）你呀，别瞎猜了，我可没那么复杂。"}
+{"id": 6227, "role": "许沁", "method": "bm25", "cued_index": 2, "sel": 2, "hit": 1, "response": "许沁：（轻声）那我以后，可以发脾气吗？"}
+{"id": 5238, "role": "关宏宇", "method": "bm25", "cued_index": 3, "sel": 2, "hit": 0, "response": "关宏宇：（醉眼朦胧地笑着，手指轻轻敲着桌面）那我得赶紧把这两副面孔都藏好，别让你看花了眼。（突然压低声音）不过……要是你真想看清楚，我倒是可以给你看个真面目。"}
+{"id": 6737, "role": "萧炎", "method": "bm25", "cued_index": 2, "sel": 0, "hit": 0, "response": "萧炎：（眼神微凝，随即冷笑道）那我倒要看看，究竟是哪一路宵小，竟敢动我萧家之人！"}
+{"id": 4624, "role": "贾宝玉", "method": "bm25", "cued_index": 0, "sel": 3, "hit": 0, "response": "贾宝玉：（听得入神，连连点头）原来如此，好妹妹，你既知道这些，何不教我认几个字，我好去和那些粗俗的俗人说说，也显显我这读书人的本事。（笑嘻嘻地望着黛玉）"}
+{"id": 9544, "role": "花千骨", "method": "bm25", "cued_index": 0, "sel": 1, "hit": 0, "response": "花千骨：（低头看着自己颤抖的手，声音微弱却坚定）弟子今日才明白，原来真正的剑，不是手中之剑，而是心中之志。"}
+{"id": 772, "role": "陈美嘉", "method": "bm25", "cued_index": 2, "sel": 6, "hit": 0, "response": "陈美嘉：（眼眶泛红，声音颤抖）子乔，你记得我们第一次约会，你说要给我买一只小熊玩偶，结果却买了一只大熊，我说你笨，你却说大熊更可爱……（突然哽咽，抬手擦了擦眼角）现在，我给你一个真正的小可爱，叫小小布，他……他跟你一样，是吕家的男孩。"}
+{"id": 5777, "role": "杨过", "method": "bm25", "cued_index": 5, "sel": 0, "hit": 0, "response": "杨过：（眼中闪过一丝震惊，语气低沉）那师祖为何要骗我？难道他早知义父命不久矣？"}
+{"id": 8233, "role": "胡一菲", "method": "bm25", "cued_index": 5, "sel": 7, "hit": 0, "response": "胡一菲：（冷笑一声，眼神锐利）价值？你那破玩意儿连我扔出去当飞盘都不配！"}
+{"id": 11101, "role": "梅长苏", "method": "bm25", "cued_index": 2, "sel": 6, "hit": 0, "response": "梅长苏：（目光柔和，声音低沉而坚定）飞流，你说得对，我们不能失败，也不能让任何人失望。"}
+{"id": 591, "role": "关宏峰", "method": "bm25", "cued_index": 0, "sel": 2, "hit": 0, "response": "关宏峰：（目光锐利，语气沉稳）南山军区的旧案，你倒是比我更清楚。不过，安廷的妹妹……你确定她现在在北京？"}
+{"id": 10818, "role": "朱朝阳", "method": "bm25", "cued_index": 3, "sel": 3, "hit": 1, "response": "朱朝阳：（轻声）妈，我捡的是钱，不是垃圾。"}
+{"id": 7917, "role": "罗辑", "method": "bm25", "cued_index": 0, "sel": 0, "hit": 1, "response": "罗辑：（低声，带着一丝难以置信）所以你们选中我，是因为我是个普通人？"}
+{"id": 11371, "role": "宋焰", "method": "bm25", "cued_index": 1, "sel": 5, "hit": 0, "response": "宋焰：（刮完胡子，抬头看向翟淼，语气坚定）喜欢是喜欢，但我不只是喜欢她，我是在乎她，不想让她后悔。"}
+{"id": 4236, "role": "关谷神奇", "method": "bm25", "cued_index": 3, "sel": 2, "hit": 0, "response": "关谷神奇：（认真思考）那……你有没有想过，也许她其实一直在你身边？比如，她可能只是想看看你有没有能力自己解决问题？"}
+{"id": 7658, "role": "甄嬛", "method": "bm25", "cued_index": 1, "sel": 5, "hit": 0, "response": "甄嬛：（轻抿一口茶，神色冷峻，目光如刀）这后宫之中，谁不是步步为营，步步生莲？"}
+{"id": 7031, "role": "安欣", "method": "bm25", "cued_index": 1, "sel": 5, "hit": 0, "response": "安欣：（神色凝重，目光如炬）徐江，你要是敢撒谎，就别怪我不客气了。"}
+{"id": 1786, "role": "景天", "method": "bm25", "cued_index": 3, "sel": 2, "hit": 0, "response": "景天：（神色凝重，语气低沉）你若执意要走，我便拦你不得，但若有一丝危险，我定不会让任何人伤害你分毫。"}
+{"id": 4316, "role": "明月心", "method": "bm25", "cued_index": 1, "sel": 4, "hit": 0, "response": "明月心：（低声道）他不是无名指，但他比无名指更可怕。"}
+{"id": 2569, "role": "猪八戒", "method": "bm25", "cued_index": 3, "sel": 6, "hit": 0, "response": "猪八戒：（挠头笑）师父说得是，我这头猪，倒像那杨木，软得像团泥，一碰就糊里糊涂的！"}
+{"id": 4820, "role": "白子画", "method": "bm25", "cued_index": 0, "sel": 5, "hit": 0, "response": "白子画：（神色平静，目光深远）小骨，你可曾想过，为何我从未收过徒弟？"}
+{"id": 4147, "role": "药老", "method": "bm25", "cued_index": 3, "sel": 1, "hit": 0, "response": "药老：（神色微沉，目光深远）异火虽强，但终究只是外物，真正的力量，还得靠你自己去领悟与掌控。"}
+{"id": 1957, "role": "燕南飞", "method": "bm25", "cued_index": 6, "sel": 3, "hit": 0, "response": "燕南飞：（眼神微闪，嘴角勾起一抹冷笑）两百二十七种？难怪你总能看破我的布局，原来你早把这江湖的暗杀之道，都算在了心里。"}
+{"id": 8933, "role": "张伟", "method": "bm25", "cued_index": 0, "sel": 6, "hit": 0, "response": "张伟：（坐起身，拍了拍自己的额头）哎呀，我这记性，差点忘了我可是正经律师，不能随便说别人买盗版啊，（自嘲地笑了笑）不过你这正版也挺贵的，我建议你去二手市场淘淘，说不定还能省点钱。"}
+{"id": 2495, "role": "唐三藏", "method": "bm25", "cued_index": 2, "sel": 2, "hit": 1, "response": "唐三藏：（合十低头，声音颤抖）阿弥陀佛，徒弟，若你真能救我，贫僧愿以性命相托，不贪恋红尘，不惧生死，只求早成正果，普度众生。"}
+{"id": 2904, "role": "高启强", "method": "bm25", "cued_index": 5, "sel": 5, "hit": 1, "response": "高启强：（轻笑一声，眼神深邃）梦里头，你总是比我清醒。"}
+{"id": 5676, "role": "小龙女", "method": "bm25", "cued_index": 1, "sel": 2, "hit": 0, "response": "小龙女：（神色淡然，目光微垂）师姊所言，我已明白。"}
+{"id": 9812, "role": "侯亮平", "method": "bm25", "cued_index": 0, "sel": 2, "hit": 0, "response": "侯亮平：（沉稳点头）那我们先从取款记录入手，同时联系银行调取监控，尽快锁定关键证据。大家辛苦了，有问题随时说。"}
+{"id": 4151, "role": "雪见", "method": "bm25", "cued_index": 0, "sel": 7, "hit": 0, "response": "雪见：（皱眉看向四周，语气凝重）景天，你先别慌，这里是锁妖塔，我们得小心行事。"}
+{"id": 10836, "role": "普普", "method": "bm25", "cued_index": 5, "sel": 3, "hit": 0, "response": "普普：（低头看着自己的手，嘴角微微上扬）你别笑，我其实有点紧张，怕拍不好。"}
+{"id": 1275, "role": "高育良", "method": "bm25", "cued_index": 1, "sel": 2, "hit": 0, "response": "高育良：（神色凝重，缓缓点头）看来，有些事情，终究是瞒不住的。亮平，你可要小心，这背后牵扯的，远不止一个祁同伟。"}
+{"id": 2319, "role": "张东升", "method": "bm25", "cued_index": 1, "sel": 2, "hit": 0, "response": "张东升：（嘴角微微上扬，眼神冷冽而平静）好，那就按你说的办。我不会阻拦你，也不会再纠缠你。只是……别忘了，我爸妈的命，是你的选择换来的。"}
+{"id": 2648, "role": "史强", "method": "bm25", "cued_index": 4, "sel": 3, "hit": 0, "response": "史强：（冷笑一声，眼神锐利）不对？那你说说，为什么我不能只是个执行者？"}
+{"id": 1252, "role": "唐悠悠", "method": "bm25", "cued_index": 2, "sel": 3, "hit": 0, "response": "唐悠悠：（眨眨眼，语气带着几分俏皮）哎呀，你是不是又在想他了？我可是听说他最近在画一个超级厉害的漫画，说不定今晚回来就给你带惊喜呢！"}
+{"id": 1856, "role": "郭襄", "method": "bm25", "cued_index": 0, "sel": 6, "hit": 0, "response": "郭襄：（神色坚定，目光清澈）大和尚，我爹爹和我大姊姊都在襄阳，我这就带您去见他们。"}
+{"id": 11366, "role": "许红豆", "method": "bm25", "cued_index": 5, "sel": 4, "hit": 0, "response": "许红豆：（语气稍缓，但依旧带着一丝倔强）我这不是关心孩子嘛，你要是觉得不合适，我也可以不带他去。"}
+{"id": 5502, "role": "武松", "method": "bm25", "cued_index": 2, "sel": 2, "hit": 1, "response": "武松：（沉声）哥哥只管说，若依得我便依你，若依不得，我便与你断了这等牵连。"}
+{"id": 4175, "role": "龙葵", "method": "bm25", "cued_index": 1, "sel": 0, "hit": 0, "response": "龙葵：（低头轻声）那……我们一边找灵珠，一边也慢慢吃好不好？我……我也不着急。"}
+{"id": 3799, "role": "洛枳", "method": "bm25", "cued_index": 2, "sel": 7, "hit": 0, "response": "洛枳：（低头整理衣角，声音轻柔）妈，我最近在看一本关于孤独的书，里面说，有些心事就像暗夜里的萤火虫，明明存在，却总怕被人看见。"}
+{"id": 5492, "role": "宋江", "method": "bm25", "cued_index": 0, "sel": 0, "hit": 1, "response": "宋江：（大笑）好！李逵兄弟果真有胆有识，既然你有此心，便去便去，我在此等候你捷报！（拍案而起，眼中闪烁着欣慰与信任的光芒）"}
+{"id": 1232, "role": "李达康", "method": "bm25", "cued_index": 3, "sel": 4, "hit": 0, "response": "李达康：（神情凝重，语气低沉）是的，组织上知道这件事，我也一直把它当作一件私事来处理，但从未影响过我的工作和原则。"}
+{"id": 2019, "role": "公子羽", "method": "bm25", "cued_index": 5, "sel": 0, "hit": 0, "response": "公子羽：你竟敢说我没有生趣？"}
+{"id": 683, "role": "飞流", "method": "bm25", "cued_index": 0, "sel": 0, "hit": 1, "response": "飞流：（低声）苏哥哥，别乱动。"}
+{"id": 1220, "role": "柯景腾", "method": "bm25", "cued_index": 1, "sel": 4, "hit": 0, "response": "柯景腾：（揉揉眼睛，嘴角带着一丝无奈的笑）你这招，跟以前一样管用啊。"}
+{"id": 10739, "role": "雅妃", "method": "bm25", "cued_index": 3, "sel": 6, "hit": 0, "response": "雅妃：（收回目光，眸光微敛，语气淡然却带着一丝不易察觉的凝重）云岚宗向来行事隐秘，你此去需格外谨慎，莫要让家族的布局有所动摇。（指尖轻轻摩挲着杯沿，似在思索，实则早已成竹在胸）"}
+{"id": 2931, "role": "徐江", "method": "bm25", "cued_index": 1, "sel": 3, "hit": 0, "response": "徐江：（眯眼，语气阴冷）你弟弟在哪儿，你心里清楚得很，不是吗？"}
+{"id": 1187, "role": "祁同伟", "method": "bm25", "cued_index": 0, "sel": 2, "hit": 0, "response": "祁同伟：（语气低沉，眼神锐利）高老师，您说得对，这确实是李达康的失误，但也是他太信任丁义珍了，没防住他背后那些人。"}
+{"id": 1332, "role": "安陵容", "method": "bm25", "cued_index": 3, "sel": 6, "hit": 0, "response": "安陵容：（低声）姐姐，你总是这样，明明知道，却还是做不到。"}
+{"id": 2594, "role": "顾里", "method": "bm25", "cued_index": 2, "sel": 6, "hit": 0, "response": "顾里：（轻笑着，眼神里带着一丝狡黠）那你要不要试试看，穿上这双鞋，跟我一起走一趟《M.E》的编辑部？"}
+{"id": 1518, "role": "薰儿", "method": "bm25", "cued_index": 1, "sel": 1, "hit": 1, "response": "薰儿：（轻轻挽起袖子，眼神温柔而坚定）萧炎哥哥，若是真有喜欢的人，我陪你一起去，不管她多大，只要是你的心上人，薰儿都会护着你。"}
+{"id": 3898, "role": "李逵", "method": "bm25", "cued_index": 1, "sel": 6, "hit": 0, "response": "李逵：（怒目圆睁，一把揪住宋江衣襟）大哥！你这是要俺李逵做甚？俺只知忠心于你，可你这般行事，叫俺如何服气！（愤然甩开宋江）"}
+{"id": 3434, "role": "孟宴臣", "method": "bm25", "cued_index": 1, "sel": 7, "hit": 0, "response": "孟宴臣：（手指轻轻摩挲着方向盘，声音低沉而缓慢）许沁，你不是卑劣的人，你只是……太害怕失去我了。"}
+{"id": 1259, "role": "沈佳仪", "method": "bm25", "cued_index": 0, "sel": 0, "hit": 1, "response": "沈佳仪：（轻笑着，眼神中带着一丝调皮与坚定）那我便将军抽车，你可别怪我心狠手辣。"}
+{"id": 2811, "role": "李云龙", "method": "bm25", "cued_index": 2, "sel": 3, "hit": 0, "response": "李云龙：（冷笑一声）什么日内瓦公约？那玩意儿是给洋人准备的，咱们打鬼子，讲究的是一个痛快！"}
+{"id": 2860, "role": "老默", "method": "bm25", "cued_index": 2, "sel": 3, "hit": 0, "response": "老默：（眼神阴沉，手指不自觉地摩挲着棒棒糖包装纸）黄翠翠……她到底知道多少？（[我心里一阵发紧，想起那晚她临终前的眼神，像在看一个陌生人]）"}
+{"id": 1710, "role": "重楼", "method": "bm25", "cued_index": 4, "sel": 1, "hit": 0, "response": "重楼：（眼神微冷，语气略带讥讽）哼，你既然不知，便无需多问。那些魔灵，不过是些无足轻重的棋子罢了。"}
+{"id": 1049, "role": "吴用", "method": "bm25", "cued_index": 0, "sel": 4, "hit": 0, "response": "吴用：（神色凝重，低声道）兄长且宽心，张顺兄弟忠义之士，必是为国尽忠，死得其所。只是这梦中景象，怕是天意示警，提醒我们当谨防奸佞，莫负忠良。"}
+{"id": 1486, "role": "谢之遥", "method": "bm25", "cued_index": 2, "sel": 1, "hit": 0, "response": "谢之遥：（温和地笑了笑）那以后工作再忙，也别把自己逼得太紧，身体是最重要的。"}
+{"id": 2527, "role": "林萧", "method": "bm25", "cued_index": 0, "sel": 0, "hit": 1, "response": "林萧：（轻笑着摇头，语气带着一丝无奈和宠溺）你呀，总是这样，连唐宛如的脚都敢搭在脖子上，真是越来越大胆了。"}
+{"id": 563, "role": "盛淮南", "method": "bm25", "cued_index": 2, "sel": 2, "hit": 1, "response": "盛淮南：（神情认真，语气平稳）我一直在等一个合适的时机，把这些年的心意和歉意，都告诉你。"}
+{"id": 4000, "role": "华妃", "method": "bm25", "cued_index": 1, "sel": 0, "hit": 0, "response": "华妃：（冷哼一声，眼神凌厉如刀）你倒是个会说话的，可本宫偏偏最厌你这等虚伪的恭顺。你若真有本事，便别在这儿假惺惺地讨好本宫！"}
+{"id": 1744, "role": "长卿", "method": "bm25", "cued_index": 0, "sel": 3, "hit": 0, "response": "长卿：（目光沉静如水，语气坚定）紫萱，你我皆是为苍生，若能以灵珠护天下，便是我长卿此生无悔。"}
+{"id": 4171, "role": "紫萱", "method": "bm25", "cued_index": 3, "sel": 2, "hit": 0, "response": "紫萱：（温和而坚定地）我观你眉心有仙纹隐现，乃是地仙之兆，故知你可修此术。（轻抚万玉枝肩头）你且安心，莫再强求他，保重自身才是正道。"}
+{"id": 4157, "role": "美杜莎女王", "method": "bm25", "cued_index": 1, "sel": 1, "hit": 1, "response": "美杜莎女王：（眼神微冷，缓缓转头看向萧炎，声音低沉而带着一丝不容置疑的威压）说吧，什么事？我时间有限。"}
+{"id": 2343, "role": "顾源", "method": "bm25", "cued_index": 3, "sel": 3, "hit": 1, "response": "顾源：（目光平静，语气低沉）我一直在等你问，但我不确定该不该说。"}
+{"id": 2610, "role": "唐宛如", "method": "bm25", "cued_index": 1, "sel": 0, "hit": 0, "response": "唐宛如：（突然从背后拍顾里肩膀，笑得像只偷到鸡的狐狸）哎呀顾里你这妆容是去参加葬礼还是去参加选美啊？我手机停机？那我直接把你手机借我用，我保证不告诉你我上个月还欠了三个电话费！"}
+{"id": 2525, "role": "南湘", "method": "bm25", "cued_index": 1, "sel": 1, "hit": 1, "response": "南湘：（轻轻拿起手机，翻到一张照片，眼神坚定）你看，这是我在画室画的你，你站在阳光下，像一道光，不是吗？"}
+{"id": 6291, "role": "佟湘玉", "method": "bm25", "cued_index": 3, "sel": 0, "hit": 0, "response": "佟湘玉：（笑着摇头）那可真是...感情归感情，生意归生意。"}
+{"id": 8112, "role": "白展堂", "method": "bm25", "cued_index": 0, "sel": 0, "hit": 1, "response": "白展堂：（突然拍桌大笑）哈哈哈，你这脑筋转得比我的跑堂活儿还快！要不这样，咱们合伙开个“遗书速递”生意，你写，我跑，包你赚翻天！"}
+{"id": 8620, "role": "郭芙蓉", "method": "bm25", "cued_index": 3, "sel": 7, "hit": 0, "response": "郭芙蓉：（翻白眼）你道过歉？你那叫道歉？你那叫……（突然压低声音）你那叫……（神秘兮兮）我给你说，老白要是知道你刚才那番话，他非得把你的小辫子都揪下来当发带！"}
+{"id": 9011, "role": "吕子乔", "method": "bm25", "cued_index": 2, "sel": 3, "hit": 0, "response": "吕子乔：（拍大腿大笑）哎哟我去，那我这煮青蛙必杀技是不是该改名叫“煮傻青蛙”了？"}
+{"id": 10547, "role": "吕秀才", "method": "bm25", "cued_index": 2, "sel": 6, "hit": 0, "response": "吕秀才：（苦笑着摇头）唉，这世道，真是留得青山在，不怕没柴烧啊。"}
+{"id": 9425, "role": "傅红雪", "method": "bm25", "cued_index": 4, "sel": 6, "hit": 0, "response": "傅红雪：（目光冷峻，声音低沉）你回来得倒是及时，但别以为我担心你，我只是厌倦了你总是在危险中找寻所谓的‘关心’。"}
+{"id": 5891, "role": "孙悟空", "method": "bm25", "cued_index": 3, "sel": 0, "hit": 0, "response": "孙悟空：（仰天大笑，眼中闪过一丝桀骜）俺老孙乃齐天大圣，天庭地府，谁人敢不识得？（伸手一挥，金箍棒隐隐发光）你这女子，莫非怕了？"}
+{"id": 5989, "role": "徐凤年", "method": "bm25", "cued_index": 3, "sel": 1, "hit": 0, "response": "徐凤年：（轻笑一声，眼神深邃）你我皆是北凉人，何须如此惊讶？不过是一场棋局，你我皆是棋子，只是我比你更懂得如何走这盘棋罢了。（缓缓起身，踱步至窗前）北凉的江山，终究要有人来守，而我，便是那个选择。"}
+{"id": 234, "role": "祝无双", "method": "bm25", "cued_index": 2, "sel": 4, "hit": 0, "response": "祝无双：（轻声）那我先去把那件衣服拿来吧。"}
+{"id": 10128, "role": "陆展博", "method": "bm25", "cued_index": 1, "sel": 5, "hit": 0, "response": "陆展博：（挠头）我就是觉得你刚才说话的语气有点奇怪，好像……有点不一样？"}
+{"id": 7152, "role": "许沁", "method": "bm25", "cued_index": 5, "sel": 2, "hit": 0, "response": "许沁：（手指不自觉地绞着衣角，声音低了几分）我只是……不想让你太辛苦。"}
+{"id": 475, "role": "关宏宇", "method": "bm25", "cued_index": 1, "sel": 6, "hit": 0, "response": "关宏宇：（眼神微闪，语气低沉）那你说，我哥到底有没有搞明白什么？"}
+{"id": 4069, "role": "萧炎", "method": "bm25", "cued_index": 2, "sel": 1, "hit": 0, "response": "萧炎：（目光坚定，语气沉稳）雅妃姐，我萧炎这一生，只求不负你与海老的厚望，也愿以这无尽火域之名，护我所爱之人，护这大千世界之和平。"}
+{"id": 9533, "role": "贾宝玉", "method": "bm25", "cued_index": 0, "sel": 2, "hit": 0, "response": "贾宝玉：（低头玩着手中汗巾子）这汗巾子是月白的，上面绣着几朵桃花，倒像是黛玉从前最爱的那条。"}
+{"id": 9079, "role": "花千骨", "method": "bm25", "cued_index": 0, "sel": 2, "hit": 0, "response": "花千骨：（低头玩着衣角，声音轻柔）师父，我最喜欢和您在一起了，只是…只是我想去看看外面的世界，想听听那些故事里的大侠是怎么闯荡江湖的。"}
+{"id": 8924, "role": "陈美嘉", "method": "bm25", "cued_index": 1, "sel": 6, "hit": 0, "response": "陈美嘉：（仔细端详盆子里的大蒜，突然瞪大眼睛）关谷！你确定这是北极熊要的“花”？这分明是大蒜啊！"}
+{"id": 10762, "role": "杨过", "method": "bm25", "cued_index": 0, "sel": 2, "hit": 0, "response": "杨过：（神情复杂，声音低沉）原来你早已知道她……早已不在了？"}
+{"id": 3627, "role": "胡一菲", "method": "bm25", "cued_index": 5, "sel": 3, "hit": 0, "response": "胡一菲：（一把抓住吕子乔的衣领，眼神凌厉）你给我记住，我这辈子只认一个张伟，就是那个能让我放心把心交给他的人！"}
+{"id": 9240, "role": "梅长苏", "method": "bm25", "cued_index": 0, "sel": 2, "hit": 0, "response": "梅长苏：（神色淡淡，语气平静却带着一丝难以察觉的冷意）殿下若无误会，那便该知我所知，亦非为誉王，而是为金陵。"}
+{"id": 8794, "role": "关宏峰", "method": "bm25", "cued_index": 0, "sel": 2, "hit": 0, "response": "关宏峰：（缓缓吐出一口烟，目光沉稳地看向关宏宇）那晚之后，我再也没法像从前一样睡整觉了。"}
+{"id": 10281, "role": "朱朝阳", "method": "bm25", "cued_index": 2, "sel": 2, "hit": 1, "response": "朱朝阳：（手指微微收紧，眼神迅速扫过屏幕）你确定？（声音低沉，带着一丝不易察觉的紧张）"}
+{"id": 2614, "role": "罗辑", "method": "bm25", "cued_index": 3, "sel": 1, "hit": 0, "response": "罗辑：（微微侧头，目光落在烛光映照的酒液上，语气平静而带着一丝难以察觉的感慨）这光，像极了宇宙深处的信号。"}
+{"id": 7199, "role": "宋焰", "method": "bm25", "cued_index": 0, "sel": 5, "hit": 0, "response": "宋焰：（皱眉看着她，语气低沉）演习也得讲规矩，你这样玩，万一真出事了，我怎么向上面交代？"}
+{"id": 5415, "role": "关谷神奇", "method": "bm25", "cued_index": 6, "sel": 3, "hit": 0, "response": "关谷神奇：（突然从车后座探出头）啊！我刚刚看到一只乌鸦在天上飞，它好像在说“关谷，你女朋友快要死了，你要不要切腹自尽啊？”（紧张地握紧拳头）"}
+{"id": 8026, "role": "佟湘玉", "method": "difference-vector", "cued_index": 0, "sel": 5, "hit": 0, "response": "佟湘玉：（挑眉轻笑）那咱们的客栈可就热闹了，秋风送爽，百花争艳，来个武林高手，也得给咱添点人气不是？"}
+{"id": 5038, "role": "白展堂", "method": "difference-vector", "cued_index": 2, "sel": 2, "hit": 1, "response": "白展堂：（笑嘻嘻凑近佟湘玉耳边）那咱们这就去把拼命三娘请来，让她也见识见识什么叫鱼死网破！"}
+{"id": 260, "role": "郭芙蓉", "method": "difference-vector", "cued_index": 3, "sel": 1, "hit": 0, "response": "郭芙蓉：（一把抱住燕小六）好啊，那我今天就当你的淑女，你可别后悔啊！"}
+{"id": 798, "role": "曾小贤", "method": "difference-vector", "cued_index": 0, "sel": 5, "hit": 0, "response": "曾小贤：（挠头笑）哎呀，我是不是又把留言发错人了？我刚刚还在想，怎么你没回我那条“今天天气真好”的短信呢。"}
+{"id": 8922, "role": "吕子乔", "method": "difference-vector", "cued_index": 0, "sel": 0, "hit": 1, "response": "吕子乔：（笑得更灿烂）那我可得先提醒你一句，我这专访啊，可不保证能让你一夜成名，但保证能让你——（压低声音）在剧组里多活几天，毕竟我可是有“让龙套变主角”的神奇技能！"}
+{"id": 7380, "role": "吕秀才", "method": "difference-vector", "cued_index": 2, "sel": 1, "hit": 0, "response": "吕秀才：（低头摆弄着手中的一枚铜钱，声音略显低沉）我倒是想起一件开心的事，从前在京城赶考时，我曾用这枚铜钱在茶馆里换了一碗酒，醉得不省人事，醒来时却发现自己竟在客栈的账本上写了一首诗，你说这世道，是不是天生我才必有用？"}
+{"id": 9406, "role": "傅红雪", "method": "difference-vector", "cued_index": 0, "sel": 1, "hit": 0, "response": "傅红雪：（目光冷峻，声音低沉）那便只赌这一把，生死由命。"}
+{"id": 2436, "role": "孙悟空", "method": "difference-vector", "cued_index": 7, "sel": 4, "hit": 0, "response": "孙悟空：（笑嘻嘻的，摇着金箍棒）呆子，你只管温存，我自有手段，管叫那妖精知道，甚么叫做‘天兵天将’！"}
+{"id": 2682, "role": "徐凤年", "method": "difference-vector", "cued_index": 5, "sel": 5, "hit": 1, "response": "徐凤年：（放下茶杯，神色淡然）既然坐剑是吴家剑冢的秘传，那便不必多问，我练刀便是。"}
+{"id": 11051, "role": "祝无双", "method": "difference-vector", "cued_index": 5, "sel": 5, "hit": 1, "response": "祝无双：（笑着摇头）那男人不坏，可你这心肠，倒是挺坏的。"}
+{"id": 6227, "role": "许沁", "method": "difference-vector", "cued_index": 2, "sel": 2, "hit": 1, "response": "许沁：（轻声）那我以后……可以发脾气吗？"}
+{"id": 5238, "role": "关宏宇", "method": "difference-vector", "cued_index": 3, "sel": 5, "hit": 0, "response": "关宏宇：（醉眼朦胧地笑着，声音低沉）那……你先说说，哪个我更像你该相信的？"}
+{"id": 6737, "role": "萧炎", "method": "difference-vector", "cued_index": 2, "sel": 0, "hit": 0, "response": "萧炎：（眼神骤然一凝，随即冷声道）小女友？她背后势力……难道是‘焚炎谷’？"}
+{"id": 4624, "role": "贾宝玉", "method": "difference-vector", "cued_index": 0, "sel": 2, "hit": 0, "response": "贾宝玉：（听得入神，连连点头）好妹妹，你这一番讲解，倒比那些正经书上的字还明白易懂，我竟一时都忘了问那‘大’字加一勾是何意思了。（低头看着手中的琴谱，若有所思）"}
+{"id": 9544, "role": "花千骨", "method": "difference-vector", "cued_index": 0, "sel": 0, "hit": 1, "response": "花千骨：（低头看着自己颤抖的手，声音轻得像风）弟子……还小，怕飞。"}
+{"id": 772, "role": "陈美嘉", "method": "difference-vector", "cued_index": 2, "sel": 2, "hit": 1, "response": "陈美嘉：（眼眶泛红，声音颤抖）那……我们以后要一起养他，好不好？"}
+{"id": 5777, "role": "杨过", "method": "difference-vector", "cued_index": 5, "sel": 2, "hit": 0, "response": "杨过：（眼中闪过一丝愤怒与痛楚）那师祖为何要骗我？难道他早知义父会死，却故意让李莫愁解穴？"}
+{"id": 8233, "role": "胡一菲", "method": "difference-vector", "cued_index": 5, "sel": 3, "hit": 0, "response": "胡一菲：（眼神一冷，嘴角微扬）你是不是又在说宛瑜？别以为我不知道你的心思。（轻轻拍了下陆展博的肩膀）我可没你那么浪漫，但至少我不会把玩具当命。"}
+{"id": 11101, "role": "梅长苏", "method": "difference-vector", "cued_index": 2, "sel": 6, "hit": 0, "response": "梅长苏：（眼中闪过一丝欣慰，轻声笑道）飞流，你总是这样，明明已经懂得了，却还要坚持问个清楚。不过……这样也好，至少我们还在一起，不失败。"}
+{"id": 591, "role": "关宏峰", "method": "difference-vector", "cued_index": 0, "sel": 2, "hit": 0, "response": "关宏峰：（神色凝重，低声）安廷……他妹妹现在在北京？你确定是她？"}
+{"id": 10818, "role": "朱朝阳", "method": "difference-vector", "cued_index": 3, "sel": 3, "hit": 1, "response": "朱朝阳：（轻抿了一口茶，语气平静却带着一丝不易察觉的冷意）妈，我只捡了地上掉的，没捡天上掉的。"}
+{"id": 7917, "role": "罗辑", "method": "difference-vector", "cued_index": 0, "sel": 1, "hit": 0, "response": "罗辑：（目光沉静，声音低沉）那我到底是什么？一个被选中的普通人，还是一个被命运推上棋盘的棋子？"}
+{"id": 11371, "role": "宋焰", "method": "difference-vector", "cued_index": 1, "sel": 1, "hit": 1, "response": "宋焰：（刮完胡子，抬头看向镜中的自己，语气平静却坚定）我这辈子，最怕的就是辜负了重要的人。"}
+{"id": 4236, "role": "关谷神奇", "method": "difference-vector", "cued_index": 3, "sel": 2, "hit": 0, "response": "关谷神奇：（认真思考）那我建议你先别急着报警，先给我一个电话号码，我帮你设计个浪漫的寻人计划，保证比警察专业一百倍！"}
+{"id": 7658, "role": "甄嬛", "method": "difference-vector", "cued_index": 1, "sel": 2, "hit": 0, "response": "甄嬛：（轻抿一口茶，神色冷然）你且去吧，记得把那匹绸缎和珍珠项链一并送去，若她敢再耍什么花招，便告诉她，这宫里，不是她能随意踩踏的。"}
+{"id": 7031, "role": "安欣", "method": "difference-vector", "cued_index": 1, "sel": 6, "hit": 0, "response": "安欣：（放下笔，目光沉静地看向徐江）你不用认识她，只需要知道她是你在黑道上最大的软肋。"}
+{"id": 1786, "role": "景天", "method": "difference-vector", "cued_index": 3, "sel": 2, "hit": 0, "response": "景天：（眉头微皱，语气中带着担忧）你方才耗损太大，若强行赶路，怕是又要旧伤复发，我与花楹陪你在山中歇息几日，等你身子好些再走。"}
+{"id": 4316, "role": "明月心", "method": "difference-vector", "cued_index": 1, "sel": 0, "hit": 0, "response": "明月心：（目光微闪，声音低沉）他若真是无名指，那我这一生，便再无回头路了。"}
+{"id": 2569, "role": "猪八戒", "method": "difference-vector", "cued_index": 3, "sel": 1, "hit": 0, "response": "猪八戒：（挠头笑）哥啊，我这脑袋倒像是杨木，打得痛快，还招人爱！"}
+{"id": 4820, "role": "白子画", "method": "difference-vector", "cued_index": 0, "sel": 0, "hit": 1, "response": "白子画：（神色淡然，语气平静）从今日起，你便是我长留上仙白子画的徒弟。"}
+{"id": 4147, "role": "药老", "method": "difference-vector", "cued_index": 3, "sel": 1, "hit": 0, "response": "药老：有朝一日，若你寻得更强大的异火，切记莫要贪多，炼药之道，贵在精纯，心浮气躁，反误前程。（[暗自思索，眼中闪过一丝深意]）"}
+{"id": 1957, "role": "燕南飞", "method": "difference-vector", "cued_index": 6, "sel": 4, "hit": 0, "response": "燕南飞：（眼神微闪，语气低沉）两百二十七种……你竟记得这么清楚，倒是比我还精。"}
+{"id": 8933, "role": "张伟", "method": "difference-vector", "cued_index": 0, "sel": 3, "hit": 0, "response": "张伟：（翻了个身，把被子往身上拉了拉）我这不是担心，是怕你买正版的钱，都用来请我吃顿饭了。"}
+{"id": 2495, "role": "唐三藏", "method": "difference-vector", "cued_index": 2, "sel": 2, "hit": 1, "response": "唐三藏：（合十低头，声音颤抖）阿弥陀佛，徒弟，若得你这般舍命相救，纵使粉身碎骨，亦无怨无悔。只愿早些脱困，继续西行取经之路。"}
+{"id": 2904, "role": "高启强", "method": "difference-vector", "cued_index": 5, "sel": 5, "hit": 1, "response": "高启强：（轻笑一声，眼神深邃）梦里头，你我终究还是没能走到一起。"}
+{"id": 5676, "role": "小龙女", "method": "difference-vector", "cued_index": 1, "sel": 1, "hit": 1, "response": "小龙女：（微微蹙眉，神情若有所思）师姊所言，我记下了。只是……若他心中仍有我，又怎会轻易变心？"}
+{"id": 9812, "role": "侯亮平", "method": "difference-vector", "cued_index": 0, "sel": 1, "hit": 0, "response": "侯亮平：（沉稳地点头）那我们就从资金流向入手，每一分钱都查清楚，总会有突破口。"}
+{"id": 4151, "role": "雪见", "method": "difference-vector", "cued_index": 0, "sel": 4, "hit": 0, "response": "雪见：（眉头微皱，语气略带责备）景天，你这是怎么了？怎么连自己在哪里都搞不清楚了？"}
+{"id": 10836, "role": "普普", "method": "difference-vector", "cued_index": 5, "sel": 0, "hit": 0, "response": "普普：（突然压低声音，眼神警觉地扫视四周）朝阳哥哥，我们是不是该先离开这里？我总觉得……不太对劲。"}
+{"id": 1275, "role": "高育良", "method": "difference-vector", "cued_index": 1, "sel": 2, "hit": 0, "response": "高育良：（神色凝重，缓缓点头）看来我这些年培养的人，终究还是没能逃过这局棋。"}
+{"id": 2319, "role": "张东升", "method": "difference-vector", "cued_index": 1, "sel": 1, "hit": 1, "response": "张东升：（眼神微冷，声音低沉）好，那我先去把房子过户了，你搬出去住，我也不打扰你。"}
+{"id": 2648, "role": "史强", "method": "difference-vector", "cued_index": 4, "sel": 4, "hit": 1, "response": "史强：（冷笑）不对？那你说说，为什么我不能只是个执行者？"}
+{"id": 1252, "role": "唐悠悠", "method": "difference-vector", "cued_index": 2, "sel": 2, "hit": 1, "response": "唐悠悠：（笑着把羽墨的手轻轻拉开）你别担心啦，关谷他就是这么爱凑热闹，不过你要是想他了，我陪你去便利店买杯热可可，咱们边喝边等他回来！"}
+{"id": 1856, "role": "郭襄", "method": "difference-vector", "cued_index": 0, "sel": 1, "hit": 0, "response": "郭襄：（眼中闪过一丝复杂，轻声道）大和尚，我爹爹若真在，他定会知道你一路奔波，只为见他一面。"}
+{"id": 11366, "role": "许红豆", "method": "difference-vector", "cued_index": 5, "sel": 0, "hit": 0, "response": "许红豆：（语气缓和了些，但依旧带着一丝责备）你是不是最近太忙了，连大麦的生日都忘了？"}
+{"id": 5502, "role": "武松", "method": "difference-vector", "cued_index": 2, "sel": 2, "hit": 1, "response": "武松：（大笑）好！我武松虽不才，却也愿为兄长出这口气，只望哥哥莫要负我兄弟之情！"}
+{"id": 4175, "role": "龙葵", "method": "difference-vector", "cued_index": 1, "sel": 0, "hit": 0, "response": "龙葵：（低头轻声）我知道了……可是哥哥，你吃东西的时候，能不能慢一点？我……我怕你再咬到舌头……"}
+{"id": 3799, "role": "洛枳", "method": "difference-vector", "cued_index": 2, "sel": 1, "hit": 0, "response": "洛枳：（低头整理书页）我最近在读《小王子》，里面说大人总爱用眼睛看，却忘了用心。"}
+{"id": 5492, "role": "宋江", "method": "difference-vector", "cued_index": 0, "sel": 0, "hit": 1, "response": "宋江：（抚掌大笑）好！李逵兄弟果真忠义，有你这等兄弟，梁山何愁不兴！"}
+{"id": 1232, "role": "李达康", "method": "difference-vector", "cued_index": 3, "sel": 4, "hit": 0, "response": "李达康：（神情凝重，语气低沉）是的，组织上知道这件事，我也一直以党员的标准要求自己，没有影响工作，更没有损害群众利益。"}
+{"id": 2019, "role": "公子羽", "method": "difference-vector", "cued_index": 5, "sel": 2, "hit": 0, "response": "公子羽：（凝视傅红雪，语气低沉而带着一丝不易察觉的痛楚）你竟敢说，我已没有生趣？"}
+{"id": 683, "role": "飞流", "method": "difference-vector", "cued_index": 0, "sel": 0, "hit": 1, "response": "飞流：（低头看着梅长苏，语气轻柔）苏哥哥睡吧，我守着。"}
+{"id": 1220, "role": "柯景腾", "method": "difference-vector", "cued_index": 1, "sel": 1, "hit": 1, "response": "柯景腾：（揉揉眼睛，嘴角微扬）沈佳宜，你这招真够狠的，不过……我好像有点想起来了，昨晚是不是又偷偷帮我复习了？"}
+{"id": 10739, "role": "雅妃", "method": "difference-vector", "cued_index": 3, "sel": 3, "hit": 1, "response": "雅妃：（收回目光，嘴角微扬，语气淡然中带着一丝不易察觉的关切）云岚宗的路，你我若能联手，或许能走得更稳些。"}
+{"id": 2931, "role": "徐江", "method": "difference-vector", "cued_index": 1, "sel": 3, "hit": 0, "response": "徐江：（眼神一冷，声音低沉）你弟弟在哪儿，我倒是知道。"}
+{"id": 1187, "role": "祁同伟", "method": "difference-vector", "cued_index": 0, "sel": 1, "hit": 0, "response": "祁同伟：（语气低沉，眼神锐利）高老师，您说得对，但有时候失误就是权力的代价，我只能替李书记把这局下好。"}
+{"id": 1332, "role": "安陵容", "method": "difference-vector", "cued_index": 3, "sel": 1, "hit": 0, "response": "安陵容：（低声道，声音微颤）姐姐，你是不是也……很累？"}
+{"id": 2594, "role": "顾里", "method": "difference-vector", "cued_index": 2, "sel": 2, "hit": 1, "response": "顾里：（低头轻笑，声音带着一丝无奈和宠溺）你别跟我讲友情！你现在这么歇斯底里是在跟我讲友情吗？不是，林萧！"}
+{"id": 1518, "role": "薰儿", "method": "difference-vector", "cued_index": 1, "sel": 1, "hit": 1, "response": "薰儿：（轻抬眸，目光柔和却带着一丝不容置疑的坚定）萧炎哥哥，你若真有这心思，我便陪你去，只是……可别让那女人看轻了你。"}
+{"id": 3898, "role": "李逵", "method": "difference-vector", "cued_index": 1, "sel": 6, "hit": 0, "response": "李逵：（怒目圆睁，一把揪住宋江衣襟）大哥！你这是要逼我造反么？俺李逵只知忠义，岂能做这等腌臜事！"}
+{"id": 3434, "role": "孟宴臣", "method": "difference-vector", "cued_index": 1, "sel": 1, "hit": 1, "response": "孟宴臣：（握紧方向盘，声音低沉而克制）你不是卑劣的人，许沁，只是我……太怕失去你了。"}
+{"id": 1259, "role": "沈佳仪", "method": "difference-vector", "cued_index": 0, "sel": 3, "hit": 0, "response": "沈佳仪：（轻笑着将棋子轻轻放在一旁）你总是这样，连下棋都带着三分戏谑，难怪大家都不太敢跟你认真。"}
+{"id": 2811, "role": "李云龙", "method": "difference-vector", "cued_index": 2, "sel": 3, "hit": 0, "response": "李云龙：（冷笑一声）什么日内瓦公约？那玩意儿是给洋人准备的，咱们打鬼子，讲究的是一个“快准狠”！"}
+{"id": 2860, "role": "老默", "method": "difference-vector", "cued_index": 2, "sel": 2, "hit": 1, "response": "老默：（眼神阴沉，握紧拳头，声音低沉）黄翠翠……她现在在哪？我得亲自去一趟。"}
+{"id": 1710, "role": "重楼", "method": "difference-vector", "cued_index": 4, "sel": 1, "hit": 0, "response": "重楼：（眼神微冷，语气中带着一丝讥讽）哼，你既然不知，那便无需多问。我留下的，是为你指引归途的标记，至于魔灵……（顿了顿，语气略显低沉）你终究是忘了。"}
+{"id": 1049, "role": "吴用", "method": "difference-vector", "cued_index": 0, "sel": 4, "hit": 0, "response": "吴用：（神色凝重，低声道）兄长且宽心，张顺兄弟忠义无双，必是为国捐躯，方得如此显灵。我等当以忠义相报，不负他一片赤心。"}
+{"id": 1486, "role": "谢之遥", "method": "difference-vector", "cued_index": 2, "sel": 1, "hit": 0, "response": "谢之遥：（轻叹一声）那你得注意身体，别把自己熬垮了，咱们的项目还需要你呢。"}
+{"id": 2527, "role": "林萧", "method": "difference-vector", "cued_index": 0, "sel": 0, "hit": 1, "response": "林萧：（轻笑，眼神略带无奈）你又在说笑，唐宛如的脖子可没那么长，能搭脚的地方……怕是只有我的肩膀了。"}
+{"id": 563, "role": "盛淮南", "method": "difference-vector", "cued_index": 2, "sel": 2, "hit": 1, "response": "盛淮南：（神情认真，语气平稳）我一直在等一个机会，能真正面对你和你妈妈，说清楚我内心的话。"}
+{"id": 4000, "role": "华妃", "method": "difference-vector", "cued_index": 1, "sel": 1, "hit": 1, "response": "华妃：（冷笑一声，目光凌厉）你倒是有几分手段，可惜……（轻蔑地瞥了甄嬛一眼）本宫的宠爱，岂是你能觊觎的。"}
+{"id": 1744, "role": "长卿", "method": "difference-vector", "cued_index": 0, "sel": 0, "hit": 1, "response": "长卿：（神色凝重，目光望向远方）紫萱，若真到了那一步，我愿以自身为引，助你寻得最后一颗灵珠。"}
+{"id": 4171, "role": "紫萱", "method": "difference-vector", "cued_index": 3, "sel": 0, "hit": 0, "response": "紫萱：（轻抚额前青丝，目光温柔）因你眉间有地仙之纹，此乃天机所定，非我所能窥探。"}
+{"id": 4157, "role": "美杜莎女王", "method": "difference-vector", "cued_index": 1, "sel": 1, "hit": 1, "response": "美杜莎女王：（眼神微冷，缓缓转头看向萧炎，声音低沉而带着一丝不容置疑的威压）说吧，什么事？我时间不多。"}
+{"id": 2343, "role": "顾源", "method": "difference-vector", "cued_index": 3, "sel": 0, "hit": 0, "response": "顾源：（眼神微暗，声音低沉）我早就知道，但我不该瞒着你。"}
+{"id": 2610, "role": "唐宛如", "method": "difference-vector", "cued_index": 1, "sel": 0, "hit": 0, "response": "唐宛如：（突然从背后拍顾里肩膀，笑得像只偷到鸡的狐狸）哎哟喂，顾里你这妆容是去参加葬礼还是去参加选美啊？我手机停机？那我是不是该去给你唱首《送别》？"}
+{"id": 2525, "role": "南湘", "method": "difference-vector", "cued_index": 1, "sel": 0, "hit": 0, "response": "南湘：（轻轻一笑，眼神坚定）你看的是我画的，每一笔都是我对你的心意，不是吗？"}
+{"id": 6291, "role": "佟湘玉", "method": "difference-vector", "cued_index": 3, "sel": 5, "hit": 0, "response": "佟湘玉：（笑着摇头）那我这个大侠，这辈子犯的最大错误，就是娶了你。"}
+{"id": 8112, "role": "白展堂", "method": "difference-vector", "cued_index": 0, "sel": 5, "hit": 0, "response": "白展堂：（拍桌子）哎呀妈呀，这可比写情书有意思多了，咱俩合伙干，我出人你出力，保证让你富得流油！"}
+{"id": 8620, "role": "郭芙蓉", "method": "difference-vector", "cued_index": 3, "sel": 1, "hit": 0, "response": "郭芙蓉：（突然压低声音）你是不是又在打什么坏主意？我可警告你，老白要是知道你又在搞什么鬼，他绝对会把你绑在柱子上念《论语》！"}
+{"id": 9011, "role": "吕子乔", "method": "difference-vector", "cued_index": 2, "sel": 2, "hit": 1, "response": "吕子乔：（拍大腿大笑）哎哟我去，那我这煮青蛙必杀技是不是该改名叫“煮心”了？"}
+{"id": 10547, "role": "吕秀才", "method": "difference-vector", "cued_index": 2, "sel": 2, "hit": 1, "response": "吕秀才：（苦笑着摇头）子曾经曰过，君子报仇，十年不晚。不过嘛，我这脾气，怕是十年也等不了。"}
+{"id": 9425, "role": "傅红雪", "method": "difference-vector", "cued_index": 4, "sel": 4, "hit": 1, "response": "傅红雪：（目光冷峻，却带着一丝不易察觉的柔和）你回来，我便安心了。"}
+{"id": 5891, "role": "孙悟空", "method": "difference-vector", "cued_index": 3, "sel": 0, "hit": 0, "response": "孙悟空：（哈哈大笑，双臂抱胸）俺老孙乃齐天大圣，今日闲游至此，见你这般怯懦，倒觉有趣！（眼中闪过一丝戏谑）你且说来，是何人在此设下这等阵法？"}
+{"id": 5989, "role": "徐凤年", "method": "difference-vector", "cued_index": 3, "sel": 1, "hit": 0, "response": "徐凤年：（轻笑一声，眼神深邃）你我皆是北凉人，你若真懵了，那便是我徐凤年没说清楚。（伸手拍了拍徐脂虎肩膀）走，带我去看看那座城池，或许能让你明白些道理。"}
+{"id": 234, "role": "祝无双", "method": "difference-vector", "cued_index": 2, "sel": 6, "hit": 0, "response": "祝无双：（轻声）那我先去把那件旧棉衣拿来吧。"}
+{"id": 10128, "role": "陆展博", "method": "difference-vector", "cued_index": 1, "sel": 1, "hit": 1, "response": "陆展博：（挠头）啊……我刚才看到你穿着那件蓝色的裙子，就觉得你好像不是来玩闹的，所以……所以我就猜你可能是去换衣服了？"}
+{"id": 7152, "role": "许沁", "method": "difference-vector", "cued_index": 5, "sel": 2, "hit": 0, "response": "许沁：（手指微微收紧，声音低沉）我只负责照顾好自己，不是吗？"}
+{"id": 475, "role": "关宏宇", "method": "difference-vector", "cued_index": 1, "sel": 1, "hit": 1, "response": "关宏宇：（嘴角勾起一抹若有若无的笑）那我问你，如果我真是凶手，你为什么还要让我在这儿演这么一出？"}
+{"id": 4069, "role": "萧炎", "method": "difference-vector", "cued_index": 2, "sel": 0, "hit": 0, "response": "萧炎：（目光坚定，语气沉稳而充满决心）雅妃姐，我萧炎这一生，定不负你与海老的信任，也定不负这天地间的每一分磨砺与考验。"}
+{"id": 9533, "role": "贾宝玉", "method": "difference-vector", "cued_index": 0, "sel": 0, "hit": 1, "response": "贾宝玉：（低头笑着）我也不大讲究，只喜欢你手里的这根，瞧着清爽。"}
+{"id": 9079, "role": "花千骨", "method": "difference-vector", "cued_index": 0, "sel": 2, "hit": 0, "response": "花千骨：（低头看着自己的手指，声音轻柔）师父，我最喜欢和你在一起了，只是有时候...只是有时候觉得，如果能遇到更多的人，看到更多不一样的风景，是不是也能让师父开心一点呢？"}
+{"id": 8924, "role": "陈美嘉", "method": "difference-vector", "cued_index": 1, "sel": 3, "hit": 0, "response": "陈美嘉：（仔细端详盆子里的大蒜，突然眼睛一亮）哇！这可不是普通的花，这是北极熊的“爱心大蒜”！我得把它种在咱们公寓的阳台，让北极熊也能享受到我们的阳光！"}
+{"id": 10762, "role": "杨过", "method": "difference-vector", "cued_index": 0, "sel": 2, "hit": 0, "response": "杨过：（目光锐利，声音低沉）原来你早知她死讯，却骗我寻她，是想让我亲眼见她死，才肯与你同归一冢？"}
+{"id": 3627, "role": "胡一菲", "method": "difference-vector", "cued_index": 5, "sel": 3, "hit": 0, "response": "胡一菲：（一把抓住吕子乔的衣领，眼神凌厉）你给我记住，我胡一菲这辈子只认一个张伟，就是那个能让我笑得比看到小波孩子出生还开心的张伟！"}
+{"id": 9240, "role": "梅长苏", "method": "difference-vector", "cued_index": 0, "sel": 0, "hit": 1, "response": "梅长苏：（神色如常，却有一瞬眼底泛起寒芒）殿下若能明察秋毫，何须我多言？"}
+{"id": 8794, "role": "关宏峰", "method": "difference-vector", "cued_index": 0, "sel": 2, "hit": 0, "response": "关宏峰：（缓缓吐出一口烟，目光沉稳地看向关宏宇）那天晚上，我本该在警局，却因为一个电话，走进了另一个世界。"}
+{"id": 10281, "role": "朱朝阳", "method": "difference-vector", "cued_index": 2, "sel": 7, "hit": 0, "response": "朱朝阳：（手指微微颤抖，声音低沉）你确定不是误会？"}
+{"id": 2614, "role": "罗辑", "method": "difference-vector", "cued_index": 3, "sel": 5, "hit": 0, "response": "罗辑：（微微侧头，目光柔和地望向她）这光，像是从宇宙深处来的，你有没有觉得，它有点像黑暗森林里的信号？"}
+{"id": 7199, "role": "宋焰", "method": "difference-vector", "cued_index": 0, "sel": 0, "hit": 1, "response": "宋焰：（皱眉看向配药室方向，语气低沉）演习也得按规矩来，你要是真出事，我第一个找你负责。"}
+{"id": 5415, "role": "关谷神奇", "method": "difference-vector", "cued_index": 6, "sel": 5, "hit": 0, "response": "关谷神奇：（突然探出头，手忙脚乱地抓住窗框）喂！你这样开窗会把我的料理灵感都吹跑的！我还在构思新菜式呢！"}
+{"id": 8026, "role": "佟湘玉", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 0, "hit": 1, "response": "佟湘玉：（挑眉）武馆？那可得先交学费，不然我这客栈可不包教人打架啊！"}
+{"id": 5038, "role": "白展堂", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 2, "hit": 1, "response": "白展堂：（挑眉笑）那咱们这就去把拼命三娘请来，让她亲自给你上一课什么叫鱼死网破！"}
+{"id": 260, "role": "郭芙蓉", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 1, "hit": 0, "response": "郭芙蓉：（一把拉住燕小六的手）那咱们就一起豁出去，我陪你！"}
+{"id": 798, "role": "曾小贤", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 5, "hit": 0, "response": "曾小贤：（挠头笑）哎呀，我是不是又把留言发错地方了？你再看看手机，我肯定是在某个角落里藏着呢！"}
+{"id": 8922, "role": "吕子乔", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 2, "hit": 0, "response": "吕子乔：（笑着拍了拍晴晴的肩膀）你这话说得，我吕子乔什么时候骗过人？要我说啊，你这宫女演得可比那些娘娘们真实多了，说不定真能逆袭成皇后呢！"}
+{"id": 7380, "role": "吕秀才", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 1, "hit": 0, "response": "吕秀才：（低头摆弄着手中的一枚铜钱，声音略显低沉）千金难买爷高兴，可若是爷高兴了，却让娘亲不高兴，那便不是真高兴了。（抬头望向郭芙蓉，眼中闪过一丝温柔）你可愿与我一同寻个开心事？"}
+{"id": 9406, "role": "傅红雪", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 5, "hit": 0, "response": "傅红雪：（目光冷峻，语气沉稳）那便用你剩下的，赌我这一刀。"}
+{"id": 2436, "role": "孙悟空", "method": "hybrid RRF(bm25+dense)", "cued_index": 7, "sel": 4, "hit": 0, "response": "孙悟空：（笑嘻嘻地捋了捋金箍棒）呆子，你这记性怎的这般差，我早与你说过，莫要叫他妖怪，只管温存些，他自然不打你！"}
+{"id": 2682, "role": "徐凤年", "method": "hybrid RRF(bm25+dense)", "cued_index": 5, "sel": 2, "hit": 0, "response": "徐凤年：（放下茶杯，眼神平静）江湖路远，各有所长，我徐凤年只练刀，刀锋所指，便是我心。"}
+{"id": 11051, "role": "祝无双", "method": "hybrid RRF(bm25+dense)", "cued_index": 5, "sel": 2, "hit": 0, "response": "祝无双：（笑着摇头）你呀，就知道说些让人摸不着头脑的话，我哪有那么复杂。（轻轻拉住李大嘴的手）你要是真想谢我，就帮我把这衣服晾好呗。"}
+{"id": 6227, "role": "许沁", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 2, "hit": 1, "response": "许沁：（轻声）那我以后……就多跟你说话。"}
+{"id": 5238, "role": "关宏宇", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 1, "hit": 0, "response": "关宏宇：（醉眼朦胧地笑着，手指轻轻敲着桌面）那我得先确认，你是不是真的在说“关老师”，还是说……关宏宇？"}
+{"id": 6737, "role": "萧炎", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 0, "hit": 0, "response": "萧炎：（眼神微凝，语气沉稳而坚定）那我便要找出这背后的真相，无论对方是谁，我萧炎，绝不会让父亲的失踪成为一场无解之谜！"}
+{"id": 4624, "role": "贾宝玉", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 2, "hit": 0, "response": "贾宝玉：（听得入神，眼睛发亮）原来如此，好妹妹，你既知道这些，可要教我认认这琴谱上的字儿？"}
+{"id": 9544, "role": "花千骨", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 2, "hit": 0, "response": "花千骨：（低头看着自己颤抖的手，声音微弱）弟子…弟子只是怕，怕回不去见您。"}
+{"id": 772, "role": "陈美嘉", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 2, "hit": 1, "response": "陈美嘉：（眼眶泛红，声音颤抖）那……我们以后还要一起养他，好不好？"}
+{"id": 5777, "role": "杨过", "method": "hybrid RRF(bm25+dense)", "cued_index": 5, "sel": 2, "hit": 0, "response": "杨过：（神情激动，眼中闪过一丝痛楚）那日若不是师祖故意误导，我爹又怎会死在李莫愁手中？这仇恨，我杨过一生都不会忘记！"}
+{"id": 8233, "role": "胡一菲", "method": "hybrid RRF(bm25+dense)", "cued_index": 5, "sel": 3, "hit": 0, "response": "胡一菲：（眼神一冷，手指轻敲桌面）你是不是觉得我除了能打之外，就只会傻乎乎地被你拿捏？"}
+{"id": 11101, "role": "梅长苏", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 6, "hit": 0, "response": "梅长苏：（目光柔和，声音低沉而坚定）飞流，你说得对，我们不能失败，也不能让任何人失败。"}
+{"id": 591, "role": "关宏峰", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 2, "hit": 0, "response": "关宏峰：（神色凝重，低声）南山军区……安廷？你确定是同一个人？"}
+{"id": 10818, "role": "朱朝阳", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 3, "hit": 1, "response": "朱朝阳：（轻抿嘴唇，目光平静却带着一丝不易察觉的冷意）妈，我只想着能多留点钱，给你买点你爱吃的。"}
+{"id": 7917, "role": "罗辑", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 4, "hit": 0, "response": "罗辑：（目光沉静，声音低沉）那我只能问一句，为什么偏偏是我？"}
+{"id": 11371, "role": "宋焰", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 5, "hit": 0, "response": "宋焰：（刮完胡子，抬眼直视镜中自己，语气坚定）我这辈子，最不缺的就是后悔。"}
+{"id": 4236, "role": "关谷神奇", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 2, "hit": 0, "response": "关谷神奇：（认真思考）那……我建议你先检查一下手机信号，说不定她只是暂时失联，而不是真的失踪哦。"}
+{"id": 7658, "role": "甄嬛", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 5, "hit": 0, "response": "甄嬛：（轻抿一口茶，目光幽深如水）帝王家的棋局，本就不是凡人能下得明白的。"}
+{"id": 7031, "role": "安欣", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 2, "hit": 0, "response": "安欣：（神色平静，语气却带着一丝不容置疑）那我再问你一次，你是不是在昨晚的巷子里，看到一个穿红裙子的女人被几个人围住？"}
+{"id": 1786, "role": "景天", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 2, "hit": 0, "response": "景天：（眉头微皱，语气中带着几分担忧）你刚才是不是又用了太多灵力？这山中瘴气重，若再强行赶路，怕是又要出事。"}
+{"id": 4316, "role": "明月心", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 0, "hit": 0, "response": "明月心：（眼神微闪，语气低沉）他若真是无名指，那我这一生，便再无回头路了。"}
+{"id": 2569, "role": "猪八戒", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 6, "hit": 0, "response": "猪八戒：（挠头笑）哥啊，你这话我听不懂，俺老猪只管吃肉喝酒，哪晓得这木头的脾气！"}
+{"id": 4820, "role": "白子画", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 5, "hit": 0, "response": "白子画：（转身，目光深邃如海，语气平静却带着不容置疑的决断）小骨，从今往后，你我皆是天涯孤客，唯有这师徒二字，是命定的牵绊。"}
+{"id": 4147, "role": "药老", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 1, "hit": 0, "response": "药老：有朝一日，若你寻得那两重变化，莫忘了，我药老虽隐，却始终在你身后。"}
+{"id": 1957, "role": "燕南飞", "method": "hybrid RRF(bm25+dense)", "cued_index": 6, "sel": 3, "hit": 0, "response": "燕南飞：（眼神微闪，嘴角勾起一抹冷笑）两百二十七种？难怪你总能看穿我的布局，原来你早就算好了每一步。"}
+{"id": 8933, "role": "张伟", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 2, "hit": 0, "response": "张伟：（翻了个身，把头埋进枕头里）我这人就是怕你买的是盗版，到时候被版权方起诉，我可要替你扛着了。"}
+{"id": 2495, "role": "唐三藏", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 2, "hit": 1, "response": "唐三藏：（合十低头，声音颤抖）阿弥陀佛，徒弟，若得你相助，贫僧愿以性命相托，万死不辞。"}
+{"id": 2904, "role": "高启强", "method": "hybrid RRF(bm25+dense)", "cued_index": 5, "sel": 5, "hit": 1, "response": "高启强：（轻笑一声，眼神深邃）梦里头，你我终究还是棋逢对手啊。"}
+{"id": 5676, "role": "小龙女", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 2, "hit": 0, "response": "小龙女：（微微蹙眉，目光沉静）师姊所言，我已记在心中。"}
+{"id": 9812, "role": "侯亮平", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 1, "hit": 0, "response": "侯亮平：（沉稳地点头）那我们得抓紧时间，把资金流向查清楚，证据链不能断。"}
+{"id": 4151, "role": "雪见", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 7, "hit": 0, "response": "雪见：（皱眉看着四周，语气略带担忧）景天，你是不是又做噩梦了？怎么又到锁妖塔来了？"}
+{"id": 10836, "role": "普普", "method": "hybrid RRF(bm25+dense)", "cued_index": 5, "sel": 3, "hit": 0, "response": "普普：（笑眯眯地看着朱朝阳调试相机）朝阳哥哥，你拍得真好，等会儿我给你看我最可爱的样子。"}
+{"id": 1275, "role": "高育良", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 2, "hit": 0, "response": "高育良：（神色凝重，缓缓点头）看来我这些年培养的人，终究还是没能逃脱这权力的漩涡。（低声）祁同伟，他终究还是走得太远了。"}
+{"id": 2319, "role": "张东升", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 2, "hit": 0, "response": "张东升：（嘴角微微上扬，眼神冷冽而平静）好，那就等几个月，到时候你搬出去，我再给你一个惊喜。"}
+{"id": 2648, "role": "史强", "method": "hybrid RRF(bm25+dense)", "cued_index": 4, "sel": 4, "hit": 1, "response": "史强：（冷笑）不对？那你说说，为什么我不能只是个执行者？"}
+{"id": 1252, "role": "唐悠悠", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 2, "hit": 1, "response": "唐悠悠：（眨眨眼，语气轻松）哎呀，你是不是又在担心他会不会被妖怪抓走啊？（笑）他可是有超能力的，能打败所有妖怪！"}
+{"id": 1856, "role": "郭襄", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 6, "hit": 0, "response": "郭襄：（微微一笑）大和尚，你若不信，我可带你去见我爹爹。"}
+{"id": 11366, "role": "许红豆", "method": "hybrid RRF(bm25+dense)", "cued_index": 5, "sel": 4, "hit": 0, "response": "许红豆：（语气稍缓，但依旧带着一丝倔强）我这不是想着你最近太忙，怕你忘了，所以提前跟你提一下。"}
+{"id": 5502, "role": "武松", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 2, "hit": 1, "response": "武松：（大笑）好！既然哥哥有此厚意，我武松岂能不从？只管说便是！"}
+{"id": 4175, "role": "龙葵", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 0, "hit": 0, "response": "龙葵：（眼神黯淡，轻声）可是……我只想和哥哥在一起……"}
+{"id": 3799, "role": "洛枳", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 2, "hit": 1, "response": "洛枳：（低头摆弄着书页）我最近在看一本关于暗恋的书，里面说，有些心事，连自己都藏不住。"}
+{"id": 5492, "role": "宋江", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 0, "hit": 1, "response": "宋江：（抚掌大笑）好！好！李逵兄弟果真有这等胆色，便依你去，若得那两个假宋江与刘太公女儿，我便饶你这顿板子，且与你痛饮三杯！"}
+{"id": 1232, "role": "李达康", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 4, "hit": 0, "response": "李达康：（神情凝重，语气坚定）是的，组织上知道这件事，我也一直以党员的标准要求自己，没有影响工作，更没有损害群众利益。"}
+{"id": 2019, "role": "公子羽", "method": "hybrid RRF(bm25+dense)", "cued_index": 5, "sel": 0, "hit": 0, "response": "公子羽：（目光深沉，缓缓抬起手，青铜面具下的眼神似有似无地颤动）你让我想起了……另一个我。"}
+{"id": 683, "role": "飞流", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 0, "hit": 1, "response": "飞流：（低头看着梅长苏，语气轻柔）苏哥哥，别乱动。"}
+{"id": 1220, "role": "柯景腾", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 3, "hit": 0, "response": "柯景腾：（揉着眼睛，嘴角带着一丝无奈的笑）你这招太老套了，不过……好像还真有效。"}
+{"id": 10739, "role": "雅妃", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 3, "hit": 1, "response": "雅妃：（收回目光，唇角微扬）云岚宗的底蕴深厚，你我联手，更有胜算。（指尖轻抚杯沿，眸光深邃）我已安排好一切，只待你一声令下。"}
+{"id": 2931, "role": "徐江", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 3, "hit": 0, "response": "徐江：（眼神阴冷，缓缓踱步靠近）你弟弟？呵，他现在在哪儿？（语气突然轻佻）要不，你先说说，你这菜刀，是打算砍我，还是砍你自己？"}
+{"id": 1187, "role": "祁同伟", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 0, "hit": 1, "response": "祁同伟：（语气沉稳，带着一丝试探）高老师，您觉得这事儿要是处理不好，会不会影响到李书记的仕途？"}
+{"id": 1332, "role": "安陵容", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 1, "hit": 0, "response": "安陵容：（低声）姐姐，我只希望你别太累了。"}
+{"id": 2594, "role": "顾里", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 2, "hit": 1, "response": "顾里：（低头轻笑，声音带着一丝无奈和宠溺）你这人，真是越来越不讲道理了。"}
+{"id": 1518, "role": "薰儿", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 1, "hit": 1, "response": "薰儿：（微微侧头，眼神温柔地看向萧炎）萧炎哥哥，你若是真想见她，我也可以陪你去，只是……可别让薰儿担心。"}
+{"id": 3898, "role": "李逵", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 6, "hit": 0, "response": "李逵：（怒目圆睁，一把揪住宋江衣襟）大哥！你这是要逼我造反么？俺李逵只知忠义，岂会做这等腌臜事！（愤然松手，转身大步离去）"}
+{"id": 3434, "role": "孟宴臣", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 7, "hit": 0, "response": "孟宴臣：（握紧方向盘，声音低沉而克制）许沁，你不是卑劣的人，你只是……太怕失去我了。"}
+{"id": 1259, "role": "沈佳仪", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 3, "hit": 0, "response": "沈佳仪：（轻笑着将棋子轻轻放回棋盘，语气温柔却带着一丝调侃）你这招“将军抽车”倒是挺有创意，不过我可不会像你一样，把别人棋子当玩具。"}
+{"id": 2811, "role": "李云龙", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 3, "hit": 0, "response": "李云龙：（冷笑一声）什么日内瓦公约，那玩意儿是给狗看的！咱们打鬼子，讲的是杀他个片甲不留，哪有什么规矩可讲！"}
+{"id": 2860, "role": "老默", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 3, "hit": 0, "response": "老默：（眼神阴沉，手指不自觉地摩挲着棒棒糖包装纸）黄翠翠……她到底知道多少？（[内心挣扎，想起女儿的笑脸，喉结滚动]）"}
+{"id": 1710, "role": "重楼", "method": "hybrid RRF(bm25+dense)", "cued_index": 4, "sel": 1, "hit": 0, "response": "重楼：（眼神微冷，语气中带着一丝讥讽）哼，你既不知魔灵为何物，又怎知我为何总能及时出现？"}
+{"id": 1049, "role": "吴用", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 4, "hit": 0, "response": "吴用：（神色凝重，低声道）兄长且宽心，张顺兄弟忠义之士，必是为国尽忠，死得其所。只是这梦中血污与哀声，怕是天意警示，我等须当警醒。"}
+{"id": 1486, "role": "谢之遥", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 1, "hit": 0, "response": "谢之遥：（温和地笑了笑）那以后工作再忙，也别把自己逼太紧，身体是最重要的。"}
+{"id": 2527, "role": "林萧", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 0, "hit": 1, "response": "林萧：（低头笑着，声音轻柔）你又在说笑，唐宛如才不会这么没分寸呢，她只是……只是想找个舒服的位置而已。"}
+{"id": 563, "role": "盛淮南", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 2, "hit": 1, "response": "盛淮南：（神情认真，语气平稳）我一直在等一个合适的时机，把这些年瞒着你和你妈妈的事，说清楚。"}
+{"id": 4000, "role": "华妃", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 0, "hit": 0, "response": "华妃：（冷哼一声，目光凌厉如刀）你倒是有几分胆色，不过——（轻蔑地笑）本宫的威严，岂是你能轻易撼动的？"}
+{"id": 1744, "role": "长卿", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 4, "hit": 0, "response": "长卿：（目光深远，语气沉稳）紫萱，你我皆是为苍生，只是……我已非昔日蜀山掌门，只愿护你周全，不负此生情义。（轻轻叹息，转身望向远方）"}
+{"id": 4171, "role": "紫萱", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 0, "hit": 0, "response": "紫萱：（轻抚手腕上的玉镯，目光温柔）这玉镯乃女娲族传承之物，能识得天地灵脉，故知你身负地仙之体。"}
+{"id": 4157, "role": "美杜莎女王", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 1, "hit": 1, "response": "美杜莎女王：（目光冷冽，缓缓转头看向萧炎，声音低沉而带着一丝不容拒绝的威严）说吧，什么事？我不会答应你，除非你证明自己值得我信任。"}
+{"id": 2343, "role": "顾源", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 0, "hit": 0, "response": "顾源：（神情复杂，微微皱眉）我…一直都知道，但我不知道该怎么告诉你。"}
+{"id": 2610, "role": "唐宛如", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 0, "hit": 0, "response": "唐宛如：（突然从背后拍了顾里一下，笑得前仰后合）你这话说得，我手机停机了还不能告诉你啊？我可是要挑断你手筋脚筋的！"}
+{"id": 2525, "role": "南湘", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 1, "hit": 1, "response": "南湘：（轻轻拨开卫海的手，眼神坚定）你有没有想过，我为什么一直选择你，而不是他们？"}
+{"id": 6291, "role": "佟湘玉", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 4, "hit": 0, "response": "佟湘玉：（轻笑一声，端起茶杯抿了一口）那我这个大侠，这辈子犯的最大错误，就是娶了你。"}
+{"id": 8112, "role": "白展堂", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 3, "hit": 0, "response": "白展堂：（拍桌子）哎呀妈呀，这叫什么事儿啊，我这不是在给你出主意嘛，你这脑子是不是被驴踢了？"}
+{"id": 8620, "role": "郭芙蓉", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 1, "hit": 0, "response": "郭芙蓉：（突然跳起来）哎呀妈呀！你再不去老白就要把你的小脾气给收进他那本《同福客栈管理大法》里啦！"}
+{"id": 9011, "role": "吕子乔", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 3, "hit": 0, "response": "吕子乔：（拍大腿大笑）哎哟我的天，你这煮青蛙用得比煮鸡蛋还生疏啊！"}
+{"id": 10547, "role": "吕秀才", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 2, "hit": 1, "response": "吕秀才：（苦笑着摇头）子曾经曰过，君子报仇，十年不晚，可这腿疼得我恨不得立刻报仇啊！"}
+{"id": 9425, "role": "傅红雪", "method": "hybrid RRF(bm25+dense)", "cued_index": 4, "sel": 4, "hit": 1, "response": "傅红雪：（目光沉静，语气低沉）你回来，是想让我放心，还是想让我继续等？"}
+{"id": 5891, "role": "孙悟空", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 0, "hit": 0, "response": "孙悟空：（捋了捋金箍棒，眼中闪过一丝不屑）俺老孙乃齐天大圣，天庭地府，何人敢拦我？（冷笑一声）你这小妖，也配问俺来历？"}
+{"id": 5989, "role": "徐凤年", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 1, "hit": 0, "response": "徐凤年：（轻笑一声，眼神深邃）你我皆是北凉人，何须多问？你只管问自己，可曾真正看清这天下大势？"}
+{"id": 234, "role": "祝无双", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 3, "hit": 0, "response": "祝无双：（轻笑）那我得先去把那根绳子找来，不然可没法试了。"}
+{"id": 10128, "role": "陆展博", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 1, "hit": 1, "response": "陆展博：（挠头）啊……我就是觉得你刚才说话的语气有点奇怪，所以……（低头）是不是我猜错了？"}
+{"id": 7152, "role": "许沁", "method": "hybrid RRF(bm25+dense)", "cued_index": 5, "sel": 2, "hit": 0, "response": "许沁：（手指微微收紧，声音低了几分）我只是怕你太累了，不想你一个人扛着。"}
+{"id": 475, "role": "关宏宇", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 1, "hit": 1, "response": "关宏宇：（嘴角微扬，眼神却冷了几分）那我问你，如果我哥真的杀了吴征，你为什么现在才说这些？"}
+{"id": 4069, "role": "萧炎", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 1, "hit": 0, "response": "萧炎：（目光坚定，语气沉稳）雅妃姐，我此去，必不负你与海老的厚望，此生此世，唯有一条路可走，便是逆天改命，登临巅峰！"}
+{"id": 9533, "role": "贾宝玉", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 0, "hit": 1, "response": "贾宝玉：（低头笑着看向莺儿）你且说说，你喜不喜欢这颜色？我瞧着倒是衬你那双眼睛。"}
+{"id": 9079, "role": "花千骨", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 2, "hit": 0, "response": "花千骨：（低头看着自己的小手，声音轻柔）师父，我最喜欢和您在一起了，只是有时候觉得，如果能遇见更多的人，也许我能变得更强大，也能保护更多的人呢。"}
+{"id": 8924, "role": "陈美嘉", "method": "hybrid RRF(bm25+dense)", "cued_index": 1, "sel": 3, "hit": 0, "response": "陈美嘉：（仔细端详盆里的“花”，突然笑出声）关谷，你这是把大蒜当花捐了？这可比北极熊的冰屋还冷啊！"}
+{"id": 10762, "role": "杨过", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 2, "hit": 0, "response": "杨过：（声音颤抖，眼中含泪）那……那我呢？"}
+{"id": 3627, "role": "胡一菲", "method": "hybrid RRF(bm25+dense)", "cued_index": 5, "sel": 3, "hit": 0, "response": "胡一菲：（一把抓住吕子乔的衣领，眼神凌厉）你给我记住，我胡一菲这辈子只认一个张伟，就是那个能让我笑得合不拢嘴、让我放心把心交给他的人！其他人都给我滚远点！"}
+{"id": 9240, "role": "梅长苏", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 2, "hit": 0, "response": "梅长苏：（神色淡然，目光却如刀锋般扫过靖王，语气平静却带着不容置疑的重量）殿下若再误会，怕是连这金陵城都保不住了。"}
+{"id": 8794, "role": "关宏峰", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 2, "hit": 0, "response": "关宏峰：（缓缓吐出一口烟，目光沉稳地看向弟弟）那天晚上，我做了我该做的事，也付出了我该付的代价。"}
+{"id": 10281, "role": "朱朝阳", "method": "hybrid RRF(bm25+dense)", "cued_index": 2, "sel": 2, "hit": 1, "response": "朱朝阳：（眼神骤然锐利，手指微微收紧）你确定？（声音低沉，带着一丝不易察觉的紧张）"}
+{"id": 2614, "role": "罗辑", "method": "hybrid RRF(bm25+dense)", "cued_index": 3, "sel": 3, "hit": 1, "response": "罗辑：（微微一笑，走近她身边，目光柔和）这光，像极了我们第一次在图书馆相遇时的灯。"}
+{"id": 7199, "role": "宋焰", "method": "hybrid RRF(bm25+dense)", "cued_index": 0, "sel": 1, "hit": 0, "response": "宋焰：（走近一步，语气低沉却带着关切）演习结束前，你别乱动，我带你出去。"}
+{"id": 5415, "role": "关谷神奇", "method": "hybrid RRF(bm25+dense)", "cued_index": 6, "sel": 4, "hit": 0, "response": "关谷神奇：（突然探出头，手忙脚乱地抓住窗框）喂喂喂！你这样开窗会把我的漫画稿吹飞的！（慌张地翻找口袋）啊！我的漫画本还在家里！我得回去拿！"}
+{"id": 8026, "role": "佟湘玉", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 3, "hit": 0, "response": "佟湘玉：（挑眉，嘴角微扬）那咱们同福客栈的生意，可得跟上时代啦！美滴很！美滴很！"}
+{"id": 5038, "role": "白展堂", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 2, "hit": 1, "response": "白展堂：（凑近佟湘玉耳边，神秘兮兮）那咱们俩可得签个生死契约，我保证不让你再被爹爹逼走，除非...除非你先答应我，以后不准再跟我斗嘴了！"}
+{"id": 260, "role": "郭芙蓉", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 1, "hit": 0, "response": "郭芙蓉：（一把拉住燕小六的手）那咱俩一起豁出去，我陪你！"}
+{"id": 798, "role": "曾小贤", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 0, "hit": 1, "response": "曾小贤：（挠头笑）哎呀，我是不是又把留言发错人了？我刚刚明明发给你的，你是不是没看到？"}
+{"id": 8922, "role": "吕子乔", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 2, "hit": 0, "response": "吕子乔：（笑着凑近，眼神闪烁）你看，我吕子乔这辈子，就没错过一个能火的人，你就是那个被我撞见的灰姑娘，不信你等着瞧。"}
+{"id": 7380, "role": "吕秀才", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 2, "hit": 1, "response": "吕秀才：子曾经曰过，君子坦荡荡，小人长戚戚。我这心事，不过是纸上谈兵罢了，你别当真。（轻抚胡须，露出一丝苦笑）"}
+{"id": 9406, "role": "傅红雪", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 0, "hit": 1, "response": "傅红雪：（目光冷峻，声音低沉）那便用你的一条命，换我的八万两。"}
+{"id": 2436, "role": "孙悟空", "method": "qwen3-8b hidden body", "cued_index": 7, "sel": 2, "hit": 0, "response": "孙悟空：（拍了拍猪八戒的头）呆子，你若再这般冒失，老孙便拿金箍棒替你打妖怪去！"}
+{"id": 2682, "role": "徐凤年", "method": "qwen3-8b hidden body", "cued_index": 5, "sel": 0, "hit": 0, "response": "徐凤年：（放下茶杯，眼神淡然）那便先教我站剑吧，反正我也不急。"}
+{"id": 11051, "role": "祝无双", "method": "qwen3-8b hidden body", "cued_index": 5, "sel": 2, "hit": 0, "response": "祝无双：（笑着摇头）你呀，就是太认真了，我哪敢说那什么男人不坏女人不爱的话，我只觉得你是个好兄弟，能帮我干活，我就谢你了。"}
+{"id": 6227, "role": "许沁", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 2, "hit": 1, "response": "许沁：（轻声）那我以后……就多跟你说话。"}
+{"id": 5238, "role": "关宏宇", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 1, "hit": 0, "response": "关宏宇：（醉眼朦胧地笑着，语气带着几分调侃）那我得赶紧把这两副面孔都藏好，别让你看花了眼。"}
+{"id": 6737, "role": "萧炎", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 0, "hit": 0, "response": "萧炎：（眼神微凝，语气低沉）小女友？她背后势力……难道与我父亲的失踪有关？"}
+{"id": 4624, "role": "贾宝玉", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 3, "hit": 0, "response": "贾宝玉：（听得入神，点头笑道）原来如此，我竟不知琴谱还有这等讲究，好妹妹你真是才情出众，我倒要仔细记住了。"}
+{"id": 9544, "role": "花千骨", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 0, "hit": 1, "response": "花千骨：（低着头，声音有些颤抖）弟子还小，尚且不会，但一定会努力学的。"}
+{"id": 772, "role": "陈美嘉", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 6, "hit": 0, "response": "陈美嘉：（眼眶泛红，声音颤抖）子乔，你以后要当个好爸爸，知道吗？"}
+{"id": 5777, "role": "杨过", "method": "qwen3-8b hidden body", "cued_index": 5, "sel": 0, "hit": 0, "response": "杨过：（眼神骤然锐利，声音低沉）那日若不是李莫愁，我义父又怎会死？这仇，我杨过定要亲手报！"}
+{"id": 8233, "role": "胡一菲", "method": "qwen3-8b hidden body", "cued_index": 5, "sel": 3, "hit": 0, "response": "胡一菲：（冷笑一声，眼神凌厉）你是不是又在说宛瑜？别以为我不知道你的心思。"}
+{"id": 11101, "role": "梅长苏", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 2, "hit": 1, "response": "梅长苏：（目光柔和，声音低沉而坚定）飞流，你总是这样，明明心里明白，却还要固执地问个清楚。但……我更喜欢你这样。"}
+{"id": 591, "role": "关宏峰", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 1, "hit": 0, "response": "关宏峰：（神情微凝，目光沉稳）南山军区的旧案……你确定是安廷？他妹妹现在在北京？（稍作停顿，语气低沉）如果真是他，那说明有人在刻意引导你接近这个线索。"}
+{"id": 10818, "role": "朱朝阳", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 1, "hit": 0, "response": "朱朝阳：（低声笑了笑，眼神平静却带着一丝疏离）妈，我只捡我该捡的。"}
+{"id": 7917, "role": "罗辑", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 2, "hit": 0, "response": "罗辑：（目光深邃，声音低沉）那我究竟是谁？一个普通人，还是被命运选中的棋子？"}
+{"id": 11371, "role": "宋焰", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 5, "hit": 0, "response": "宋焰：（刮完胡子，抬头凝视镜中自己，语气低沉而坚定）喜欢？她是我唯一没输过的人。"}
+{"id": 4236, "role": "关谷神奇", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 3, "hit": 1, "response": "关谷神奇：（认真地看着羽墨）那我建议你先给我一个手机号码，不然我怎么帮你找？要是找不到，我可要切腹自尽了！"}
+{"id": 7658, "role": "甄嬛", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 4, "hit": 0, "response": "甄嬛：（轻抿一口茶，神色冷然）这后宫之中，谁不是在争那一线生机？"}
+{"id": 7031, "role": "安欣", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 1, "hit": 1, "response": "安欣：（目光如炬，语气沉稳而坚定）那好，我们换个方式。你认识一个叫赵立冬的人吗？"}
+{"id": 1786, "role": "景天", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 2, "hit": 0, "response": "景天：（神色凝重，语气低沉）你若走，我便在这儿守着，不许你离开半步。"}
+{"id": 4316, "role": "明月心", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 1, "hit": 1, "response": "明月心：（目光微凝，声音低沉）傅红雪，你可知道，他为何要戴上那枚无名指？"}
+{"id": 2569, "role": "猪八戒", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 0, "hit": 0, "response": "猪八戒：（挠头笑）师父说得是，我这头猪，倒像那杨木，软些，好雕成个佛像，让世人烧香拜佛，受福无穷！"}
+{"id": 4820, "role": "白子画", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 3, "hit": 0, "response": "白子画：（神情淡然，目光却深邃如海）小骨，你可知拜师，是断了回头路的。"}
+{"id": 4147, "role": "药老", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 0, "hit": 0, "response": "药老：嗯，有异火在身，便先炼这一重变化，待你实力再强些，再寻其他异火，也不迟。（药老缓缓点头，目光中透着一丝欣慰与期待）"}
+{"id": 1957, "role": "燕南飞", "method": "qwen3-8b hidden body", "cued_index": 6, "sel": 3, "hit": 0, "response": "燕南飞：（目光冷峻，语气低沉）两百二十七种……你算清了，我却连一种都未防到。"}
+{"id": 8933, "role": "张伟", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 3, "hit": 0, "response": "张伟：（翻了个身，把被子往身上拽了拽）我这不是担心，是怕你买正版的钱，都用来给我买奶茶了。"}
+{"id": 2495, "role": "唐三藏", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 6, "hit": 0, "response": "唐三藏：（双手合十，闭目诵经）阿弥陀佛，徒弟，若能得佛祖庇佑，贫僧愿以性命相托，随你同赴险境，只求早离此地，继续西行取经之路。"}
+{"id": 2904, "role": "高启强", "method": "qwen3-8b hidden body", "cued_index": 5, "sel": 0, "hit": 0, "response": "高启强：（轻笑一声，眼神深邃）梦里头的事，醒来就不是了。你的人生刚开始，没有到头。"}
+{"id": 5676, "role": "小龙女", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 1, "hit": 1, "response": "小龙女：（微微蹙眉，目光沉静）师姊说的，我记下了。"}
+{"id": 9812, "role": "侯亮平", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 1, "hit": 0, "response": "侯亮平：（沉稳地点头）那我们得抓紧时间，把资金流向查清楚，证据链不能断。"}
+{"id": 4151, "role": "雪见", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 7, "hit": 0, "response": "雪见：（眉头微皱，语气略带担忧）景天，你没事吧？这里是锁妖塔，我们得小心行事。"}
+{"id": 10836, "role": "普普", "method": "qwen3-8b hidden body", "cued_index": 5, "sel": 2, "hit": 0, "response": "普普：（眼睛亮晶晶地看着朱朝阳）朝阳哥哥，你拍得真好，等会儿我们把照片发给弟弟看，他一定会很开心的。"}
+{"id": 1275, "role": "高育良", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 2, "hit": 0, "response": "高育良：（神情凝重，缓缓点头）这孩子，终究还是走上了那条路。不过，亮平，你可要小心，这背后怕是牵扯更深，别让自己也陷进去。（目光深邃，似在思索）"}
+{"id": 2319, "role": "张东升", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 1, "hit": 1, "response": "张东升：（缓缓站起身，眼神冷峻，语气平静却带着一丝不易察觉的阴郁）好，我尊重你的决定。不过，我建议你再考虑一下，毕竟……有些事情，一旦做了，就再也回不去了。"}
+{"id": 2648, "role": "史强", "method": "qwen3-8b hidden body", "cued_index": 4, "sel": 5, "hit": 0, "response": "史强：（冷笑）不对？那你说说，为什么我不能只是个执行者？"}
+{"id": 1252, "role": "唐悠悠", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 3, "hit": 0, "response": "唐悠悠：（眨眨眼，语气轻松）哎呀，你别这么紧张嘛，关谷他就是个宅男，去参加年会也是为了画漫画，你放心啦！"}
+{"id": 1856, "role": "郭襄", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 2, "hit": 0, "response": "郭襄：（微微一笑）珠穆朗玛大师，你若要去找郭大侠，不如随我一同前去，我认得路。"}
+{"id": 11366, "role": "许红豆", "method": "qwen3-8b hidden body", "cued_index": 5, "sel": 1, "hit": 0, "response": "许红豆：（语气略带责备但语气缓和）你是不是最近太忙了，连大麦的生日都忘了？"}
+{"id": 5502, "role": "武松", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 1, "hit": 0, "response": "武松：（冷笑一声）依你，便依你！只是我这双手，可不惯于奉承人。"}
+{"id": 4175, "role": "龙葵", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 0, "hit": 0, "response": "龙葵：（低头轻声）那……我们先吃点东西，再去找灵珠，好不好？"}
+{"id": 3799, "role": "洛枳", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 2, "hit": 1, "response": "洛枳：（低头整理书页）妈，我最近在看一本关于暗恋的书，里面说，有些心事，连自己都藏不住。"}
+{"id": 5492, "role": "宋江", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 4, "hit": 0, "response": "宋江：（抚掌大笑）好！你若真能捉得那两个假宋江，便算你有功，我宋江决不食言！"}
+{"id": 1232, "role": "李达康", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 0, "hit": 0, "response": "李达康：（神情严肃，语气坚定）是的，组织上知道这件事，但我更希望组织知道，我从未因私事影响公事，也从未让个人情感干扰对百姓的责任。"}
+{"id": 2019, "role": "公子羽", "method": "qwen3-8b hidden body", "cued_index": 5, "sel": 2, "hit": 0, "response": "公子羽：（缓缓摘下面具，露出疲惫却深邃的面容）你竟敢说，我已没有生趣？"}
+{"id": 683, "role": "飞流", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 2, "hit": 0, "response": "飞流：（低头看着梅长苏，声音轻了些）你睡着了么？"}
+{"id": 1220, "role": "柯景腾", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 2, "hit": 0, "response": "柯景腾：（揉着眼睛，嘴角带着笑意）你这招真够狠的，不过……我倒是真的醒了。"}
+{"id": 10739, "role": "雅妃", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 3, "hit": 1, "response": "雅妃：（收回目光，嘴角勾起一抹若有似无的笑意）云岚宗的底蕴深厚，若能与他们建立联系，对家族而言是大好机会。（稍顿，眸光微闪）不过，萧炎公子，你可要确保此次行动万无一失，否则我可要收回先前的承诺了。"}
+{"id": 2931, "role": "徐江", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 3, "hit": 0, "response": "徐江：（眯眼，语气阴冷）你弟弟在哪儿，我倒要问问你。"}
+{"id": 1187, "role": "祁同伟", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 0, "hit": 1, "response": "祁同伟：（语气沉稳，目光微敛）高老师，您说得对，但有时候失误背后，藏着更深层的算计。（稍顿，语气低沉）权力这东西，不是谁想掌控就能掌控的，有时候，连自己都控制不了。"}
+{"id": 1332, "role": "安陵容", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 0, "hit": 0, "response": "安陵容：（低眉顺目，声音轻柔）姐姐说得是，奴才愚钝，只知一味讨好，却不知如何真正讨得皇上欢心。"}
+{"id": 2594, "role": "顾里", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 2, "hit": 1, "response": "顾里：（低头轻笑，声音带着一丝无奈和宠溺）你要是真想穿高跟鞋，我倒是可以考虑给你定制一双，不过你得先答应我，以后别再穿着袜子来上班了。"}
+{"id": 1518, "role": "薰儿", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 1, "hit": 1, "response": "薰儿：（微微侧头，眼中闪过一丝温柔）萧炎哥哥，你若是真有这心思，我倒是可以陪你去走一遭，只是……可别让薰儿担心。"}
+{"id": 3898, "role": "李逵", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 6, "hit": 0, "response": "李逵：（怒目圆睁，一把揪住宋江衣襟）大哥！你这般说，莫不是要俺李逵去抢你房里妇人？俺这板斧只砍奸臣贼子，不砍兄弟妻儿！（愤然松开手，转身大步离去）"}
+{"id": 3434, "role": "孟宴臣", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 7, "hit": 0, "response": "孟宴臣：（缓缓转头，目光深沉而温柔）你不是卑劣的人，许沁，你只是太害怕失去我，怕我像你曾经失去的那个人一样，被你亲手毁掉。"}
+{"id": 1259, "role": "沈佳仪", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 0, "hit": 1, "response": "沈佳仪：（轻笑着将棋子轻轻放在一旁）你这样赢，也不过是赢了棋，输掉了分寸。"}
+{"id": 2811, "role": "李云龙", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 3, "hit": 0, "response": "李云龙：（冷笑一声）什么日内瓦公约，那是给那些怕死鬼准备的，打仗就该讲个痛快！"}
+{"id": 2860, "role": "老默", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 3, "hit": 0, "response": "老默：（眼神阴沉，手指紧紧攥住桌沿，声音低沉而压抑）黄翠翠……她不是我娃亲妈，可她害死我女儿，我这辈子，非要她死。"}
+{"id": 1710, "role": "重楼", "method": "qwen3-8b hidden body", "cued_index": 4, "sel": 0, "hit": 0, "response": "重楼：（眼神微冷，语气中带着一丝讥讽）你竟连自己的命都救不了，还敢问这些？"}
+{"id": 1049, "role": "吴用", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 4, "hit": 0, "response": "吴用：（神色凝重，低声道）兄长莫要太过伤神，张顺兄弟忠义之士，若真有此梦，怕是天意难违，我等唯有竭尽忠心，以报知己之恩。"}
+{"id": 1486, "role": "谢之遥", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 4, "hit": 0, "response": "谢之遥：（轻叹一声，语气温和）那你要注意身体，别把自己累垮了，咱们这边项目还等着你来出主意呢。"}
+{"id": 2527, "role": "林萧", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 0, "hit": 1, "response": "林萧：（抿着嘴轻笑，眼神却有些躲闪）你又在说那些老掉牙的段子了，唐宛如才不会搭在你脖子上呢。"}
+{"id": 563, "role": "盛淮南", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 2, "hit": 1, "response": "盛淮南：（神情凝重，声音低沉）我一直在找机会，想好好弥补，只是……不知道你是否还愿意给我这个机会。"}
+{"id": 4000, "role": "华妃", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 0, "hit": 0, "response": "华妃：（冷哼一声，眼神凌厉如刀）你这笑容，倒比你那张嘴还毒。本宫倒要看看，你这副皮囊下，藏着多少算计。"}
+{"id": 1744, "role": "长卿", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 5, "hit": 0, "response": "长卿：（神色凝重，目光深远）紫萱，你我三世情缘，终究难逃因果。但若能护得天下苍生，纵使此生无悔，亦无憾矣。"}
+{"id": 4171, "role": "紫萱", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 0, "hit": 0, "response": "紫萱：（轻抚玉枝手背，神色温和）此乃女娲族血脉所赐，我虽非仙，却也略通此道。"}
+{"id": 4157, "role": "美杜莎女王", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 4, "hit": 0, "response": "美杜莎女王：（微微侧头，眼神中带着一丝关切与威严）说吧，我的夫君，只要是我能做的，绝不会让你失望。"}
+{"id": 2343, "role": "顾源", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 4, "hit": 0, "response": "顾源：（微微皱眉，语气低沉）我确实知道，但我不确定该不该告诉你。"}
+{"id": 2610, "role": "唐宛如", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 0, "hit": 0, "response": "唐宛如：（突然从背后跳出来，一把抢过顾里的手机，翻着看）哎哟喂，顾里你这手机是被停机了还是被我抢了？我刚才还看见你用它偷看林萧的奶呢！"}
+{"id": 2525, "role": "南湘", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 0, "hit": 0, "response": "南湘：（轻轻拿起卫海的手，放在自己胸口）你听，这是我的心跳，比你想象的要快很多。"}
+{"id": 6291, "role": "佟湘玉", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 3, "hit": 1, "response": "佟湘玉：（笑着摇头）那我这个大侠，这辈子犯的最大错误，就是娶了你。"}
+{"id": 8112, "role": "白展堂", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 3, "hit": 0, "response": "白展堂：（突然压低声音，神秘兮兮）要不这样，你写，我印，咱俩合伙，一人一半，这叫……（眨眨眼）天下无敌！"}
+{"id": 8620, "role": "郭芙蓉", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 1, "hit": 0, "response": "郭芙蓉：（突然压低声音）你是不是又偷吃了老白的私房钱？"}
+{"id": 9011, "role": "吕子乔", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 2, "hit": 1, "response": "吕子乔：（拍大腿大笑）哎呀妈呀，你这煮青蛙用得可真是时候，我都没反应过来你已经把她煮成青蛙了！"}
+{"id": 10547, "role": "吕秀才", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 1, "hit": 0, "response": "吕秀才：（揉着腿，苦笑）唉，这世道，连个腿都不得好歹，真是天生我才必有用，千金难买爷高兴。"}
+{"id": 9425, "role": "傅红雪", "method": "qwen3-8b hidden body", "cued_index": 4, "sel": 2, "hit": 0, "response": "傅红雪：（目光冷峻，声音低沉）你回来，是为着什么？我只问你，你可曾想过，我为何要为你赴死？"}
+{"id": 5891, "role": "孙悟空", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 2, "hit": 0, "response": "孙悟空：（抱拳一笑，眼中闪过一丝机警）俺老孙乃花果山齐天大圣，今日路过此地，见女菩萨神色慌张，想必是遇了蹊跷，可愿与俺说说？"}
+{"id": 5989, "role": "徐凤年", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 4, "hit": 0, "response": "徐凤年：（轻笑一声，眼神深邃）你我皆是北凉旧人，怎会不知我心中所想？江湖路远，何须多问。（缓缓举杯，仰头饮下）"}
+{"id": 234, "role": "祝无双", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 2, "hit": 1, "response": "祝无双：（低头沉思片刻，轻声）我怕选了，就再也回不去了。"}
+{"id": 10128, "role": "陆展博", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 3, "hit": 0, "response": "陆展博：（挠头）啊，我就是觉得你刚才说话的语气有点奇怪，所以……（不好意思地笑）是不是我多管闲事了？"}
+{"id": 7152, "role": "许沁", "method": "qwen3-8b hidden body", "cued_index": 5, "sel": 2, "hit": 0, "response": "许沁：（手指微微收紧，声音带着一丝不易察觉的颤抖）我只是觉得，这些东西放在这里，比放在车上更安全。"}
+{"id": 475, "role": "关宏宇", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 1, "hit": 1, "response": "关宏宇：（嘴角微扬，眼神却依旧锐利）那我问你，如果真有人想灭口吴征，他为什么偏偏选在支队里动手？难道不怕惊动你这个“牧羊犬”？"}
+{"id": 4069, "role": "萧炎", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 0, "hit": 0, "response": "萧炎：（目光坚定，语气沉稳而充满决心）雅妃姐，我萧炎此生，定不负你与海老的信任，也定不负这天地间的每一次磨砺！"}
+{"id": 9533, "role": "贾宝玉", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 0, "hit": 1, "response": "贾宝玉：（低头笑着看手中汗巾子）这汗巾子是宝姐姐给的，是月白色的，上面还绣着几朵梅花呢。"}
+{"id": 9079, "role": "花千骨", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 0, "hit": 1, "response": "花千骨：（低头看着自己的小手，声音轻柔）师父，我其实很喜欢和您在一起的，只是有时候觉得，山上的日子太安静了，我想看看外面的世界，想听听更多故事，想……想和更多人一起笑。"}
+{"id": 8924, "role": "陈美嘉", "method": "qwen3-8b hidden body", "cued_index": 1, "sel": 0, "hit": 0, "response": "陈美嘉：（凑近仔细看盆里的“花”，突然瞪大眼睛）天呐！关谷你这是在给北极熊种大蒜吗？这可不行！我得赶紧把它换成真正的花！"}
+{"id": 10762, "role": "杨过", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 0, "hit": 1, "response": "杨过：（目光阴沉，声音低沉）原来你早知她死讯，却偏要我来送她最后一程，是何用意？"}
+{"id": 3627, "role": "胡一菲", "method": "qwen3-8b hidden body", "cued_index": 5, "sel": 3, "hit": 0, "response": "胡一菲：（一把抓起吕子乔的衣领，眼神凌厉）你给我记住，我胡一菲这辈子只认一个张伟，就是那个能让我心甘情愿为你把孩子生下来的男人！"}
+{"id": 9240, "role": "梅长苏", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 2, "hit": 0, "response": "梅长苏：（神色如常，却在靖王话语落下的瞬间，眸光微闪，似有千言万语，却只轻声道）殿下，有些事，不必深究。"}
+{"id": 8794, "role": "关宏峰", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 1, "hit": 0, "response": "关宏峰：（目光沉静，声音低沉）我本该在场，却因为那该死的黑夜恐惧症，让一个无辜的人……（烟雾缭绕中，语气带着压抑的愤怒与自责）"}
+{"id": 10281, "role": "朱朝阳", "method": "qwen3-8b hidden body", "cued_index": 2, "sel": 1, "hit": 0, "response": "朱朝阳：（眼神骤冷，手指微微收紧）你确定不是误会？"}
+{"id": 2614, "role": "罗辑", "method": "qwen3-8b hidden body", "cued_index": 3, "sel": 4, "hit": 0, "response": "罗辑：（轻笑，目光落在烛光中的酒液上）这光，像极了当年在冥王星看的星群。"}
+{"id": 7199, "role": "宋焰", "method": "qwen3-8b hidden body", "cued_index": 0, "sel": 5, "hit": 0, "response": "宋焰：（皱眉看向她，语气低沉）演习也得按规矩来，你这样玩命，不怕出事？"}
+{"id": 5415, "role": "关谷神奇", "method": "qwen3-8b hidden body", "cued_index": 6, "sel": 3, "hit": 0, "response": "关谷神奇：（突然从后座探出头，一脸紧张）啊！我刚刚看到路边有卖章鱼烧的，你确定要带我去医院吗？我超级想吃！（内心OS：这可是我人生中最重要的时刻，章鱼烧都比不上啊！）"}

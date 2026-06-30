@@ -29,7 +29,8 @@ def body_text(f):
 
 insts = [json.loads(l) for l in open(INST)]
 N = len(insts)
-results = {}   # name -> {"R@1":x, "R@3":y}
+results = {}      # name -> {"R@1":x, "R@3":y}
+selections = {}   # name -> list over instances of top-3 index list (for downstream measurement)
 
 def record(name, picks_topk):
     # picks_topk: list over instances of (ranked index list)
@@ -37,6 +38,7 @@ def record(name, picks_topk):
     r3 = sum(1.0 for i, it in enumerate(insts) if it["cued_index"] in picks_topk[i][:3]) / N
     results[name] = {"R@1": round(r1, 3), "R@3": round(r3, 3),
                      "proj_adh_top1": round(r1*HIT1 + (1-r1)*MISS1, 3)}
+    selections[name] = [list(picks_topk[i][:3]) for i in range(N)]
     print(f"{name:26s} R@1={r1:.3f}  R@3={r3:.3f}  proj_adh={r1*HIT1+(1-r1)*MISS1:.3f}")
 
 # ---- random (analytic) ----
@@ -182,3 +184,15 @@ for name, v in sorted(results.items(), key=lambda kv: -(kv[1]["R@1"])):
     print(f"{name:26s} R@1={v['R@1']:.3f} R@3={v['R@3']:.3f} proj_adh={v['proj_adh_top1']}")
 json.dump(results, open(f"{BASE}/route_sweep.json","w"), ensure_ascii=False, indent=2)
 print("wrote route_sweep.json")
+
+# per-instance top-1/top-3 selections per method, so the projected methods can be MEASURED
+# (generate+score) downstream instead of projected. random is analytic -> no selections.
+with open(f"{BASE}/data/route_sweep_selections.jsonl", "w") as fo:
+    for name, picks in selections.items():
+        for i, it in enumerate(insts):
+            top3 = picks[i]
+            fo.write(json.dumps({"id": it["id"], "method": name, "cued_index": it["cued_index"],
+                                 "top1": top3[0], "top3": top3,
+                                 "hit1": int(top3[0] == it["cued_index"]),
+                                 "hit3": int(it["cued_index"] in top3)}, ensure_ascii=False) + "\n")
+print("wrote data/route_sweep_selections.jsonl")
