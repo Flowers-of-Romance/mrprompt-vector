@@ -40,7 +40,7 @@ STM を query に、各 facet の鍵で最近傍を引き、引けた1枚が cue
 
 ## 結果2：top-k は厚い鍵とセットでのみ「宛先指定」であり続ける
 
-recall@3（cued が top-3 に含まれる率）は 0.65–0.70 で、chance@3=0.418 を明確に上回る。引くのを3件に広げれば、cued は7割方含まれる。ここで k を広げたときの因果差（R@3 の real − wrong）を見ると、鍵の厚さが効く。
+recall@3（cued が top-3 に含まれる率）は 0.65–0.70 で、chance@3=0.418 を明確に上回る。引くのを3件に広げれば、cued は7割方含まれる。ここで k を広げたときの因果差（R@3 の real − wrong）を見ると、鍵の厚さで差が出る。
 
 | 鍵 | R@3 real − wrong |
 |---|---|
@@ -75,7 +75,7 @@ cue_only を top-3 にすると、cue が正しいかどうかがほとんど効
 
 当たれば oracle 近傍（7.6–7.7）、外せば base 近傍（7.2–7.3）。平均が allctx と並ぶのは、当たり 35–70%・外し 65–30% の加重がちょうど allctx に落ちるからである。律速は facet の価値ではなく routing の精度になる。top-1 で35%、top-3 で70%しか当てられない（同一キャラの facet が意味的に近い）ため、+0.45 の天井を取りに行けない。
 
-最後に、cue が宛先として因果的かを適合度レベルでも確認する。cue_only top-1 とその wrongkey（cued facet の鍵を隣の facet のもので上書き）を比べると、extcue − wrongkey = +0.23 ±0.14。in-context の mrprompt − wrongkey = +0.03（null）と対照的で、routing レベルでも real(0.30) > wrong(0.18)。弱いが、外付けにすると正しい鍵が正しい本体を引く向きに効く。
+最後に、cue が宛先として因果的かを適合度レベルでも確認する。cue_only top-1 とその wrongkey（cued facet の鍵を隣の facet のもので上書き）を比べると、extcue − wrongkey = +0.23 ±0.14。in-context の mrprompt − wrongkey = +0.03（null）と対照的で、routing レベルでも real(0.30) > wrong(0.18)。弱いが、外付けにすると正しい鍵が正しい本体を引く向きに働く。
 
 ## 結果4：routing 精度を上げると最終タスクはどこまで動くか
 
