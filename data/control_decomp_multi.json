@@ -1,0 +1,55 @@
+{
+  "n_instances": 100,
+  "samples_per_cell": {
+    "oracle_c": 5,
+    "allctx_c": 5,
+    "far_c": 5,
+    "oracle_dup": 5
+  },
+  "total_draws": {
+    "oracle_c": 500,
+    "oracle_dup": 500,
+    "allctx_c": 500,
+    "far_c": 500
+  },
+  "means": {
+    "oracle_c": 7.664,
+    "oracle_dup": 7.662,
+    "allctx_c": 7.392,
+    "far_c": 7.33
+  },
+  "contrasts": {
+    "oracle_minus_allctx": {
+      "a": "oracle_c",
+      "b": "allctx_c",
+      "n": 100,
+      "mean": 0.272,
+      "sem": 0.089,
+      "z": 3.06
+    },
+    "dup_minus_oracle": {
+      "a": "oracle_dup",
+      "b": "oracle_c",
+      "n": 100,
+      "mean": -0.002,
+      "sem": 0.06,
+      "z": -0.03
+    },
+    "allctx_minus_dup": {
+      "a": "allctx_c",
+      "b": "oracle_dup",
+      "n": 100,
+      "mean": -0.27,
+      "sem": 0.08,
+      "z": -3.36
+    },
+    "far_minus_allctx": {
+      "a": "far_c",
+      "b": "allctx_c",
+      "n": 100,
+      "mean": -0.062,
+      "sem": 0.094,
+      "z": -0.66
+    }
+  }
+}

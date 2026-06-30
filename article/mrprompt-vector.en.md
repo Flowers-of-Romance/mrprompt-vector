@@ -125,6 +125,28 @@ Raising routing accuracy moves the very bottleneck Result 3 identified: swapping
 
 Caveat: only the two LLM-router arms are measured; the eleven embedding methods remain a projection from body_top1's hit/miss. The GPT-4.1-mini judge bias is common to all conditions.
 
+## Result 5: decomposing the ceiling — selection value or context length?
+
+The +0.45 of Result 3 (oracle − allctx) is confounded. Removing the other six facets both drops the distractors and shortens the input; from oracle vs allctx alone the uplift cannot be attributed to selection (removing distractors) rather than to the shorter context. We add a control that matches length, facet count, and the cued facet's position, varying only the nature of the distractors — the rendering frame is fixed and only the facets that populate it change. Same 100 instances, mean of 5 samples per cell.
+
+| condition | facets | input tokens | adherence |
+|---|---|---|---|
+| oracle_c (cued facet only) | 1 | 1160 | 7.66 |
+| oracle_dup (cued facet repeated, no distractor) | 7 | 1924 | 7.66 |
+| allctx_c (all same-character facets, near distractors) | 7 | 1883 | 7.39 |
+| far_c (cued + other characters' facets, far distractors) | 7 | 1889 | 7.33 |
+
+oracle_dup is a distractor-free length control: the cued facet repeated to allctx's length. far_c keeps the cued facet in its slot and fills the rest with other characters' facets — same length, count, and position, varying only the distractors' semantic proximity.
+
+- The ceiling reproduces: oracle_c − allctx_c = +0.27 ±0.09 (z=3.1).
+- The length contribution is zero: oracle_dup − oracle_c = +0.00 ±0.06 (z=0.0). Padding to allctx's length without adding distractors does not change adherence.
+- Almost the entire ceiling is distractor cost: allctx_c − oracle_dup = −0.27 ±0.08 (z=3.4). Adding competing facets at fixed length drops adherence by the full ceiling.
+- Near vs far makes no difference: far_c − allctx_c = −0.06 ±0.09 (n.s.). Whether the distractors are the same character's near facets or other characters' far facets, adherence is the same. What matters is whether competing facets are present, not their semantic proximity.
+
+Decomposed: ceiling +0.27 = length +0.00 + distractor +0.27. The uplift is not a side effect of a shorter input; it is the effect of removing distractors (selection) itself.
+
+Note: this section re-estimates the same oracle − allctx with 5 samples per cell. The reliable ceiling is +0.27, smaller than the +0.45 reported single-sample in Results 3–4 (whose oracle included a high single draw). Direction and significance agree; read the other +0.45 figures as single-sample estimates.
+
 ## Takeaways
 
 1. In-context (mrprompt-repro): the cue is inert. With the body fully in context, it is bypassed.
@@ -135,7 +157,7 @@ Caveat: only the two LLM-router arms are measured; the eleven embedding methods 
 
 The resolution: adding a top-1 embedding retrieval only ties all-facets and routing is hard to get right, but the value of selection (+0.45) is real and there are two ways to it. (a) Make the router an LLM two-stage: narrowing to cue_situ's top-3 and letting the LLM pick one beat all-facets significantly and matched the oracle ceiling here, where an embedding top-1 does not reach. (b) Facets no longer fit in context, where all-facets is off the table and retrieval, however coarse, becomes necessary. The LLM two-stage costs ~8 s and ~$0.08 per call, so when facets fit, all-facets + CoT is still the cheaper default.
 
-Caveat: allctx (7 facets) has a longer input than body_top1/cuesitu_top3, so a length asymmetry could enter the quality gap. But oracle (1 facet) beats allctx (7 facets) by +0.45 with a shorter context, so length works against the shorter conditions; the ceiling is not explained by context length. Scoring is GPT-4.1-mini adherence and inherits judge bias. Single model (Qwen3-8B), 100 instances, Chinese characters — preliminary.
+Caveat: the ceiling (oracle − allctx) could be confounded with context length, but the length control in Result 5 (oracle_dup, distractor-free and matched to allctx's length) is indistinguishable from oracle (+0.00), so the ceiling is not explained by context length. The ceiling's magnitude differs between single-sample (+0.45) and 5-sample (+0.27) estimates; the single-sample figures in the body are somewhat inflated. Scoring is GPT-4.1-mini adherence and inherits judge bias. Single model (Qwen3-8B), 100 instances, Chinese characters — preliminary.
 
 ---
 

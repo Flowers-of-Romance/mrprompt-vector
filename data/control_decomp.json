@@ -1,0 +1,43 @@
+{
+  "n_instances": 100,
+  "means": {
+    "oracle_c": 7.81,
+    "oracle_dup": 7.66,
+    "allctx_c": 7.4,
+    "far_c": 7.19
+  },
+  "contrasts": {
+    "oracle_minus_allctx": {
+      "a": "oracle_c",
+      "b": "allctx_c",
+      "n": 100,
+      "mean": 0.41,
+      "sem": 0.133,
+      "z": 3.09
+    },
+    "dup_minus_oracle": {
+      "a": "oracle_dup",
+      "b": "oracle_c",
+      "n": 100,
+      "mean": -0.15,
+      "sem": 0.129,
+      "z": -1.16
+    },
+    "allctx_minus_dup": {
+      "a": "allctx_c",
+      "b": "oracle_dup",
+      "n": 100,
+      "mean": -0.26,
+      "sem": 0.151,
+      "z": -1.72
+    },
+    "far_minus_allctx": {
+      "a": "far_c",
+      "b": "allctx_c",
+      "n": 100,
+      "mean": -0.21,
+      "sem": 0.165,
+      "z": -1.27
+    }
+  }
+}
